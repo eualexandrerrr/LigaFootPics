@@ -1,3 +1,9 @@
 # Gerados fora do git: WebP da CDN (scripts/pics/buildCdn.py) e downloads brutos das fontes
 _cdn/
 _raw/
+
+_backup_*/
+_registro_*/
+_pendencias_*/
+_pendencias_*
+_registro_*
