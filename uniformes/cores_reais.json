@@ -1,0 +1,10954 @@
+{
+ "12dejunio_par": [
+  "#434370",
+  "#f7ca43"
+ ],
+ "22dejulio_equ": [
+  "#434343",
+  "#9d9d43"
+ ],
+ "25april_crn": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "2demayo_par": [
+  "#43439d",
+  "#9d9dca"
+ ],
+ "3denoviembre_par": [
+  "#ca4343",
+  "#164370"
+ ],
+ "Aarhus Fremad_din": [
+  "#ca9d43",
+  "#704316"
+ ],
+ "Arges_rom": [
+  "#9d709d",
+  "#431670"
+ ],
+ "BeitarJer_isr": [
+  "#caca9d",
+  "#9d9d70"
+ ],
+ "Bravo_elv": [
+  "#709d70",
+  "#167016"
+ ],
+ "Carroi_and": [
+  "#704370",
+  "#9d709d"
+ ],
+ "Chernomorets_bul": [
+  "#43709d",
+  "#169dca"
+ ],
+ "Coleraine_irn": [
+  "#43709d",
+  "#161670"
+ ],
+ "Drita_kos": [
+  "#434370",
+  "#70709d"
+ ],
+ "Dumbravita_rom": [
+  "#ca9d70",
+  "#167070"
+ ],
+ "Dunav Ruse_bul": [
+  "#709dca",
+  "#16709d"
+ ],
+ "Egnatia_alb": [
+  "#439d43",
+  "#164316"
+ ],
+ "First Vienna_aus": [
+  "#9d9d43",
+  "#16439d"
+ ],
+ "Fola_Lux": [
+  "#ca4343",
+  "#169df7"
+ ],
+ "Fredrikstad_nor": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "Gagra_geo": [
+  "#43709d",
+  "#164370"
+ ],
+ "Gandzasar_arm": [
+  "#9dca9d",
+  "#167043"
+ ],
+ "Gareji_geo": [
+  "#ca9d70",
+  "#434316"
+ ],
+ "Glentoran_irn": [
+  "#9dca70",
+  "#169d43"
+ ],
+ "Gori_geo": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "Helsingborg_sue": [
+  "#709dca",
+  "#f71616"
+ ],
+ "Hodd_nor": [
+  "#43709d",
+  "#164370"
+ ],
+ "Independienteridavia_arg": [
+  "#e30613",
+  "#ffffff"
+ ],
+ "Kapaz_aze": [
+  "#437070",
+  "#16439d"
+ ],
+ "Karmiotissa_chp": [
+  "#ca4343",
+  "#701616"
+ ],
+ "Komarno_slk": [
+  "#7043ca",
+  "#ca9dca"
+ ],
+ "Kongsvinger_nor": [
+  "#439dca",
+  "#164370"
+ ],
+ "Koper_elv": [
+  "#439d9d",
+  "#f7ca43"
+ ],
+ "Larne_irn": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "Linfield_irn": [
+  "#439d9d",
+  "#f7f79d"
+ ],
+ "LocoTbilisi_Geo": [
+  "#ca7043",
+  "#f71616"
+ ],
+ "MaccaiTel_isr": [
+  "#9d9d43",
+  "#164370"
+ ],
+ "Metaloglobus_rom": [
+  "#439d70",
+  "#9df716"
+ ],
+ "Michalovce_slk": [
+  "#434370",
+  "#16169d"
+ ],
+ "Pafos_chp": [
+  "#43709d",
+  "#164370"
+ ],
+ "Podbrezova_slk": [
+  "#ca4343",
+  "#431616"
+ ],
+ "Prishtina_kos": [
+  "#ca9d70",
+  "#16709d"
+ ],
+ "ProgrèsNiederkorn_lux": [
+  "#707043",
+  "#434316"
+ ],
+ "Qabala_aze": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "Radomlje_elv": [
+  "#caca43",
+  "#707043"
+ ],
+ "Rangers_and": [
+  "#9d7043",
+  "#434316"
+ ],
+ "Rapid Bucuresti_rom": [
+  "#704343",
+  "#9d7070"
+ ],
+ "Sabah_aze": [
+  "#43709d",
+  "#161670"
+ ],
+ "Samgurali_geo": [
+  "#439d70",
+  "#f77043"
+ ],
+ "SantaColoma_AND": [
+  "#43439d",
+  "#f71616"
+ ],
+ "Sioni_geo": [
+  "#437043",
+  "#709d70"
+ ],
+ "Skalica_slk": [
+  "#439d70",
+  "#167043"
+ ],
+ "Skenderbeu_alb": [
+  "#9d7043",
+  "#f71616"
+ ],
+ "Slatina_rom": [
+  "#43709d",
+  "#709dca"
+ ],
+ "Spartak Pleven_bul": [
+  "#709dca",
+  "#16709d"
+ ],
+ "Telavi_geo": [
+  "#709dca",
+  "#1643ca"
+ ],
+ "Trencin_slk": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "UPetange_Lux": [
+  "#caca43",
+  "#9d9d70"
+ ],
+ "Urartu_arm": [
+  "#ca7043",
+  "#431670"
+ ],
+ "Vllaznia_alb": [
+  "#43439d",
+  "#f7f716"
+ ],
+ "Voluntari_rom": [
+  "#43caca",
+  "#164370"
+ ],
+ "Zira_aze": [
+  "#709dca",
+  "#161643"
+ ],
+ "aalborg_din": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "aalesund_nor": [
+  "#9d7043",
+  "#1670ca"
+ ],
+ "abb_bol": [
+  "#709d70",
+  "#16709d"
+ ],
+ "abecat_go": [
+  "#ca7043",
+  "#f79d16"
+ ],
+ "abha_ara": [
+  "#43709d",
+  "#164370"
+ ],
+ "academia_ven": [
+  "#9d4343",
+  "#161670"
+ ],
+ "academiab_ven": [
+  "#70709d",
+  "#434370"
+ ],
+ "acao_mt": [
+  "#9d7070",
+  "#431616"
+ ],
+ "acoulu_fin": [
+  "#437070",
+  "#161643"
+ ],
+ "adanademirspor_tur": [
+  "#70709d",
+  "#161670"
+ ],
+ "adelaideunited_aus": [
+  "#43709d",
+  "#164370"
+ ],
+ "aeklarnaca_chp": [
+  "#709d43",
+  "#167043"
+ ],
+ "aellimassol_chp": [
+  "#9d7043",
+  "#161643"
+ ],
+ "afogadospe_bra": [
+  "#ca7070",
+  "#161643"
+ ],
+ "afumati_rom": [
+  "#7070ca",
+  "#16439d"
+ ],
+ "agmk_uzb": [
+  "#caca43",
+  "#434316"
+ ],
+ "agropecuario_arg": [
+  "#ca4343",
+  "#169d43"
+ ],
+ "aguasantasp_bra": [
+  "#ca9d43",
+  "#164370"
+ ],
+ "aguiapa_bra": [
+  "#ca4343",
+  "#43709d"
+ ],
+ "aik_sue": [
+  "#437043",
+  "#ca9d16"
+ ],
+ "aimorers_bra": [
+  "#70709d",
+  "#161670"
+ ],
+ "airdrieonians_esc": [
+  "#ca4343",
+  "#f77070"
+ ],
+ "ajaxB_hol": [
+  "#ca4343",
+  "#701616"
+ ],
+ "ajax_hol": [
+  "#d2122e",
+  "#ffffff"
+ ],
+ "akademisk_din": [
+  "#43ca70",
+  "#169d43"
+ ],
+ "al_adalah_ara": [
+  "#437070",
+  "#161643"
+ ],
+ "al_ahli_ara": [
+  "#0d50a0",
+  "#ffffff"
+ ],
+ "al_anwar_ara": [
+  "#437043",
+  "#caca70"
+ ],
+ "al_arabi_ara": [
+  "#ca4343",
+  "#ca9d9d"
+ ],
+ "al_batin_ara": [
+  "#434370",
+  "#9dcaf7"
+ ],
+ "al_bukiryah_ara": [
+  "#70439d",
+  "#431670"
+ ],
+ "al_diraiyah_ara": [
+  "#caca9d",
+  "#ffffff"
+ ],
+ "al_ettifaq_ara": [
+  "#437070",
+  "#164343"
+ ],
+ "al_faisaly_ara": [
+  "#9d7043",
+  "#1670f7"
+ ],
+ "al_fateh_ara": [
+  "#43ca43",
+  "#1616ca"
+ ],
+ "al_fayha_ara": [
+  "#43709d",
+  "#164370"
+ ],
+ "al_gharafa_sc": [
+  "#434370",
+  "#167043"
+ ],
+ "al_jabalain_ara": [
+  "#704343",
+  "#431616"
+ ],
+ "al_jubail_ara": [
+  "#caca43",
+  "#f7f716"
+ ],
+ "al_khaleej_ara": [
+  "#439d70",
+  "#167043"
+ ],
+ "al_kholood_ara": [
+  "#434343",
+  "#9d1616"
+ ],
+ "al_najma_ara": [
+  "#43ca70",
+  "#167043"
+ ],
+ "al_orubah_ara": [
+  "#caca43",
+  "#f7f716"
+ ],
+ "al_riyadh_ara": [
+  "#9d9d70",
+  "#f71616"
+ ],
+ "al_shabab_ara": [
+  "#9d4343",
+  "#ca9d70"
+ ],
+ "al_taawon_ara": [
+  "#707043",
+  "#161670"
+ ],
+ "al_ula_ara": [
+  "#434370",
+  "#431616"
+ ],
+ "al_zulfi_ara": [
+  "#439d70",
+  "#f79d43"
+ ],
+ "alahli_cat": [
+  "#0d50a0",
+  "#ffffff"
+ ],
+ "alahly_egi": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "alahlytripoli_lib": [
+  "#709d70",
+  "#167016"
+ ],
+ "alajuelense_crc": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "alansar_leb": [
+  "#70ca9d",
+  "#169d70"
+ ],
+ "alanyaspor_tur": [
+  "#439d43",
+  "#f77016"
+ ],
+ "alaves_esp": [
+  "#0761af",
+  "#ffffff"
+ ],
+ "albacete_esp": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "albion_uru": [
+  "#9d7043",
+  "#ca1643"
+ ],
+ "albirexniigata_jap": [
+  "#704343",
+  "#16439d"
+ ],
+ "alcorcon_esp": [
+  "#707043",
+  "#161670"
+ ],
+ "aldosivi_arg": [
+  "#43ca43",
+  "#167016"
+ ],
+ "alduhail_cat": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "alexandria_egi": [
+  "#43ca43",
+  "#167016"
+ ],
+ "alianza_col": [
+  "#43439d",
+  "#ca1616"
+ ],
+ "alianza_els": [
+  "#43709d",
+  "#f71616"
+ ],
+ "alianzaatletico_per": [
+  "#43439d",
+  "#161670"
+ ],
+ "alianzalima_per": [
+  "#434370",
+  "#161643"
+ ],
+ "alianzauniversidad_per": [
+  "#43439d",
+  "#f71616"
+ ],
+ "alittihad_ara": [
+  "#ca9d70",
+  "#f7ca9d"
+ ],
+ "almagro_arg": [
+  "#709dca",
+  "#ffffff"
+ ],
+ "almerrikh_sud": [
+  "#9d4343",
+  "#f7ca43"
+ ],
+ "almokawloon_egi": [
+  "#caca70",
+  "#1616ca"
+ ],
+ "alnasr_lib": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "alnassr_ara": [
+  "#f9dd16",
+  "#00529f"
+ ],
+ "alrayyan_cat": [
+  "#439d70",
+  "#f71616"
+ ],
+ "alsad_cat": [
+  "#707043",
+  "#9d9d70"
+ ],
+ "alsailiya_cat": [
+  "#43439d",
+  "#9d9d70"
+ ],
+ "alsaqer_ara": [
+  "#caca70",
+  "#701670"
+ ],
+ "alshorta_ira": [
+  "#ca9d43",
+  "#164316"
+ ],
+ "altos_pi": [
+  "#caca43",
+  "#f71616"
+ ],
+ "alverca_por": [
+  "#43439d",
+  "#f7f743"
+ ],
+ "alwahda_emi": [
+  "#caca70",
+  "#ca4316"
+ ],
+ "alwahda_sir": [
+  "#ca7070",
+  "#ca4316"
+ ],
+ "alwaysready_bol": [
+  "#437070",
+  "#f71616"
+ ],
+ "alwehdat_jor": [
+  "#ca9d70",
+  "#167043"
+ ],
+ "amazonas_am": [
+  "#f5c518",
+  "#006633"
+ ],
+ "amazulu_afs": [
+  "#43ca70",
+  "#169d43"
+ ],
+ "amed_tur": [
+  "#709d43",
+  "#167016"
+ ],
+ "america_mex": [
+  "#ca4343",
+  "#f77070"
+ ],
+ "americacali_col": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "americamg_bra": [
+  "#709d9d",
+  "#167043"
+ ],
+ "americarj": [
+  "#ca4370",
+  "#f79d9d"
+ ],
+ "americarn": [
+  "#ca7070",
+  "#f79d9d"
+ ],
+ "anagennisi_gre": [
+  "#437043",
+  "#f7f743"
+ ],
+ "anapolisgo_bra": [
+  "#434343",
+  "#ca1616"
+ ],
+ "anderlecht_bel": [
+  "#582c83",
+  "#ffffff"
+ ],
+ "angers_fr": [
+  "#ca9d70",
+  "#f7ca9d"
+ ],
+ "ankara_tur": [
+  "#9d709d",
+  "#701670"
+ ],
+ "annecy_fra": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "anorthosisfamag_cyp": [
+  "#709dca",
+  "#16439d"
+ ],
+ "ansan_cor": [
+  "#437070",
+  "#164343"
+ ],
+ "antigua_gua": [
+  "#43ca70",
+  "#9df7ca"
+ ],
+ "antofagasta_chi": [
+  "#439dca",
+  "#16439d"
+ ],
+ "anyang_cor": [
+  "#ca9d70",
+  "#161643"
+ ],
+ "anzoategui_ven": [
+  "#709dca",
+  "#437070"
+ ],
+ "aparecidense_go": [
+  "#ca9d70",
+  "#43439d"
+ ],
+ "apoel_chp": [
+  "#43439d",
+  "#9d9d70"
+ ],
+ "apollonlemesos_chp": [
+  "#4370ca",
+  "#9d9dca"
+ ],
+ "araguaina_to": [
+  "#434370",
+  "#169dca"
+ ],
+ "ararat_arm": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "araznakhchivan_aze": [
+  "#ca4343",
+  "#ca9d9d"
+ ],
+ "arbroath_esc": [
+  "#9d7070",
+  "#701643"
+ ],
+ "arcahaie_hai": [
+  "#434370",
+  "#161643"
+ ],
+ "ardakardzhali_bul": [
+  "#43709d",
+  "#9dcaf7"
+ ],
+ "arezzo_it": [
+  "#704343",
+  "#431616"
+ ],
+ "argentinojnrs_arg": [
+  "#43709d",
+  "#164370"
+ ],
+ "arislimassol_chp": [
+  "#439d43",
+  "#9dca9d"
+ ],
+ "arka_pol": [
+  "#43709d",
+  "#709d43"
+ ],
+ "arminia_ale": [
+  "#709dca",
+  "#16439d"
+ ],
+ "arouca_por": [
+  "#709dca",
+  "#16439d"
+ ],
+ "arsenal": [
+  "#ef0107",
+  "#ffffff"
+ ],
+ "arsenalsarandi_arg": [
+  "#ef0107",
+  "#ffffff"
+ ],
+ "arsenaltula_rus": [
+  "#ef0107",
+  "#ffffff"
+ ],
+ "artisbrno_cze": [
+  "#434370",
+  "#9d4343"
+ ],
+ "asotoho_con": [
+  "#434370",
+  "#164316"
+ ],
+ "assurn": [
+  "#43ca70",
+  "#167043"
+ ],
+ "astana_caz": [
+  "#9dca70",
+  "#169d9d"
+ ],
+ "asteras_gre": [
+  "#43709d",
+  "#161670"
+ ],
+ "asterasb_gre": [
+  "#43709d",
+  "#161670"
+ ],
+ "astonvilla_ing": [
+  "#95bfe5",
+  "#670e36"
+ ],
+ "atalanta_it": [
+  "#1d71b8",
+  "#000000"
+ ],
+ "atenas_uru": [
+  "#ca4343",
+  "#161643"
+ ],
+ "athenskallithea_gre": [
+  "#ca9d70",
+  "#ffffff"
+ ],
+ "athleticclub_mg": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "atlanta_arg": [
+  "#43439d",
+  "#f7ca16"
+ ],
+ "atlantaunited_eua": [
+  "#9d9d70",
+  "#707043"
+ ],
+ "atlante_mex": [
+  "#434343",
+  "#9d1616"
+ ],
+ "atlas_mex": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "atletico_equ": [
+  "#ca9d43",
+  "#161643"
+ ],
+ "atleticoalagoinhas_bra": [
+  "#9dcaca",
+  "#ca1616"
+ ],
+ "atleticoavila_ven": [
+  "#cb3524",
+  "#ffffff"
+ ],
+ "atleticobarinas_ven": [
+  "#434370",
+  "#161643"
+ ],
+ "atleticobilbao_esp": [
+  "#ee2523",
+  "#ffffff"
+ ],
+ "atleticocali_col": [
+  "#434343",
+  "#caca70"
+ ],
+ "atleticogo_bra": [
+  "#ca9d70",
+  "#f71616"
+ ],
+ "atleticolapaz_mex": [
+  "#ca9d70",
+  "#704343"
+ ],
+ "atleticomadrid_esp": [
+  "#cb3524",
+  "#ffffff"
+ ],
+ "atleticomg_bra": [
+  "#191919",
+  "#ffffff"
+ ],
+ "atleticoottawa_can": [
+  "#70709d",
+  "#164370"
+ ],
+ "atleticopb_bra": [
+  "#434370",
+  "#70709d"
+ ],
+ "atleticopr_bra": [
+  "#e30613",
+  "#ffffff"
+ ],
+ "atleticorafaela_arg": [
+  "#cb3524",
+  "#ffffff"
+ ],
+ "atleticosanluiz_mex": [
+  "#434370",
+  "#ca4316"
+ ],
+ "atleticotucaman_arg": [
+  "#439d9d",
+  "#9d9d43"
+ ],
+ "atromitos_gre": [
+  "#43709d",
+  "#164370"
+ ],
+ "auckland_aus": [
+  "#9d9d70",
+  "#1616ca"
+ ],
+ "auckland_nze": [
+  "#caca43",
+  "#161643"
+ ],
+ "aucklandfc_nze": [
+  "#9d9d70",
+  "#1616ca"
+ ],
+ "aucklandunited_nze": [
+  "#ca9d70",
+  "#434316"
+ ],
+ "audax_chi": [
+  "#ca4343",
+  "#1643ca"
+ ],
+ "aurora_bol": [
+  "#70caca",
+  "#caca43"
+ ],
+ "austriasalzburg_aut": [
+  "#704370",
+  "#9d709d"
+ ],
+ "austriawien_aut": [
+  "#70439d",
+  "#431670"
+ ],
+ "auxerre_fr": [
+  "#43709d",
+  "#9d9dca"
+ ],
+ "avai_bra": [
+  "#e30613",
+  "#ffffff"
+ ],
+ "avellino_it": [
+  "#9d7043",
+  "#167043"
+ ],
+ "avs_por": [
+  "#ca9d9d",
+  "#9d1616"
+ ],
+ "ayacucho_per": [
+  "#707043",
+  "#ca1616"
+ ],
+ "ayr_esc": [
+  "#43709d",
+  "#9d9dca"
+ ],
+ "azurizpr_bra": [
+  "#43709d",
+  "#f7ca70"
+ ],
+ "bacabal_ma": [
+  "#434370",
+  "#161643"
+ ],
+ "bacau_rom": [
+  "#9d9d43",
+  "#f71616"
+ ],
+ "backa_srb": [
+  "#439dca",
+  "#16709d"
+ ],
+ "bahia": [
+  "#1b75bb",
+  "#e30613"
+ ],
+ "bahiafeira_ba": [
+  "#ca4343",
+  "#434370"
+ ],
+ "balatown_wal": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "baltika_rus": [
+  "#709dca",
+  "#16439d"
+ ],
+ "bandirmaspor_tur": [
+  "#704343",
+  "#9d7070"
+ ],
+ "banfield_arg": [
+  "#caca9d",
+  "#169d43"
+ ],
+ "banikostrava_tch": [
+  "#ca9d43",
+  "#16709d"
+ ],
+ "banskabystrica_slk": [
+  "#43439d",
+  "#f71616"
+ ],
+ "barcelona_equ": [
+  "#a50044",
+  "#004d98"
+ ],
+ "barcelona_esp": [
+  "#a50044",
+  "#004d98"
+ ],
+ "barcelonaba_bra": [
+  "#a50044",
+  "#004d98"
+ ],
+ "bari_it": [
+  "#ca4343",
+  "#ca9d9d"
+ ],
+ "barquisimeto_ven": [
+  "#9d4343",
+  "#431616"
+ ],
+ "barra_sc": [
+  "#43709d",
+  "#9d9dca"
+ ],
+ "barrytown_wal": [
+  "#704343",
+  "#9d7070"
+ ],
+ "bateborisov_bie": [
+  "#43709d",
+  "#1643ca"
+ ],
+ "batman_tur": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "bayern_ale": [
+  "#dc052d",
+  "#ffffff"
+ ],
+ "bayolympic_nze": [
+  "#434370",
+  "#161643"
+ ],
+ "beerschot_bel": [
+  "#704370",
+  "#9d709d"
+ ],
+ "beijinggoan_chn": [
+  "#439d43",
+  "#164343"
+ ],
+ "bellinzona_sui": [
+  "#ca9d43",
+  "#9d1616"
+ ],
+ "benficaB_por": [
+  "#e00000",
+  "#ffffff"
+ ],
+ "benfica_por": [
+  "#e00000",
+  "#ffffff"
+ ],
+ "bengaluru_ind": [
+  "#43439d",
+  "#f7f716"
+ ],
+ "benjaminaceval_par": [
+  "#43709d",
+  "#164370"
+ ],
+ "beroe_bul": [
+  "#70ca9d",
+  "#169d43"
+ ],
+ "besiktas_tur": [
+  "#000000",
+  "#ffffff"
+ ],
+ "betim_mg": [
+  "#434370",
+  "#ca1643"
+ ],
+ "betis_esp": [
+  "#00954c",
+  "#ffffff"
+ ],
+ "bihor_rom": [
+  "#43709d",
+  "#161670"
+ ],
+ "bijelo_cro": [
+  "#9dca70",
+  "#169df7"
+ ],
+ "binacional_per": [
+  "#ca9d43",
+  "#9dcaf7"
+ ],
+ "birmingham_ing": [
+  "#43439d",
+  "#161670"
+ ],
+ "bkhacken_sue": [
+  "#9d9d43",
+  "#707016"
+ ],
+ "bkma_arm": [
+  "#ca9d43",
+  "#161670"
+ ],
+ "blaublitzakita_jap": [
+  "#9d9d43",
+  "#16709d"
+ ],
+ "blauweisslinz_aut": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "blooming_bol": [
+  "#4370ca",
+  "#caca43"
+ ],
+ "blumenau_sc": [
+  "#9d4370",
+  "#167043"
+ ],
+ "boavista_bra": [
+  "#0b2a5b",
+  "#ffffff"
+ ],
+ "bocajunior_se": [
+  "#43709d",
+  "#164370"
+ ],
+ "bocajuniors_arg": [
+  "#ca9d43",
+  "#161643"
+ ],
+ "bocajuniors_col": [
+  "#caca43",
+  "#161643"
+ ],
+ "bochum_ale": [
+  "#709dca",
+  "#16709d"
+ ],
+ "bodrum_tur": [
+  "#709d70",
+  "#167043"
+ ],
+ "bohemians_cze": [
+  "#439d43",
+  "#167016"
+ ],
+ "bolivar_bol": [
+  "#43709d",
+  "#709dca"
+ ],
+ "bolivar_ven": [
+  "#709dca",
+  "#caca43"
+ ],
+ "bologna_it": [
+  "#434370",
+  "#9d1616"
+ ],
+ "boluspor_tur": [
+  "#70ca9d",
+  "#f71616"
+ ],
+ "borac_bih": [
+  "#9d7043",
+  "#16709d"
+ ],
+ "bosch_hol": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "bostonriver_uru": [
+  "#ca4343",
+  "#167016"
+ ],
+ "botafogopb_bra": [
+  "#e30613",
+  "#191919"
+ ],
+ "botafogorj_bra": [
+  "#191919",
+  "#ffffff"
+ ],
+ "botafogosp_bra": [
+  "#ca7070",
+  "#f74343"
+ ],
+ "botev_bul": [
+  "#caca43",
+  "#167043"
+ ],
+ "botevvratsa_bul": [
+  "#709d70",
+  "#167043"
+ ],
+ "botosani_rom": [
+  "#43439d",
+  "#f71616"
+ ],
+ "bournemouth_ing": [
+  "#da291c",
+  "#000000"
+ ],
+ "boyaca_col": [
+  "#70709d",
+  "#161643"
+ ],
+ "bragantino_bra": [
+  "#434370",
+  "#ca1643"
+ ],
+ "bragantino_pa": [
+  "#ca4343",
+  "#161670"
+ ],
+ "brasilpelotas_bra": [
+  "#434343",
+  "#ca1616"
+ ],
+ "brentford_ing": [
+  "#e30613",
+  "#ffffff"
+ ],
+ "brest_fr": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "brighton_ing": [
+  "#0057b8",
+  "#ffffff"
+ ],
+ "brinjegrosuplje_elv": [
+  "#707043",
+  "#164370"
+ ],
+ "brugge_bel": [
+  "#ca9d43",
+  "#1670ca"
+ ],
+ "brukbet_pol": [
+  "#70709d",
+  "#164370"
+ ],
+ "bskbanjaluka_bos": [
+  "#70709d",
+  "#9d9dca"
+ ],
+ "budapest_hun": [
+  "#ca9d43",
+  "#f71616"
+ ],
+ "budapeste_hun": [
+  "#ca9d43",
+  "#f71616"
+ ],
+ "buducnost_mon": [
+  "#437043",
+  "#f7ca43"
+ ],
+ "burgos_esp": [
+  "#439d43",
+  "#434316"
+ ],
+ "buriram_tai": [
+  "#434370",
+  "#161643"
+ ],
+ "burnley_ing": [
+  "#9d709d",
+  "#701643"
+ ],
+ "bursaspor_tur": [
+  "#439d70",
+  "#167043"
+ ],
+ "busan_cor": [
+  "#caca70",
+  "#f74316"
+ ],
+ "cadiz_esp": [
+  "#43709d",
+  "#caca43"
+ ],
+ "cagliari_it": [
+  "#434370",
+  "#9d1616"
+ ],
+ "cajamarca_per": [
+  "#ca9d43",
+  "#16169d"
+ ],
+ "caldense_bra": [
+  "#709d9d",
+  "#167043"
+ ],
+ "camboriu_sc": [
+  "#43709d",
+  "#709dca"
+ ],
+ "campinensepb_bra": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "cancun_mex": [
+  "#43caca",
+  "#164343"
+ ],
+ "capital_df": [
+  "#439dca",
+  "#70caf7"
+ ],
+ "carabobo_ven": [
+  "#704343",
+  "#431616"
+ ],
+ "cardiff_ing": [
+  "#709dca",
+  "#16709d"
+ ],
+ "carlosmannucci_per": [
+  "#709dca",
+  "#1670ca"
+ ],
+ "carmelita_crc": [
+  "#ca4343",
+  "#169d43"
+ ],
+ "carrarese_it": [
+  "#439d9d",
+  "#1670ca"
+ ],
+ "cartagines_crc": [
+  "#70709d",
+  "#161670"
+ ],
+ "caruarucity_pe": [
+  "#43709d",
+  "#164370"
+ ],
+ "cascavel_pr": [
+  "#ca9d43",
+  "#431616"
+ ],
+ "cashmere_nze": [
+  "#437043",
+  "#701616"
+ ],
+ "castellon_esp": [
+  "#ca4343",
+  "#16439d"
+ ],
+ "catanzaro_it": [
+  "#9d7043",
+  "#ca1616"
+ ],
+ "caucaiace_bra": [
+  "#ca7070",
+  "#9d1616"
+ ],
+ "caxias": [
+  "#439dca",
+  "#9d1643"
+ ],
+ "caykur_tur": [
+  "#ca4343",
+  "#16169d"
+ ],
+ "ceara_bra": [
+  "#1b1b1b",
+  "#ffffff"
+ ],
+ "ceilandia_df": [
+  "#707043",
+  "#9d9d70"
+ ],
+ "celikzenica_bos": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "celje_elv": [
+  "#434370",
+  "#161643"
+ ],
+ "celtadevigoB_esp": [
+  "#ca9d43",
+  "#f71643"
+ ],
+ "celtadevigo_esp": [
+  "#ca9d43",
+  "#f71643"
+ ],
+ "central_bra": [
+  "#9d9d43",
+  "#164370"
+ ],
+ "centralcoast_aus": [
+  "#9d7070",
+  "#f71616"
+ ],
+ "centralespanol_uru": [
+  "#434370",
+  "#f74343"
+ ],
+ "ceoal_bra": [
+  "#437043",
+  "#ca1616"
+ ],
+ "ceramicacleopatra_egi": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "cerezoosaka_jap": [
+  "#43439d",
+  "#ca9d43"
+ ],
+ "cerrito_uru": [
+  "#439d43",
+  "#f7f716"
+ ],
+ "cerrolargo_uru": [
+  "#43709d",
+  "#9d9dca"
+ ],
+ "cesarvallejo_per": [
+  "#43709d",
+  "#164370"
+ ],
+ "cetatea_rom": [
+  "#434370",
+  "#161643"
+ ],
+ "cfrcluj_rom": [
+  "#9d4343",
+  "#ca7070"
+ ],
+ "chapecoense_bra": [
+  "#0d5ba8",
+  "#ffffff"
+ ],
+ "charlotte_eua": [
+  "#439dca",
+  "#16709d"
+ ],
+ "chelsea": [
+  "#034694",
+  "#ffffff"
+ ],
+ "chengdu_chn": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "cheonan_cor": [
+  "#709dca",
+  "#9dcaf7"
+ ],
+ "cherkasy_ucr": [
+  "#9d70ca",
+  "#161670"
+ ],
+ "chernomore_bul": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "chicagofire_eua": [
+  "#434370",
+  "#70caf7"
+ ],
+ "chindiatargoviste_rom": [
+  "#439dca",
+  "#ca1643"
+ ],
+ "chippa_afs": [
+  "#434370",
+  "#701616"
+ ],
+ "chornomorets_ucr": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "christchurch_nze": [
+  "#43439d",
+  "#161670"
+ ],
+ "chungbuk_cor": [
+  "#ca4343",
+  "#161643"
+ ],
+ "chungnam_cor": [
+  "#437070",
+  "#16439d"
+ ],
+ "cianorte_pr": [
+  "#434370",
+  "#161643"
+ ],
+ "cibalia_cro": [
+  "#9d7070",
+  "#ca9d9d"
+ ],
+ "cienciano_per": [
+  "#70709d",
+  "#161670"
+ ],
+ "cincinnati_eua": [
+  "#434370",
+  "#16169d"
+ ],
+ "clermont_fr": [
+  "#43709d",
+  "#ca1643"
+ ],
+ "clubdeportivoguabirá_bol": [
+  "#ca4343",
+  "#161670"
+ ],
+ "coastal_nze": [
+  "#439dca",
+  "#16709d"
+ ],
+ "colegiales_arg": [
+  "#434370",
+  "#16169d"
+ ],
+ "colocolo_chi": [
+  "#ca4343",
+  "#164370"
+ ],
+ "colon_arg": [
+  "#437043",
+  "#f71616"
+ ],
+ "coloradorapids_eua": [
+  "#9d4370",
+  "#9d1616"
+ ],
+ "comerciantes_per": [
+  "#43439d",
+  "#169d70"
+ ],
+ "comerciantesfc_per": [
+  "#70ca43",
+  "#1670ca"
+ ],
+ "como_it": [
+  "#709d9d",
+  "#164370"
+ ],
+ "concordiachiajna_rom": [
+  "#439d70",
+  "#9dca9d"
+ ],
+ "concordiasc_bra": [
+  "#439d70",
+  "#9dca9d"
+ ],
+ "confianca_se": [
+  "#43709d",
+  "#164370"
+ ],
+ "connahsquay_wal": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "consadolesapporo_jap": [
+  "#709d9d",
+  "#ca1616"
+ ],
+ "copenhague_din": [
+  "#43439d",
+  "#161670"
+ ],
+ "copiapo_chi": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "coquimbounido_chi": [
+  "#434343",
+  "#9d9d16"
+ ],
+ "cordino_ma": [
+  "#439d43",
+  "#caca16"
+ ],
+ "cordoba_esp": [
+  "#439d70",
+  "#167043"
+ ],
+ "corinthians_bra": [
+  "#f5f5f5",
+  "#111111"
+ ],
+ "coritiba_bra": [
+  "#0a5d2e",
+  "#ffffff"
+ ],
+ "correcaminos_mex": [
+  "#434370",
+  "#f74316"
+ ],
+ "corum_tur": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "coruripe_al": [
+  "#709dca",
+  "#439d16"
+ ],
+ "corvinulhunedoara_rom": [
+  "#43709d",
+  "#164343"
+ ],
+ "costadosol_moc": [
+  "#caca43",
+  "#169d43"
+ ],
+ "cotonsport_cam": [
+  "#caca9d",
+  "#f7f7ca"
+ ],
+ "coventry_ing": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "cracgo_bra": [
+  "#9d7043",
+  "#161643"
+ ],
+ "cracóvia_pl": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "craiova_rom": [
+  "#439dca",
+  "#16709d"
+ ],
+ "crato_ce": [
+  "#434370",
+  "#70709d"
+ ],
+ "crb_bra": [
+  "#e30613",
+  "#ffffff"
+ ],
+ "cremonese_it": [
+  "#ca9d43",
+  "#f71616"
+ ],
+ "criciuma_bra": [
+  "#e30613",
+  "#191919"
+ ],
+ "croatiazmijavci_cro": [
+  "#70709d",
+  "#f74343"
+ ],
+ "cruzazul_mex": [
+  "#70709d",
+  "#161670"
+ ],
+ "cruzeiro_al": [
+  "#0b3d91",
+  "#ffffff"
+ ],
+ "cruzeiro_bra": [
+  "#0b3d91",
+  "#ffffff"
+ ],
+ "crystalpalace_ing": [
+  "#1b458f",
+  "#c4122e"
+ ],
+ "csa_bra": [
+  "#70709d",
+  "#161670"
+ ],
+ "csasteaua_rom": [
+  "#709dca",
+  "#16439d"
+ ],
+ "cseal_bra": [
+  "#43ca70",
+  "#ca4316"
+ ],
+ "csikszeredamiercurea_rom": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "cskasofia_bul": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "cskasofiaii_bul": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "cukaricki_ser": [
+  "#caca43",
+  "#f7f79d"
+ ],
+ "cusco_per": [
+  "#ca9d43",
+  "#434316"
+ ],
+ "dacdunajskastreda_slk": [
+  "#ca9d43",
+  "#161670"
+ ],
+ "daegu_cor": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "daejon_cor": [
+  "#9d9d43",
+  "#164343"
+ ],
+ "dalian_chn": [
+  "#ca9d43",
+  "#f7f79d"
+ ],
+ "dalianyingbo_chn": [
+  "#43709d",
+  "#709dca"
+ ],
+ "damac_ara": [
+  "#ca9d43",
+  "#9d1616"
+ ],
+ "darmstadt98_ale": [
+  "#709dca",
+  "#16439d"
+ ],
+ "debrecen_hun": [
+  "#ca9d70",
+  "#ca1616"
+ ],
+ "decisaope_bra": [
+  "#43709d",
+  "#164370"
+ ],
+ "defensor_uru": [
+  "#70439d",
+  "#9d9dca"
+ ],
+ "degerforsif_sue": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "degraafschap_hol": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "delfin_equ": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "dender_bel": [
+  "#43439d",
+  "#f71616"
+ ],
+ "dep_guadalajara_mex": [
+  "#434370",
+  "#161643"
+ ],
+ "depcuenca_equ": [
+  "#9d7043",
+  "#167043"
+ ],
+ "deplaguaira_ven": [
+  "#434370",
+  "#161643"
+ ],
+ "depmiranda_ven": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "deportesconcepcion_chi": [
+  "#9d70ca",
+  "#70169d"
+ ],
+ "deportesiquique_chi": [
+  "#43caca",
+  "#169df7"
+ ],
+ "deportestolima_col": [
+  "#caca70",
+  "#9d1616"
+ ],
+ "deportivatarma_per": [
+  "#43caca",
+  "#f71616"
+ ],
+ "deportivocali_col": [
+  "#439d70",
+  "#167043"
+ ],
+ "deportivocapiata_par": [
+  "#43439d",
+  "#1616ca"
+ ],
+ "deportivolacoruna_esp": [
+  "#ca9d70",
+  "#701670"
+ ],
+ "deportivolsm_uru": [
+  "#709d9d",
+  "#169d70"
+ ],
+ "deportivomaipu_arg": [
+  "#70ca9d",
+  "#f71616"
+ ],
+ "deportivomoquegua_per": [
+  "#ca9d43",
+  "#434316"
+ ],
+ "deportivopasto_col": [
+  "#70709d",
+  "#161670"
+ ],
+ "deportivopereira_col": [
+  "#9d9d43",
+  "#f71616"
+ ],
+ "deportivosapri_cos": [
+  "#9d4370",
+  "#701643"
+ ],
+ "depsantodomingo_equ": [
+  "#439d70",
+  "#ca4316"
+ ],
+ "difaa_mar": [
+  "#704343",
+  "#431616"
+ ],
+ "dilagori_geo": [
+  "#ca4343",
+  "#43439d"
+ ],
+ "dinamoauto_mol": [
+  "#43439d",
+  "#9d9dca"
+ ],
+ "dinamobatumi_geo": [
+  "#4343ca",
+  "#9d9dca"
+ ],
+ "dinamocity_alb": [
+  "#9d9d43",
+  "#164370"
+ ],
+ "dinamokiev_ucr": [
+  "#709dca",
+  "#1670ca"
+ ],
+ "dinamominsk_bie": [
+  "#4370ca",
+  "#9dcaca"
+ ],
+ "dinamotbilisi_geo": [
+  "#434370",
+  "#161643"
+ ],
+ "dinamozagreb_cro": [
+  "#434370",
+  "#f71616"
+ ],
+ "dingnan_chn": [
+  "#caca70",
+  "#16439d"
+ ],
+ "djurgardens_sue": [
+  "#ca9d70",
+  "#f71616"
+ ],
+ "dobrich_bul": [
+  "#437070",
+  "#164316"
+ ],
+ "docemelba_bra": [
+  "#ca4343",
+  "#16169d"
+ ],
+ "domboscomt": [
+  "#43709d",
+  "#164370"
+ ],
+ "dorados_mex": [
+  "#707043",
+  "#ca9d16"
+ ],
+ "dordrecht_hol": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "dubrava_cro": [
+  "#ca4343",
+  "#701616"
+ ],
+ "dundalk_irl": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "dundee_esc": [
+  "#43709d",
+  "#161670"
+ ],
+ "dunedin_nze": [
+  "#709dca",
+  "#164343"
+ ],
+ "dunkerque_fra": [
+  "#707043",
+  "#161643"
+ ],
+ "durban_afs": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "dynamo_rus": [
+  "#9d9d70",
+  "#16439d"
+ ],
+ "dynamobrest_bie": [
+  "#70709d",
+  "#164370"
+ ],
+ "dynamopuerto_ven": [
+  "#439dca",
+  "#16caf7"
+ ],
+ "dynamos_zim": [
+  "#ca9d43",
+  "#431616"
+ ],
+ "east_nze": [
+  "#709dca",
+  "#16709d"
+ ],
+ "eastern_hk": [
+  "#ca4343",
+  "#164370"
+ ],
+ "eastern_nze": [
+  "#ca9d43",
+  "#431616"
+ ],
+ "ecarouge_sui": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "eindhoven_hol": [
+  "#709dca",
+  "#16439d"
+ ],
+ "eintrachtbraunschweig_ale": [
+  "#709dca",
+  "#16439d"
+ ],
+ "elbasani_alb": [
+  "#43439d",
+  "#f7f743"
+ ],
+ "elche_esp": [
+  "#00954c",
+  "#ffffff"
+ ],
+ "elgaish_egi": [
+  "#709d70",
+  "#167016"
+ ],
+ "elgouna_egi": [
+  "#ca9d43",
+  "#9d7016"
+ ],
+ "ellassyros_gre": [
+  "#43709d",
+  "#709dca"
+ ],
+ "elmasry_egi": [
+  "#437043",
+  "#709d70"
+ ],
+ "elversberg_ale": [
+  "#caca9d",
+  "#707043"
+ ],
+ "elvigia_ven": [
+  "#437043",
+  "#164316"
+ ],
+ "emelec_equ": [
+  "#709dca",
+  "#1643ca"
+ ],
+ "empoli_it": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "encarnacion_par": [
+  "#43439d",
+  "#ca1616"
+ ],
+ "engordany_and": [
+  "#9d9d70",
+  "#164370"
+ ],
+ "entella_it": [
+  "#709dca",
+  "#43709d"
+ ],
+ "epitsentr_ucr": [
+  "#9d709d",
+  "#161643"
+ ],
+ "esbjergfb_din": [
+  "#709dca",
+  "#16709d"
+ ],
+ "espanyol_esp": [
+  "#007fc8",
+  "#ffffff"
+ ],
+ "esportivors_bra": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "esteghlal_irn": [
+  "#439dca",
+  "#16709d"
+ ],
+ "estoril_por": [
+  "#709d70",
+  "#16439d"
+ ],
+ "estrelaamadora_por": [
+  "#f7c900",
+  "#003d7c"
+ ],
+ "estrelavermelha_ser": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "estudiantes_ar": [
+  "#9d9d70",
+  "#f71616"
+ ],
+ "estudiantesmerida_ven": [
+  "#434370",
+  "#70709d"
+ ],
+ "estudiantesrc_arg": [
+  "#439dca",
+  "#16709d"
+ ],
+ "etar_bul": [
+  "#704370",
+  "#161643"
+ ],
+ "eto_hun": [
+  "#ca9d70",
+  "#167043"
+ ],
+ "europa_gib": [
+  "#caca9d",
+  "#169d43"
+ ],
+ "everton_chi": [
+  "#003399",
+  "#ffffff"
+ ],
+ "everton_ing": [
+  "#003399",
+  "#ffffff"
+ ],
+ "excelsiorvirton_bel": [
+  "#439d70",
+  "#f71616"
+ ],
+ "eyupspor_tur": [
+  "#434370",
+  "#ca1616"
+ ],
+ "fagianookayama_jap": [
+  "#434370",
+  "#ca1643"
+ ],
+ "fakel_rus": [
+  "#43439d",
+  "#f71643"
+ ],
+ "falkenbergs_sue": [
+  "#43439d",
+  "#f7ca16"
+ ],
+ "famalicao_por": [
+  "#434343",
+  "#f7ca16"
+ ],
+ "far_mar": [
+  "#ca9d43",
+  "#169d43"
+ ],
+ "farulconstanta_rom": [
+  "#70709d",
+  "#434370"
+ ],
+ "fcandorra_esp": [
+  "#43439d",
+  "#161670"
+ ],
+ "fcdallas_eua": [
+  "#434370",
+  "#f71643"
+ ],
+ "fcemmen_hol": [
+  "#ca4343",
+  "#431616"
+ ],
+ "fcfredericia_din": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "fcgoa_ind": [
+  "#704343",
+  "#161643"
+ ],
+ "fcimabari_jap": [
+  "#434370",
+  "#161643"
+ ],
+ "fcliefering_aut": [
+  "#434370",
+  "#161643"
+ ],
+ "fcplatinum_zim": [
+  "#437070",
+  "#164343"
+ ],
+ "fcsochi_rus": [
+  "#437070",
+  "#161643"
+ ],
+ "fcwestern_nze": [
+  "#43709d",
+  "#ca9d43"
+ ],
+ "feira_ba": [
+  "#437070",
+  "#709d9d"
+ ],
+ "feirense_por": [
+  "#9d7043",
+  "#161670"
+ ],
+ "fencibles_nze": [
+  "#434370",
+  "#f71616"
+ ],
+ "fenerbahce_tur": [
+  "#ffed00",
+  "#00285e"
+ ],
+ "fenix_uru": [
+  "#704370",
+  "#9d9d70"
+ ],
+ "ferencvaros_hun": [
+  "#439d70",
+  "#167043"
+ ],
+ "ferrocarril_arg": [
+  "#437043",
+  "#164316"
+ ],
+ "ferrocarrilmidland_arg": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "ferroviaria_sp": [
+  "#9d4343",
+  "#ca9d9d"
+ ],
+ "feynoord_hol": [
+  "#da020e",
+  "#ffffff"
+ ],
+ "figueirense": [
+  "#9dcaca",
+  "#169d43"
+ ],
+ "fiorentina_it": [
+  "#592c82",
+  "#ffffff"
+ ],
+ "fkboraccacak_bos": [
+  "#caca9d",
+  "#ca4343"
+ ],
+ "fkkukesi_alb": [
+  "#43709d",
+  "#161670"
+ ],
+ "fknovipazar_ser": [
+  "#43709d",
+  "#164370"
+ ],
+ "fkzemun_ser": [
+  "#caca43",
+  "#16439d"
+ ],
+ "flarj": [
+  "#c52613",
+  "#ffffff"
+ ],
+ "floratallinn_est": [
+  "#439d70",
+  "#167016"
+ ],
+ "florestace": [
+  "#70ca43",
+  "#167043"
+ ],
+ "floriana_mta": [
+  "#9d9d43",
+  "#167043"
+ ],
+ "floridsdorferac_aut": [
+  "#709dca",
+  "#16439d"
+ ],
+ "fluminense_pi": [
+  "#7a1a3a",
+  "#008c46"
+ ],
+ "flurj": [
+  "#7a1a3a",
+  "#008c46"
+ ],
+ "foolad_ira": [
+  "#9d4343",
+  "#ca9d9d"
+ ],
+ "forcaeluzal_bra": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "forestrangers_zam": [
+  "#caca43",
+  "#9d9d16"
+ ],
+ "fortaleza": [
+  "#1a3e72",
+  "#d71920"
+ ],
+ "fortaleza_col": [
+  "#1a3e72",
+  "#d71920"
+ ],
+ "fortuna_ale": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "foshan_chn": [
+  "#709dca",
+  "#164370"
+ ],
+ "francsborains_bel": [
+  "#43ca70",
+  "#169d43"
+ ],
+ "fratria_bul": [
+  "#ca9d9d",
+  "#9d1616"
+ ],
+ "freiburg_ale": [
+  "#000000",
+  "#e60000"
+ ],
+ "freipaulistano_se": [
+  "#4343ca",
+  "#1616f7"
+ ],
+ "frosinone_it": [
+  "#437070",
+  "#16439d"
+ ],
+ "fujiedamyfc_jap": [
+  "#9d709d",
+  "#704370"
+ ],
+ "fulham": [
+  "#000000",
+  "#ffffff"
+ ],
+ "fusrabat_mar": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "futures_bel": [
+  "#43439d",
+  "#ca9d43"
+ ],
+ "galatasaray_tur": [
+  "#a90432",
+  "#fdb912"
+ ],
+ "galaxy_van": [
+  "#434370",
+  "#161643"
+ ],
+ "galvez_ac": [
+  "#43439d",
+  "#ca1616"
+ ],
+ "gama_df": [
+  "#9d4343",
+  "#169df7"
+ ],
+ "gambaosaka_jap": [
+  "#43709d",
+  "#161670"
+ ],
+ "gangwon_cor": [
+  "#434343",
+  "#f79d16"
+ ],
+ "gas_rr": [
+  "#709dca",
+  "#16439d"
+ ],
+ "gaviaokyikateje_pa": [
+  "#ca4343",
+  "#9d7070"
+ ],
+ "genclerbirligi_tur": [
+  "#9d7043",
+  "#ca1616"
+ ],
+ "generalcaballero_par": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "genk_bel": [
+  "#43709d",
+  "#164370"
+ ],
+ "genoa_it": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "gent_bel": [
+  "#709dca",
+  "#16439d"
+ ],
+ "getafe_esp": [
+  "#005999",
+  "#ffffff"
+ ],
+ "gifsundsvall_sue": [
+  "#caca70",
+  "#1670ca"
+ ],
+ "gilvicente_por": [
+  "#434370",
+  "#16709d"
+ ],
+ "gimcheonsangmu_cor": [
+  "#ca9d70",
+  "#161643"
+ ],
+ "gimhae_cor": [
+  "#9d4343",
+  "#9d9d43"
+ ],
+ "gimnasialp_arg": [
+  "#70709d",
+  "#161670"
+ ],
+ "gimnasiayesgrima_arg": [
+  "#439dca",
+  "#164343"
+ ],
+ "gimnastic_esp": [
+  "#ca4343",
+  "#167043"
+ ],
+ "gimpo_cor": [
+  "#ca9d70",
+  "#164343"
+ ],
+ "girona_esp": [
+  "#cd2534",
+  "#ffffff"
+ ],
+ "gjilani_kos": [
+  "#caca70",
+  "#ca1616"
+ ],
+ "glasgowceltic_esc": [
+  "#70ca9d",
+  "#169d43"
+ ],
+ "gloriabistrita_rom": [
+  "#ca4343",
+  "#431616"
+ ],
+ "gnistan_fin": [
+  "#caca43",
+  "#16709d"
+ ],
+ "godoycruz_ar": [
+  "#43709d",
+  "#709dca"
+ ],
+ "goianesiago_bra": [
+  "#434370",
+  "#161643"
+ ],
+ "goias": [
+  "#709d9d",
+  "#167043"
+ ],
+ "goiatubago_bra": [
+  "#70709d",
+  "#434370"
+ ],
+ "gorica_cro": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "gornikzabrze_pol": [
+  "#7070ca",
+  "#16439d"
+ ],
+ "gotenborg_sue": [
+  "#437070",
+  "#16439d"
+ ],
+ "grasshopper_sui": [
+  "#709dca",
+  "#16709d"
+ ],
+ "gremio": [
+  "#0d80bf",
+  "#ffffff"
+ ],
+ "gremioanapolisgo_bra": [
+  "#439dca",
+  "#9dcaca"
+ ],
+ "gremiosorriso_mt": [
+  "#43ca70",
+  "#164370"
+ ],
+ "grenoble_fra": [
+  "#709dca",
+  "#16439d"
+ ],
+ "greuther_ale": [
+  "#9dca9d",
+  "#169d43"
+ ],
+ "groningen_hol": [
+  "#439d70",
+  "#167043"
+ ],
+ "guairena_par": [
+  "#43caca",
+  "#9dcaf7"
+ ],
+ "gualaceo_equ": [
+  "#439d43",
+  "#16439d"
+ ],
+ "guangdonggz_chn": [
+  "#caca43",
+  "#434316"
+ ],
+ "guangxi_chn": [
+  "#70caca",
+  "#f7ca16"
+ ],
+ "guapore_ro": [
+  "#439d70",
+  "#f77016"
+ ],
+ "guarani_par": [
+  "#006633",
+  "#ffffff"
+ ],
+ "guaranisp_bra": [
+  "#006633",
+  "#ffffff"
+ ],
+ "guaranyrs_bra": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "guayaquil_equ": [
+  "#434370",
+  "#70caf7"
+ ],
+ "guemes_arg": [
+  "#434370",
+  "#f71616"
+ ],
+ "gvsanjose_bol": [
+  "#70709d",
+  "#164343"
+ ],
+ "gwangju_cor": [
+  "#ca4343",
+  "#f79d43"
+ ],
+ "hajduk_cro": [
+  "#43439d",
+  "#f71616"
+ ],
+ "hamarkameratene_nor": [
+  "#70ca9d",
+  "#169d43"
+ ],
+ "hamburgo_ale": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "hamilton_nze": [
+  "#70709d",
+  "#164370"
+ ],
+ "hannover96_ale": [
+  "#9dca9d",
+  "#169d43"
+ ],
+ "hanoi_vie": [
+  "#43439d",
+  "#161670"
+ ],
+ "hapoeljerusalem_isr": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "hapoelpetahtikva_isr": [
+  "#9d7070",
+  "#ca9d9d"
+ ],
+ "hapoeltelaviv_isr": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "haraselhodoud_egi": [
+  "#9d4343",
+  "#ca9d9d"
+ ],
+ "hassania_mar": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "hatayspor_tur": [
+  "#9d7070",
+  "#701616"
+ ],
+ "hbkoge_din": [
+  "#439dca",
+  "#16709d"
+ ],
+ "hbtorshavn_fro": [
+  "#ca9d70",
+  "#f71616"
+ ],
+ "hearts_esc": [
+  "#9d4343",
+  "#16439d"
+ ],
+ "hebar_bul": [
+  "#ca9d43",
+  "#169d43"
+ ],
+ "heerenveen_hol": [
+  "#709dca",
+  "#16439d"
+ ],
+ "heidenheim_ale": [
+  "#43709d",
+  "#164370"
+ ],
+ "helsingin_fin": [
+  "#709dca",
+  "#16439d"
+ ],
+ "henanjianye_chn": [
+  "#ca4343",
+  "#167043"
+ ],
+ "heracles_hol": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "hercilioluzsc_bra": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "hermanoscolmenarez_ven": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "herthaberlim_ale": [
+  "#709dca",
+  "#16439d"
+ ],
+ "herthawels_aut": [
+  "#ca9d70",
+  "#16709d"
+ ],
+ "hibernian_esc": [
+  "#439d70",
+  "#167043"
+ ],
+ "hibernians_mta": [
+  "#70ca9d",
+  "#169d70"
+ ],
+ "hoffebheim_ale": [
+  "#1961b5",
+  "#ffffff"
+ ],
+ "holsteinkiel_ale": [
+  "#43709d",
+  "#164370"
+ ],
+ "honka_fin": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "hradeckralove_tch": [
+  "#caca70",
+  "#434316"
+ ],
+ "hrvace_cro": [
+  "#9d9d70",
+  "#161670"
+ ],
+ "huesca_esp": [
+  "#434370",
+  "#ca1616"
+ ],
+ "humaita_ac": [
+  "#43439d",
+  "#ca1616"
+ ],
+ "huracan_arg": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "hwaseong_cor": [
+  "#434370",
+  "#f74316"
+ ],
+ "iape_ma": [
+  "#43439d",
+  "#161670"
+ ],
+ "ibiza_esp": [
+  "#439dca",
+  "#70caf7"
+ ],
+ "icasa_ce": [
+  "#709d70",
+  "#167043"
+ ],
+ "ifbrommapojkarna_sue": [
+  "#9d9d43",
+  "#164316"
+ ],
+ "ifknorrkoping_sue": [
+  "#9d7043",
+  "#16439d"
+ ],
+ "ifkvarnamo_sue": [
+  "#43439d",
+  "#7070ca"
+ ],
+ "igdir_tur": [
+  "#439d70",
+  "#167043"
+ ],
+ "iguatu_ce": [
+  "#4343ca",
+  "#ca4343"
+ ],
+ "ikbrage_sue": [
+  "#439d70",
+  "#167043"
+ ],
+ "iksirius_sue": [
+  "#709dca",
+  "#16439d"
+ ],
+ "ikstart_nor": [
+  "#4370ca",
+  "#9dcaf7"
+ ],
+ "imishli_aze": [
+  "#434343",
+  "#ca9d70"
+ ],
+ "imtbelgrad_ser": [
+  "#ca4343",
+  "#ca9d9d"
+ ],
+ "incheon_cor": [
+  "#43709d",
+  "#f7ca16"
+ ],
+ "independencia_ac": [
+  "#ca7070",
+  "#167043"
+ ],
+ "independente_pr": [
+  "#43439d",
+  "#ffffff"
+ ],
+ "independentepa": [
+  "#434370",
+  "#161643"
+ ],
+ "independiente_arg": [
+  "#e30613",
+  "#ffffff"
+ ],
+ "independiente_equ": [
+  "#e30613",
+  "#ffffff"
+ ],
+ "independiente_par": [
+  "#e30613",
+  "#ffffff"
+ ],
+ "independientejnrs_equ": [
+  "#e30613",
+  "#ffffff"
+ ],
+ "indepmedellin_col": [
+  "#e30613",
+  "#ffffff"
+ ],
+ "indeppetro_ba_bol": [
+  "#e30613",
+  "#ffffff"
+ ],
+ "indepyumbo_col": [
+  "#e30613",
+  "#ffffff"
+ ],
+ "inhumas_go": [
+  "#9d4343",
+  "#701616"
+ ],
+ "instituto_arg": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "inter_and": [
+  "#709dca",
+  "#16439d"
+ ],
+ "inter_crc": [
+  "#ca9d70",
+  "#f7ca9d"
+ ],
+ "inter_it": [
+  "#4370ca",
+  "#16169d"
+ ],
+ "intermiami_eua": [
+  "#ca9d9d",
+  "#f7caca"
+ ],
+ "internacional_bra": [
+  "#e5050f",
+  "#ffffff"
+ ],
+ "interpalmira_col": [
+  "#e5050f",
+  "#ffffff"
+ ],
+ "intertoronto_can": [
+  "#437070",
+  "#161643"
+ ],
+ "interturku_fin": [
+  "#ca70ca",
+  "#43169d"
+ ],
+ "ipswich_ing": [
+  "#9d9dca",
+  "#16439d"
+ ],
+ "iraklis_gre": [
+  "#709d9d",
+  "#161670"
+ ],
+ "iranduba_am": [
+  "#709d70",
+  "#167043"
+ ],
+ "ironitiberias_isr": [
+  "#43709d",
+  "#169dca"
+ ],
+ "iskra_mon": [
+  "#ca7043",
+  "#9d4316"
+ ],
+ "istiklol_taj": [
+  "#ca4343",
+  "#169d43"
+ ],
+ "istra_cro": [
+  "#439d43",
+  "#9d9d16"
+ ],
+ "itabaiana_se": [
+  "#43439d",
+  "#ca4316"
+ ],
+ "ituano_sp": [
+  "#e30613",
+  "#ffffff"
+ ],
+ "ivinhema_ms": [
+  "#4370ca",
+  "#9d9dca"
+ ],
+ "iwakifc_jap": [
+  "#9d4343",
+  "#431643"
+ ],
+ "jacuipense_bra": [
+  "#9d7070",
+  "#701616"
+ ],
+ "jacyobaal_bra": [
+  "#43439d",
+  "#161670"
+ ],
+ "jadran_cro": [
+  "#9d9dca",
+  "#704316"
+ ],
+ "jaguares_col": [
+  "#70caca",
+  "#169d43"
+ ],
+ "jaro_fin": [
+  "#439d43",
+  "#f74343"
+ ],
+ "jataiense_go": [
+  "#437043",
+  "#164316"
+ ],
+ "jeddah_ara": [
+  "#ca9d70",
+  "#164370"
+ ],
+ "jefunitedchiba_jap": [
+  "#439d70",
+  "#167016"
+ ],
+ "jeju_cor": [
+  "#70709d",
+  "#161670"
+ ],
+ "jeonbuk_cor": [
+  "#437070",
+  "#709d9d"
+ ],
+ "johordarul_mal": [
+  "#70709d",
+  "#161670"
+ ],
+ "joinville": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "jonggenk_bel": [
+  "#709dca",
+  "#16439d"
+ ],
+ "jongkaagent_bel": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "jorgewil_bol": [
+  "#434343",
+  "#f71616"
+ ],
+ "jskabylie_arg": [
+  "#439d43",
+  "#caca16"
+ ],
+ "juazeirense_ba": [
+  "#ca4343",
+  "#169d43"
+ ],
+ "jubiloiwata_jap": [
+  "#709dca",
+  "#43709d"
+ ],
+ "junior_col": [
+  "#ca4343",
+  "#16439d"
+ ],
+ "juventud_uru": [
+  "#ca9d43",
+  "#164370"
+ ],
+ "juventude": [
+  "#0a5d2e",
+  "#ffffff"
+ ],
+ "juventudema_bra": [
+  "#0a5d2e",
+  "#ffffff"
+ ],
+ "juventus_it": [
+  "#f5f5f5",
+  "#000000"
+ ],
+ "juventussc_bra": [
+  "#f5f5f5",
+  "#000000"
+ ],
+ "juvestabia_it": [
+  "#9d9d43",
+  "#164370"
+ ],
+ "kaiserchiefs_afs": [
+  "#e30613",
+  "#ffffff"
+ ],
+ "kalamata_gre": [
+  "#ca9d70",
+  "#434316"
+ ],
+ "kalmarff_sue": [
+  "#ca9d43",
+  "#ca1643"
+ ],
+ "kamaz_rus": [
+  "#43709d",
+  "#164370"
+ ],
+ "kapfenberger_aut": [
+  "#ca7070",
+  "#f71616"
+ ],
+ "karlovac_cro": [
+  "#9d9dca",
+  "#16439d"
+ ],
+ "karlsruher_ale": [
+  "#709dca",
+  "#16439d"
+ ],
+ "karpaty_ucr": [
+  "#439d70",
+  "#167043"
+ ],
+ "kashimaantlers_jap": [
+  "#ca7070",
+  "#ca1643"
+ ],
+ "kasimpasa_tur": [
+  "#70709d",
+  "#164370"
+ ],
+ "katallertoyama_jap": [
+  "#43709d",
+  "#ca7070"
+ ],
+ "katowice_pol": [
+  "#ca9d70",
+  "#167043"
+ ],
+ "kawasakifrontale_jap": [
+  "#ca9d70",
+  "#169df7"
+ ],
+ "kayserispor_tur": [
+  "#434370",
+  "#9d1616"
+ ],
+ "kfteuta_alb": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "kftirana_alb": [
+  "#43439d",
+  "#ca9d43"
+ ],
+ "kifisia_gre": [
+  "#434370",
+  "#70709d"
+ ],
+ "kilmarnock_esc": [
+  "#9d7043",
+  "#164370"
+ ],
+ "kiryatshmona_isr": [
+  "#434370",
+  "#70709d"
+ ],
+ "kisvárda_hun": [
+  "#ca9d70",
+  "#f71616"
+ ],
+ "kitchee_hkg": [
+  "#434370",
+  "#f79d16"
+ ],
+ "klaksvik_fro": [
+  "#43439d",
+  "#161670"
+ ],
+ "kocaelispor_tur": [
+  "#439d70",
+  "#167016"
+ ],
+ "koldingif_din": [
+  "#709dca",
+  "#16439d"
+ ],
+ "konyaspor_tur": [
+  "#439d70",
+  "#167043"
+ ],
+ "kortrijk_bel": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "krasnodar_rus": [
+  "#439d70",
+  "#167043"
+ ],
+ "kristiansund_nor": [
+  "#434370",
+  "#161643"
+ ],
+ "krreykjavic_isl": [
+  "#ca7043",
+  "#704316"
+ ],
+ "krylyasovetov_rus": [
+  "#9d9dca",
+  "#16439d"
+ ],
+ "kryvbas_ucr": [
+  "#704343",
+  "#f71616"
+ ],
+ "kudrivka_ucr": [
+  "#43709d",
+  "#709dca"
+ ],
+ "kustosija_cro": [
+  "#9d9d70",
+  "#707043"
+ ],
+ "kyotosanga_jap": [
+  "#704343",
+  "#f71643"
+ ],
+ "laequidad_col": [
+  "#e5050f",
+  "#ffffff"
+ ],
+ "lafiorita_smr": [
+  "#9d4343",
+  "#434316"
+ ],
+ "lagalaxy_eua": [
+  "#434370",
+  "#161643"
+ ],
+ "lagarto_se": [
+  "#ca9d43",
+  "#431670"
+ ],
+ "laguna_rn": [
+  "#70ca9d",
+  "#167043"
+ ],
+ "lahabana_cub": [
+  "#ca9d70",
+  "#161643"
+ ],
+ "laluz_uru": [
+  "#709d70",
+  "#167043"
+ ],
+ "lamassana_and": [
+  "#9d7070",
+  "#1616ca"
+ ],
+ "lamontville_afs": [
+  "#709d70",
+  "#167043"
+ ],
+ "lanus_arg": [
+  "#9d7070",
+  "#701643"
+ ],
+ "larissa_gre": [
+  "#9d7070",
+  "#701616"
+ ],
+ "laval_can": [
+  "#70439d",
+  "#431670"
+ ],
+ "ldu_equ": [
+  "#434370",
+  "#ca1616"
+ ],
+ "lduportoviejo_equ": [
+  "#70ca9d",
+  "#169d43"
+ ],
+ "lecce_it": [
+  "#ca9d70",
+  "#161643"
+ ],
+ "lechia_pol": [
+  "#ca4343",
+  "#167043"
+ ],
+ "lechpoznan_pol": [
+  "#43709d",
+  "#164370"
+ ],
+ "leedsunited_ing": [
+  "#caca43",
+  "#16709d"
+ ],
+ "lehavre_fr": [
+  "#ca9d70",
+  "#164343"
+ ],
+ "leicestercity_ing": [
+  "#43709d",
+  "#f79d16"
+ ],
+ "leipzig_ale": [
+  "#dd0741",
+  "#001f47"
+ ],
+ "leiria_por": [
+  "#ca7043",
+  "#f71616"
+ ],
+ "leningradets_rus": [
+  "#434343",
+  "#f71616"
+ ],
+ "lens_fr": [
+  "#ca4343",
+  "#434316"
+ ],
+ "leon_mex": [
+  "#439d43",
+  "#caca16"
+ ],
+ "leones_col": [
+  "#caca43",
+  "#167016"
+ ],
+ "leones_mex": [
+  "#9d9d43",
+  "#707016"
+ ],
+ "levadia_est": [
+  "#ca9d43",
+  "#169d70"
+ ],
+ "levadiakos_gre": [
+  "#439d70",
+  "#164370"
+ ],
+ "levante_esp": [
+  "#0a3f8f",
+  "#d91a21"
+ ],
+ "lf-team-espanha-ac-torrellano": [
+  "#70709d",
+  "#f7ca16"
+ ],
+ "lf-team-espanha-ad-san-clemente": [
+  "#43439d",
+  "#161670"
+ ],
+ "lf-team-espanha-ad-san-juan": [
+  "#437043",
+  "#161670"
+ ],
+ "lf-team-espanha-agoncillo": [
+  "#ca9d70",
+  "#1643ca"
+ ],
+ "lf-team-espanha-aguilas-fc-b": [
+  "#ca7043",
+  "#16439d"
+ ],
+ "lf-team-espanha-alondras-cf": [
+  "#43709d",
+  "#164370"
+ ],
+ "lf-team-espanha-amurrio": [
+  "#43709d",
+  "#161643"
+ ],
+ "lf-team-espanha-antela-fc": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "lf-team-espanha-arandina": [
+  "#43439d",
+  "#f7f716"
+ ],
+ "lf-team-espanha-aretxabaleta": [
+  "#caca70",
+  "#1670ca"
+ ],
+ "lf-team-espanha-astur": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "lf-team-espanha-at-saguntino": [
+  "#9d4343",
+  "#f7ca70"
+ ],
+ "lf-team-espanha-atl-bembibre": [
+  "#ca4343",
+  "#431616"
+ ],
+ "lf-team-espanha-atl-tic-lleida": [
+  "#437070",
+  "#161643"
+ ],
+ "lf-team-espanha-atl-tico-mineros": [
+  "#9d9d70",
+  "#ca4316"
+ ],
+ "lf-team-espanha-atl-tico-monz-n": [
+  "#709dca",
+  "#16439d"
+ ],
+ "lf-team-espanha-atl-tico-onubense": [
+  "#43709d",
+  "#164370"
+ ],
+ "lf-team-espanha-atl-tico-porcuna": [
+  "#43439d",
+  "#1670ca"
+ ],
+ "lf-team-espanha-badalona": [
+  "#caca43",
+  "#1616ca"
+ ],
+ "lf-team-espanha-barco": [
+  "#7070ca",
+  "#16169d"
+ ],
+ "lf-team-espanha-barquere-o": [
+  "#9d7043",
+  "#164370"
+ ],
+ "lf-team-espanha-berganti-os-fc": [
+  "#439d43",
+  "#16439d"
+ ],
+ "lf-team-espanha-beti-kozkor": [
+  "#439d43",
+  "#167016"
+ ],
+ "lf-team-espanha-beti-onak": [
+  "#ca9d70",
+  "#169dca"
+ ],
+ "lf-team-espanha-binissalem": [
+  "#ca9d70",
+  "#164370"
+ ],
+ "lf-team-espanha-brea": [
+  "#704343",
+  "#16439d"
+ ],
+ "lf-team-espanha-bu-ol": [
+  "#4370ca",
+  "#f71616"
+ ],
+ "lf-team-espanha-bullas-deportivo": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "lf-team-espanha-burgos-cf-b": [
+  "#439d43",
+  "#434316"
+ ],
+ "lf-team-espanha-c-rdoba-cf-b": [
+  "#439d70",
+  "#167043"
+ ],
+ "lf-team-espanha-cabeza-del-buey": [
+  "#43439d",
+  "#169d70"
+ ],
+ "lf-team-espanha-cala-pozuelo": [
+  "#ca4343",
+  "#161643"
+ ],
+ "lf-team-espanha-cardassar": [
+  "#ca9d70",
+  "#164343"
+ ],
+ "lf-team-espanha-casalarreina": [
+  "#caca43",
+  "#434316"
+ ],
+ "lf-team-espanha-castro": [
+  "#70709d",
+  "#169df7"
+ ],
+ "lf-team-espanha-castuera": [
+  "#439d70",
+  "#167043"
+ ],
+ "lf-team-espanha-caudal-deportivo": [
+  "#ca9d43",
+  "#f77016"
+ ],
+ "lf-team-espanha-cay-n": [
+  "#437043",
+  "#164316"
+ ],
+ "lf-team-espanha-cd-alcoyano": [
+  "#709dca",
+  "#16439d"
+ ],
+ "lf-team-espanha-cd-algar": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "lf-team-espanha-cd-alhaurino": [
+  "#caca70",
+  "#164370"
+ ],
+ "lf-team-espanha-cd-aurrera-vitoria": [
+  "#70709d",
+  "#431670"
+ ],
+ "lf-team-espanha-cd-azuaga": [
+  "#9d4343",
+  "#431616"
+ ],
+ "lf-team-espanha-cd-badajoz": [
+  "#9d9d43",
+  "#1616f7"
+ ],
+ "lf-team-espanha-cd-bezana": [
+  "#caca43",
+  "#169d43"
+ ],
+ "lf-team-espanha-cd-calahorra": [
+  "#4370ca",
+  "#ca1616"
+ ],
+ "lf-team-espanha-cd-castell-n-b": [
+  "#43709d",
+  "#9d1643"
+ ],
+ "lf-team-espanha-cd-cieza": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "lf-team-espanha-cd-colegios-diocesanos": [
+  "#434370",
+  "#caca43"
+ ],
+ "lf-team-espanha-cd-cortes": [
+  "#ca9d70",
+  "#ca1616"
+ ],
+ "lf-team-espanha-cd-covadonga": [
+  "#43709d",
+  "#164370"
+ ],
+ "lf-team-espanha-cd-cuarte": [
+  "#439d43",
+  "#f7ca16"
+ ],
+ "lf-team-espanha-cd-ebro": [
+  "#709dca",
+  "#16709d"
+ ],
+ "lf-team-espanha-cd-estepona": [
+  "#ca4343",
+  "#16709d"
+ ],
+ "lf-team-espanha-cd-g-vora": [
+  "#439d70",
+  "#167043"
+ ],
+ "lf-team-espanha-cd-guadalajara": [
+  "#43709d",
+  "#164370"
+ ],
+ "lf-team-espanha-cd-huarte": [
+  "#43709d",
+  "#f71616"
+ ],
+ "lf-team-espanha-cd-la-almunia": [
+  "#ca9d43",
+  "#167016"
+ ],
+ "lf-team-espanha-cd-lagun-onak": [
+  "#434370",
+  "#704316"
+ ],
+ "lf-team-espanha-cd-laredo": [
+  "#439dca",
+  "#ca1643"
+ ],
+ "lf-team-espanha-cd-m-stoles-urjc": [
+  "#43709d",
+  "#161670"
+ ],
+ "lf-team-espanha-cd-manchego-ciudad-real": [
+  "#ca9d9d",
+  "#161670"
+ ],
+ "lf-team-espanha-cd-marchamalo": [
+  "#439d43",
+  "#ffffff"
+ ],
+ "lf-team-espanha-cd-mensajero": [
+  "#caca43",
+  "#f71616"
+ ],
+ "lf-team-espanha-cd-migjorn": [
+  "#437070",
+  "#164343"
+ ],
+ "lf-team-espanha-cd-naval": [
+  "#4370ca",
+  "#f71616"
+ ],
+ "lf-team-espanha-cd-noblejas": [
+  "#439d43",
+  "#164370"
+ ],
+ "lf-team-espanha-cd-pozoblanco": [
+  "#ca9d43",
+  "#437043"
+ ],
+ "lf-team-espanha-cd-san-miguel": [
+  "#caca43",
+  "#161670"
+ ],
+ "lf-team-espanha-cd-taranc-n": [
+  "#434343",
+  "#167070"
+ ],
+ "lf-team-espanha-cd-tenerife-b": [
+  "#ca9d70",
+  "#16439d"
+ ],
+ "lf-team-espanha-cd-toledo": [
+  "#439d43",
+  "#164316"
+ ],
+ "lf-team-espanha-cd-utiel": [
+  "#9d7070",
+  "#f79d16"
+ ],
+ "lf-team-espanha-cd-valle-de-eg-s": [
+  "#ca9d43",
+  "#f71616"
+ ],
+ "lf-team-espanha-cd-varea": [
+  "#ca4343",
+  "#169d43"
+ ],
+ "lf-team-espanha-cd-villaca-as": [
+  "#4370ca",
+  "#f71643"
+ ],
+ "lf-team-espanha-cd-villaralbo": [
+  "#437043",
+  "#ca1643"
+ ],
+ "lf-team-espanha-cd-zafra": [
+  "#9d9dca",
+  "#1616f7"
+ ],
+ "lf-team-espanha-cda-navalcarnero": [
+  "#43439d",
+  "#ca1616"
+ ],
+ "lf-team-espanha-cdj-tamarite": [
+  "#439dca",
+  "#f7ca16"
+ ],
+ "lf-team-espanha-ce-andratx": [
+  "#439dca",
+  "#704343"
+ ],
+ "lf-team-espanha-ce-europa-b": [
+  "#ca9d70",
+  "#16439d"
+ ],
+ "lf-team-espanha-ce-manresa": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "lf-team-espanha-cenicero": [
+  "#9d7070",
+  "#701616"
+ ],
+ "lf-team-espanha-cerdanyola-fc": [
+  "#437070",
+  "#164343"
+ ],
+ "lf-team-espanha-cf-intercity": [
+  "#9d9d70",
+  "#707043"
+ ],
+ "lf-team-espanha-cf-jara-z": [
+  "#9d7043",
+  "#f71616"
+ ],
+ "lf-team-espanha-cf-motril": [
+  "#434370",
+  "#ca1616"
+ ],
+ "lf-team-espanha-cf-peralada": [
+  "#ca9d43",
+  "#164343"
+ ],
+ "lf-team-espanha-cf-pila": [
+  "#9d9d43",
+  "#16ca43"
+ ],
+ "lf-team-espanha-cf-pozuelo": [
+  "#709d70",
+  "#164316"
+ ],
+ "lf-team-espanha-cf-talavera": [
+  "#70caca",
+  "#ca1616"
+ ],
+ "lf-team-espanha-cf-villanovense": [
+  "#437070",
+  "#164343"
+ ],
+ "lf-team-espanha-cf-vimenor": [
+  "#70ca9d",
+  "#169d43"
+ ],
+ "lf-team-espanha-cfj-mollerussa": [
+  "#4370ca",
+  "#9d1643"
+ ],
+ "lf-team-espanha-cirbonero": [
+  "#ca9d43",
+  "#16439d"
+ ],
+ "lf-team-espanha-ciudad-de-lucena": [
+  "#439dca",
+  "#169d43"
+ ],
+ "lf-team-espanha-conil": [
+  "#ca9d43",
+  "#1616f7"
+ ],
+ "lf-team-espanha-coruxo-fc": [
+  "#caca43",
+  "#167043"
+ ],
+ "lf-team-espanha-cp-mijas-las-lagunas": [
+  "#439dca",
+  "#16709d"
+ ],
+ "lf-team-espanha-cp-villarrobledo": [
+  "#437070",
+  "#16439d"
+ ],
+ "lf-team-espanha-crevillente-deportivo": [
+  "#709dca",
+  "#caca70"
+ ],
+ "lf-team-espanha-deportivo-alav-s-b": [
+  "#9d9dca",
+  "#16439d"
+ ],
+ "lf-team-espanha-deportivo-alav-s-c": [
+  "#9d9dca",
+  "#16439d"
+ ],
+ "lf-team-espanha-deportivo-mar-timo": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "lf-team-espanha-doneztebe": [
+  "#434343",
+  "#701616"
+ ],
+ "lf-team-espanha-ef-puebla-de-la-calzada": [
+  "#439d43",
+  "#ca1616"
+ ],
+ "lf-team-espanha-ei-san-mart-n": [
+  "#ca9d43",
+  "#1670ca"
+ ],
+ "lf-team-espanha-eibar-c": [
+  "#9d4343",
+  "#164370"
+ ],
+ "lf-team-espanha-ejea": [
+  "#439dca",
+  "#9d4316"
+ ],
+ "lf-team-espanha-eldense-b": [
+  "#434370",
+  "#ca1616"
+ ],
+ "lf-team-espanha-estrella": [
+  "#434370",
+  "#ca4316"
+ ],
+ "lf-team-espanha-fc-bidezarra": [
+  "#9d4343",
+  "#431616"
+ ],
+ "lf-team-espanha-fc-cartagena-b": [
+  "#caca43",
+  "#9d1616"
+ ],
+ "lf-team-espanha-fc-marbell": [
+  "#43709d",
+  "#caca43"
+ ],
+ "lf-team-espanha-fe-grama": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "lf-team-espanha-fuenlabrada": [
+  "#9d7043",
+  "#169d43"
+ ],
+ "lf-team-espanha-galapagar": [
+  "#ca9d43",
+  "#f7ca16"
+ ],
+ "lf-team-espanha-gazte-berriak": [
+  "#709d43",
+  "#434316"
+ ],
+ "lf-team-espanha-getafe-b": [
+  "#005999",
+  "#ffffff"
+ ],
+ "lf-team-espanha-gimn-stica-torrelavega": [
+  "#ca9d43",
+  "#1616f7"
+ ],
+ "lf-team-espanha-guadalajara-promesas": [
+  "#0d2f81",
+  "#e30613"
+ ],
+ "lf-team-espanha-guijuelo": [
+  "#9d7043",
+  "#167043"
+ ],
+ "lf-team-espanha-hu-tor-vega": [
+  "#437043",
+  "#431616"
+ ],
+ "lf-team-espanha-huesca-b": [
+  "#434370",
+  "#ca1616"
+ ],
+ "lf-team-espanha-inter-ibiza": [
+  "#4370ca",
+  "#1643f7"
+ ],
+ "lf-team-espanha-internacional-huesca": [
+  "#e5050f",
+  "#ffffff"
+ ],
+ "lf-team-espanha-izarra": [
+  "#43439d",
+  "#f7ca43"
+ ],
+ "lf-team-espanha-jerez": [
+  "#439d43",
+  "#164316"
+ ],
+ "lf-team-espanha-la-calzada": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "lf-team-espanha-la-virgen-del-camino": [
+  "#439d70",
+  "#164316"
+ ],
+ "lf-team-espanha-lanzarote": [
+  "#ca9d43",
+  "#ca1643"
+ ],
+ "lf-team-espanha-las-rozas": [
+  "#43709d",
+  "#709dca"
+ ],
+ "lf-team-espanha-legan-s-b": [
+  "#ca9d43",
+  "#167016"
+ ],
+ "lf-team-espanha-linares-deportivo": [
+  "#caca70",
+  "#161670"
+ ],
+ "lf-team-espanha-llanes": [
+  "#709dca",
+  "#f7ca43"
+ ],
+ "lf-team-espanha-llanos-aridane": [
+  "#43439d",
+  "#169d43"
+ ],
+ "lf-team-espanha-llosetense": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "lf-team-espanha-m-laga-juniors": [
+  "#ca9d43",
+  "#161643"
+ ],
+ "lf-team-espanha-m-xico-fc": [
+  "#43709d",
+  "#161670"
+ ],
+ "lf-team-espanha-manacor": [
+  "#709d43",
+  "#437016"
+ ],
+ "lf-team-espanha-mancha-real": [
+  "#704343",
+  "#167016"
+ ],
+ "lf-team-espanha-marbella-fc": [
+  "#434370",
+  "#161643"
+ ],
+ "lf-team-espanha-marino": [
+  "#9d9d43",
+  "#164370"
+ ],
+ "lf-team-espanha-martinenc": [
+  "#43709d",
+  "#f71616"
+ ],
+ "lf-team-espanha-mercadal": [
+  "#9d7043",
+  "#16439d"
+ ],
+ "lf-team-espanha-minerva": [
+  "#709dca",
+  "#ffffff"
+ ],
+ "lf-team-espanha-moralo": [
+  "#70ca43",
+  "#f71616"
+ ],
+ "lf-team-espanha-ol-mpico-de-totana": [
+  "#43709d",
+  "#ca1616"
+ ],
+ "lf-team-espanha-orihuela-cf": [
+  "#43439d",
+  "#f7ca16"
+ ],
+ "lf-team-espanha-oyonesa": [
+  "#ca9d70",
+  "#1616ca"
+ ],
+ "lf-team-espanha-palencia-cf": [
+  "#70439d",
+  "#f71616"
+ ],
+ "lf-team-espanha-palencia-cristo-atl-tico": [
+  "#704370",
+  "#9d9d43"
+ ],
+ "lf-team-espanha-panader-a-pulido": [
+  "#caca43",
+  "#ca4316"
+ ],
+ "lf-team-espanha-pasaia-ke": [
+  "#43caca",
+  "#ca1616"
+ ],
+ "lf-team-espanha-pe-sant-jordi": [
+  "#709dca",
+  "#9dcaf7"
+ ],
+ "lf-team-espanha-penya-deportiva": [
+  "#9d9d70",
+  "#ca1616"
+ ],
+ "lf-team-espanha-plasencia": [
+  "#437070",
+  "#9d7070"
+ ],
+ "lf-team-espanha-playas-de-sotavento": [
+  "#caca43",
+  "#1670ca"
+ ],
+ "lf-team-espanha-pontevedra-b": [
+  "#ca9d70",
+  "#434316"
+ ],
+ "lf-team-espanha-portugalete": [
+  "#9d9d43",
+  "#434316"
+ ],
+ "lf-team-espanha-pradej-n": [
+  "#439d70",
+  "#70ca9d"
+ ],
+ "lf-team-espanha-rc-villalb-s": [
+  "#ca7043",
+  "#ca1616"
+ ],
+ "lf-team-espanha-real-murcia-imperial": [
+  "#ca9d43",
+  "#ca4316"
+ ],
+ "lf-team-espanha-real-oviedo-vetusta": [
+  "#0057a8",
+  "#ffffff"
+ ],
+ "lf-team-espanha-real-sociedad-c": [
+  "#0067b1",
+  "#ffffff"
+ ],
+ "lf-team-espanha-real-uni-n-club-b": [
+  "#ca9d43",
+  "#9d7016"
+ ],
+ "lf-team-espanha-recreativo-de-huelva": [
+  "#43709d",
+  "#164370"
+ ],
+ "lf-team-espanha-revilla": [
+  "#43439d",
+  "#f71616"
+ ],
+ "lf-team-espanha-river-ebro": [
+  "#9d7043",
+  "#f71616"
+ ],
+ "lf-team-espanha-rsd-alcal": [
+  "#70709d",
+  "#f71616"
+ ],
+ "lf-team-espanha-salamanca-cf-uds": [
+  "#ca7070",
+  "#16caf7"
+ ],
+ "lf-team-espanha-san-bartolom-cf": [
+  "#434370",
+  "#ca1616"
+ ],
+ "lf-team-espanha-san-marcial": [
+  "#ca9d70",
+  "#43709d"
+ ],
+ "lf-team-espanha-san-roque-de-lepe": [
+  "#9d7043",
+  "#ca1616"
+ ],
+ "lf-team-espanha-santa-amalia": [
+  "#ca9d70",
+  "#437016"
+ ],
+ "lf-team-espanha-santurtzi": [
+  "#704370",
+  "#431643"
+ ],
+ "lf-team-espanha-sc-torrevieja": [
+  "#439d9d",
+  "#169df7"
+ ],
+ "lf-team-espanha-scd-durango": [
+  "#434370",
+  "#f79d16"
+ ],
+ "lf-team-espanha-sd-almaz-n": [
+  "#43ca43",
+  "#9d1616"
+ ],
+ "lf-team-espanha-sd-amorebieta": [
+  "#43709d",
+  "#f71616"
+ ],
+ "lf-team-espanha-sd-compostela": [
+  "#caca43",
+  "#43caf7"
+ ],
+ "lf-team-espanha-sd-erandio": [
+  "#43439d",
+  "#ca9d16"
+ ],
+ "lf-team-espanha-sd-gernika": [
+  "#439d70",
+  "#f7ca43"
+ ],
+ "lf-team-espanha-sd-sarriana": [
+  "#ca9d43",
+  "#f7ca16"
+ ],
+ "lf-team-espanha-sd-torina": [
+  "#439d70",
+  "#ca1616"
+ ],
+ "lf-team-espanha-selaya": [
+  "#ca4343",
+  "#164316"
+ ],
+ "lf-team-espanha-sevilla-c": [
+  "#d81920",
+  "#ffffff"
+ ],
+ "lf-team-espanha-siello-fc": [
+  "#439d9d",
+  "#16caca"
+ ],
+ "lf-team-espanha-silva-sd": [
+  "#70709d",
+  "#164370"
+ ],
+ "lf-team-espanha-sineu": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "lf-team-espanha-soneja": [
+  "#439d70",
+  "#167043"
+ ],
+ "lf-team-espanha-sporting-atl-tico": [
+  "#008057",
+  "#ffffff"
+ ],
+ "lf-team-espanha-tenerife-c": [
+  "#ca9d70",
+  "#16439d"
+ ],
+ "lf-team-espanha-terrassa-fc": [
+  "#caca43",
+  "#ca4316"
+ ],
+ "lf-team-espanha-touring-ke": [
+  "#ca9d70",
+  "#16169d"
+ ],
+ "lf-team-espanha-trival-valderas": [
+  "#434370",
+  "#167043"
+ ],
+ "lf-team-espanha-tropez-n": [
+  "#ca9d70",
+  "#437016"
+ ],
+ "lf-team-espanha-tur-gano": [
+  "#707070",
+  "#161643"
+ ],
+ "lf-team-espanha-ub-conquense": [
+  "#ca9d43",
+  "#704316"
+ ],
+ "lf-team-espanha-ucam-murcia-b": [
+  "#707043",
+  "#164370"
+ ],
+ "lf-team-espanha-ud-a-aza": [
+  "#ca9d70",
+  "#ca1616"
+ ],
+ "lf-team-espanha-ud-almansa": [
+  "#439dca",
+  "#70caf7"
+ ],
+ "lf-team-espanha-ud-castellonense": [
+  "#ca9d43",
+  "#f77016"
+ ],
+ "lf-team-espanha-ud-gij-n-industrial": [
+  "#ca9d43",
+  "#9d1616"
+ ],
+ "lf-team-espanha-ud-logro-s-b": [
+  "#ca9d43",
+  "#9d1616"
+ ],
+ "lf-team-espanha-ud-los-garres": [
+  "#caca9d",
+  "#167016"
+ ],
+ "lf-team-espanha-ud-melilla": [
+  "#709dca",
+  "#161670"
+ ],
+ "lf-team-espanha-ud-poblense": [
+  "#caca70",
+  "#16169d"
+ ],
+ "lf-team-espanha-ud-san-fernando": [
+  "#437043",
+  "#439df7"
+ ],
+ "lf-team-espanha-ud-sanse": [
+  "#ca9d43",
+  "#701616"
+ ],
+ "lf-team-espanha-ud-sanse-b": [
+  "#ca9d43",
+  "#701616"
+ ],
+ "lf-team-espanha-ud-santa-marta": [
+  "#ca4343",
+  "#169dca"
+ ],
+ "lf-team-espanha-ud-tamaraceite": [
+  "#43439d",
+  "#7070ca"
+ ],
+ "lf-team-espanha-ud-tomares": [
+  "#ca9d70",
+  "#431670"
+ ],
+ "lf-team-espanha-ud-vall-de-ux": [
+  "#9d7043",
+  "#169dca"
+ ],
+ "lf-team-espanha-udc-torredonjimeno": [
+  "#43709d",
+  "#ca4316"
+ ],
+ "lf-team-espanha-udc-txantrea": [
+  "#4370ca",
+  "#ca7016"
+ ],
+ "lf-team-espanha-ue-alcudia": [
+  "#9d7043",
+  "#434316"
+ ],
+ "lf-team-espanha-uni-n-adarve": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "lf-team-espanha-uni-n-molinense": [
+  "#43709d",
+  "#161670"
+ ],
+ "lf-team-espanha-union-sur-yaiza": [
+  "#439d43",
+  "#f77016"
+ ],
+ "lf-team-espanha-utrera": [
+  "#ca7043",
+  "#9d1616"
+ ],
+ "lf-team-espanha-velarde-cf": [
+  "#434343",
+  "#f71616"
+ ],
+ "lf-team-espanha-villafranca": [
+  "#9d7043",
+  "#161670"
+ ],
+ "lf-team-espanha-villarreal-c": [
+  "#ffe667",
+  "#005187"
+ ],
+ "lf-team-espanha-villarrubia-cf": [
+  "#434370",
+  "#161643"
+ ],
+ "lf-team-espanha-viveiro": [
+  "#439dca",
+  "#161670"
+ ],
+ "lf-team-espanha-xerez-cd": [
+  "#439dca",
+  "#ca1643"
+ ],
+ "lf-team-espanha-xerez-deportivo": [
+  "#709dca",
+  "#16439d"
+ ],
+ "lf-team-portugal-ac-arronches": [
+  "#ca9d43",
+  "#ca4343"
+ ],
+ "lf-team-portugal-acd-mindelo": [
+  "#ca4343",
+  "#169d43"
+ ],
+ "lf-team-portugal-acdr-lamelas": [
+  "#70709d",
+  "#434370"
+ ],
+ "lf-team-portugal-acrd-cabe-udo": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "lf-team-portugal-ad-figueir-dos-vinhos": [
+  "#437043",
+  "#164316"
+ ],
+ "lf-team-portugal-ad-fornos-de-algodres": [
+  "#437043",
+  "#164316"
+ ],
+ "lf-team-portugal-ad-manteigas": [
+  "#434343",
+  "#707070"
+ ],
+ "lf-team-portugal-ad-oeiras": [
+  "#ca9d43",
+  "#f71616"
+ ],
+ "lf-team-portugal-ad-porto-da-cruz": [
+  "#437043",
+  "#431616"
+ ],
+ "lf-team-portugal-ad-s-o-paio-sc": [
+  "#434343",
+  "#707070"
+ ],
+ "lf-team-portugal-ad-s-o-rom-o": [
+  "#437070",
+  "#ca1616"
+ ],
+ "lf-team-portugal-ad-valonguense": [
+  "#caca43",
+  "#169d70"
+ ],
+ "lf-team-portugal-adc-constantim": [
+  "#439d70",
+  "#167043"
+ ],
+ "lf-team-portugal-adc-lob-o": [
+  "#439dca",
+  "#ca1616"
+ ],
+ "lf-team-portugal-adc-proen-a-a-nova": [
+  "#439d43",
+  "#ca1616"
+ ],
+ "lf-team-portugal-ala-arriba": [
+  "#43709d",
+  "#709dca"
+ ],
+ "lf-team-portugal-aldenovense": [
+  "#caca43",
+  "#f7f716"
+ ],
+ "lf-team-portugal-amora-fc": [
+  "#9d7043",
+  "#f79d16"
+ ],
+ "lf-team-portugal-anadia-fc": [
+  "#439d43",
+  "#16439d"
+ ],
+ "lf-team-portugal-ar-porto-alto": [
+  "#439d43",
+  "#f74343"
+ ],
+ "lf-team-portugal-arc-oleiros": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "lf-team-portugal-armacenenses": [
+  "#434370",
+  "#16169d"
+ ],
+ "lf-team-portugal-associa-o-murteirense": [
+  "#434370",
+  "#16709d"
+ ],
+ "lf-team-portugal-atl-tico-clube-marinhense": [
+  "#439dca",
+  "#16ca16"
+ ],
+ "lf-team-portugal-atl-tico-sc": [
+  "#9d4343",
+  "#ca7070"
+ ],
+ "lf-team-portugal-beneditense": [
+  "#43709d",
+  "#ca4316"
+ ],
+ "lf-team-portugal-ber-o-sc": [
+  "#43439d",
+  "#ca9d16"
+ ],
+ "lf-team-portugal-boavista-flores": [
+  "#0b2a5b",
+  "#ffffff"
+ ],
+ "lf-team-portugal-boavista-s-mateus": [
+  "#0b2a5b",
+  "#ffffff"
+ ],
+ "lf-team-portugal-ca-fund-o": [
+  "#437043",
+  "#164316"
+ ],
+ "lf-team-portugal-ca-ouriense": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "lf-team-portugal-calheta": [
+  "#ca9d43",
+  "#169d16"
+ ],
+ "lf-team-portugal-campia": [
+  "#439d43",
+  "#167016"
+ ],
+ "lf-team-portugal-candel-ria": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "lf-team-portugal-car-o": [
+  "#ca9d43",
+  "#164316"
+ ],
+ "lf-team-portugal-carrazeda-de-ansi-es": [
+  "#43439d",
+  "#164316"
+ ],
+ "lf-team-portugal-carregal-do-sal": [
+  "#ca9d43",
+  "#439df7"
+ ],
+ "lf-team-portugal-carregosense": [
+  "#9d7043",
+  "#f77016"
+ ],
+ "lf-team-portugal-carvalhais": [
+  "#9d9dca",
+  "#f79d16"
+ ],
+ "lf-team-portugal-carvoeiro-united": [
+  "#ca9d43",
+  "#f7ca70"
+ ],
+ "lf-team-portugal-ccr-alqueid-o-da-serra": [
+  "#70709d",
+  "#16439d"
+ ],
+ "lf-team-portugal-cd-alcains": [
+  "#434370",
+  "#caca43"
+ ],
+ "lf-team-portugal-cd-cova-da-piedade": [
+  "#439dca",
+  "#f71616"
+ ],
+ "lf-team-portugal-cd-estarreja": [
+  "#ca9d43",
+  "#f77016"
+ ],
+ "lf-team-portugal-cd-f-tima": [
+  "#9d4343",
+  "#ca9d9d"
+ ],
+ "lf-team-portugal-cd-gouveia": [
+  "#704370",
+  "#707016"
+ ],
+ "lf-team-portugal-cd-ponte": [
+  "#709dca",
+  "#1643ca"
+ ],
+ "lf-team-portugal-cd-torres-novas": [
+  "#ca4343",
+  "#169d43"
+ ],
+ "lf-team-portugal-cesarense": [
+  "#43439d",
+  "#f74316"
+ ],
+ "lf-team-portugal-cf-andorinha": [
+  "#ca7043",
+  "#16439d"
+ ],
+ "lf-team-portugal-cf-benfica": [
+  "#707043",
+  "#f7ca70"
+ ],
+ "lf-team-portugal-cf-os-vilanovenses": [
+  "#43709d",
+  "#164370"
+ ],
+ "lf-team-portugal-cr-o-grandolense": [
+  "#caca70",
+  "#9d1616"
+ ],
+ "lf-team-portugal-crp-barrosas": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "lf-team-portugal-cu-idanhense": [
+  "#439d43",
+  "#167016"
+ ],
+ "lf-team-portugal-eirense": [
+  "#ca9d43",
+  "#167016"
+ ],
+ "lf-team-portugal-el-ctrico": [
+  "#ca9d43",
+  "#9d7016"
+ ],
+ "lf-team-portugal-entroncamento-ac": [
+  "#9d4343",
+  "#701616"
+ ],
+ "lf-team-portugal-ericeirense": [
+  "#ca9d43",
+  "#1670ca"
+ ],
+ "lf-team-portugal-estrela-fc": [
+  "#439d43",
+  "#ca9d16"
+ ],
+ "lf-team-portugal-fc-albernoense": [
+  "#ca4343",
+  "#704343"
+ ],
+ "lf-team-portugal-fc-boelhe": [
+  "#434370",
+  "#16169d"
+ ],
+ "lf-team-portugal-fc-castrense": [
+  "#709d43",
+  "#434316"
+ ],
+ "lf-team-portugal-fc-fontelas": [
+  "#9d4370",
+  "#16439d"
+ ],
+ "lf-team-portugal-fc-santa-marta": [
+  "#ca439d",
+  "#9d1643"
+ ],
+ "lf-team-portugal-fc-vila-boa-do-bispo": [
+  "#43709d",
+  "#164370"
+ ],
+ "lf-team-portugal-fermentelos": [
+  "#70ca9d",
+  "#169d43"
+ ],
+ "lf-team-portugal-ferreiras": [
+  "#709dca",
+  "#f7ca16"
+ ],
+ "lf-team-portugal-fi-es-sc": [
+  "#caca43",
+  "#169d70"
+ ],
+ "lf-team-portugal-gafetense": [
+  "#434370",
+  "#9d1616"
+ ],
+ "lf-team-portugal-gavionenses": [
+  "#437043",
+  "#709d16"
+ ],
+ "lf-team-portugal-gd-alvai-zere": [
+  "#434343",
+  "#439d70"
+ ],
+ "lf-team-portugal-gd-atouguiense": [
+  "#434370",
+  "#707016"
+ ],
+ "lf-team-portugal-gd-cerva": [
+  "#ca9d70",
+  "#f7ca43"
+ ],
+ "lf-team-portugal-gd-guiense": [
+  "#434370",
+  "#707043"
+ ],
+ "lf-team-portugal-gd-ilha": [
+  "#9d439d",
+  "#169dca"
+ ],
+ "lf-team-portugal-gd-joane": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "lf-team-portugal-gd-livra-o": [
+  "#caca43",
+  "#1670ca"
+ ],
+ "lf-team-portugal-gd-mangualde": [
+  "#709d70",
+  "#16439d"
+ ],
+ "lf-team-portugal-gd-oliveira-de-frades": [
+  "#9d9d70",
+  "#161670"
+ ],
+ "lf-team-portugal-gd-pelariga": [
+  "#9dca9d",
+  "#169d43"
+ ],
+ "lf-team-portugal-gd-peniche": [
+  "#ca4343",
+  "#431616"
+ ],
+ "lf-team-portugal-gd-santo-amaro": [
+  "#43709d",
+  "#169d43"
+ ],
+ "lf-team-portugal-gd-sesimbra": [
+  "#ca4370",
+  "#4370ca"
+ ],
+ "lf-team-portugal-gd-trancoso": [
+  "#9d7070",
+  "#ca1616"
+ ],
+ "lf-team-portugal-gd-valpa-os": [
+  "#70caca",
+  "#f71643"
+ ],
+ "lf-team-portugal-gd-vialonga": [
+  "#709dca",
+  "#f77070"
+ ],
+ "lf-team-portugal-gd-vilar-de-perdizes": [
+  "#9d4343",
+  "#f71616"
+ ],
+ "lf-team-portugal-gd-vit-ria-sernache-b": [
+  "#43709d",
+  "#ca1616"
+ ],
+ "lf-team-portugal-gdr-bidoeirense": [
+  "#439d70",
+  "#167043"
+ ],
+ "lf-team-portugal-gdr-boavista": [
+  "#434343",
+  "#f71616"
+ ],
+ "lf-team-portugal-gdr-soalh-es": [
+  "#caca43",
+  "#f7f716"
+ ],
+ "lf-team-portugal-gdrc-os-sandinenses": [
+  "#434370",
+  "#161643"
+ ],
+ "lf-team-portugal-gin-sio-clube-figueirense": [
+  "#9d4343",
+  "#164370"
+ ],
+ "lf-team-portugal-grupo-desportivo-de-peniche": [
+  "#ca4343",
+  "#431616"
+ ],
+ "lf-team-portugal-grupo-uni-o-sport": [
+  "#caca43",
+  "#43caf7"
+ ],
+ "lf-team-portugal-imortal": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "lf-team-portugal-juventude-arzila": [
+  "#0a5d2e",
+  "#ffffff"
+ ],
+ "lf-team-portugal-juventude-de-gaula": [
+  "#0a5d2e",
+  "#ffffff"
+ ],
+ "lf-team-portugal-juventude-pedras-salgadas": [
+  "#0a5d2e",
+  "#ffffff"
+ ],
+ "lf-team-portugal-juventude-pedrou-os-fc": [
+  "#0a5d2e",
+  "#ffffff"
+ ],
+ "lf-team-portugal-juventude-sc-b": [
+  "#0a5d2e",
+  "#ffffff"
+ ],
+ "lf-team-portugal-juventude-u-mosteir": [
+  "#0a5d2e",
+  "#ffffff"
+ ],
+ "lf-team-portugal-juventude-vora": [
+  "#0a5d2e",
+  "#ffffff"
+ ],
+ "lf-team-portugal-juventus-pedroso": [
+  "#f5f5f5",
+  "#000000"
+ ],
+ "lf-team-portugal-lcd-arraiolense": [
+  "#43439d",
+  "#f7f743"
+ ],
+ "lf-team-portugal-macedo-de-cavaleiros": [
+  "#709d43",
+  "#f7ca43"
+ ],
+ "lf-team-portugal-madalena": [
+  "#43709d",
+  "#ca1643"
+ ],
+ "lf-team-portugal-maia": [
+  "#434370",
+  "#161643"
+ ],
+ "lf-team-portugal-marinhas": [
+  "#9d9dca",
+  "#16169d"
+ ],
+ "lf-team-portugal-moimenta-da-beira": [
+  "#9d9dca",
+  "#16439d"
+ ],
+ "lf-team-portugal-moita-do-boi": [
+  "#caca43",
+  "#16439d"
+ ],
+ "lf-team-portugal-mosteirense": [
+  "#9d4343",
+  "#ca1616"
+ ],
+ "lf-team-portugal-motor-clube": [
+  "#437043",
+  "#f77016"
+ ],
+ "lf-team-portugal-moura": [
+  "#caca43",
+  "#434316"
+ ],
+ "lf-team-portugal-mucifalense": [
+  "#9d7043",
+  "#f74343"
+ ],
+ "lf-team-portugal-naval": [
+  "#43439d",
+  "#ca1616"
+ ],
+ "lf-team-portugal-nazarenos": [
+  "#ca4343",
+  "#ca9d9d"
+ ],
+ "lf-team-portugal-odemirense": [
+  "#ca7043",
+  "#167043"
+ ],
+ "lf-team-portugal-olhanense": [
+  "#707043",
+  "#ca1643"
+ ],
+ "lf-team-portugal-oliveira-do-bairro": [
+  "#434343",
+  "#707016"
+ ],
+ "lf-team-portugal-palmelense-fc": [
+  "#434343",
+  "#f74343"
+ ],
+ "lf-team-portugal-penalva-do-castelo": [
+  "#70439d",
+  "#f79d16"
+ ],
+ "lf-team-portugal-penelense": [
+  "#43439d",
+  "#161670"
+ ],
+ "lf-team-portugal-pevid-m-sc": [
+  "#439dca",
+  "#9dcaca"
+ ],
+ "lf-team-portugal-pontassolense": [
+  "#caca43",
+  "#ca4316"
+ ],
+ "lf-team-portugal-portalegrense": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "lf-team-portugal-praia-milfontes": [
+  "#4370ca",
+  "#164370"
+ ],
+ "lf-team-portugal-prainha-fc": [
+  "#9dca9d",
+  "#169d43"
+ ],
+ "lf-team-portugal-rd-gueda": [
+  "#434370",
+  "#9d4316"
+ ],
+ "lf-team-portugal-rebordelo": [
+  "#caca43",
+  "#f7f716"
+ ],
+ "lf-team-portugal-redondense-fc": [
+  "#43439d",
+  "#ca1616"
+ ],
+ "lf-team-portugal-ribeira-brava": [
+  "#439d70",
+  "#70ca9d"
+ ],
+ "lf-team-portugal-s-t-o": [
+  "#70ca9d",
+  "#169d70"
+ ],
+ "lf-team-portugal-s-vicente-pereira": [
+  "#434370",
+  "#161643"
+ ],
+ "lf-team-portugal-sabroso-sc": [
+  "#439d70",
+  "#167043"
+ ],
+ "lf-team-portugal-sanjoanense-ac": [
+  "#43439d",
+  "#1616ca"
+ ],
+ "lf-team-portugal-santa-maria-fc": [
+  "#43439d",
+  "#ca4343"
+ ],
+ "lf-team-portugal-santiago-mascotelos": [
+  "#9d4343",
+  "#1616ca"
+ ],
+ "lf-team-portugal-sc-arcoense": [
+  "#439d43",
+  "#caca16"
+ ],
+ "lf-team-portugal-sc-borbense": [
+  "#43439d",
+  "#caca43"
+ ],
+ "lf-team-portugal-sc-braga-b": [
+  "#9d7043",
+  "#f71616"
+ ],
+ "lf-team-portugal-sc-celoricense": [
+  "#709d70",
+  "#431643"
+ ],
+ "lf-team-portugal-sc-cumieira": [
+  "#ca9d9d",
+  "#f71643"
+ ],
+ "lf-team-portugal-sc-espinho": [
+  "#ca9d70",
+  "#9d7043"
+ ],
+ "lf-team-portugal-sc-ferreirense": [
+  "#9dca9d",
+  "#169d43"
+ ],
+ "lf-team-portugal-sc-horta": [
+  "#7070ca",
+  "#16169d"
+ ],
+ "lf-team-portugal-sc-lamego": [
+  "#9d4343",
+  "#169d43"
+ ],
+ "lf-team-portugal-sc-lourinhanense": [
+  "#ca9d43",
+  "#167043"
+ ],
+ "lf-team-portugal-sc-mes-o-frio": [
+  "#ca4343",
+  "#16439d"
+ ],
+ "lf-team-portugal-sc-pombal": [
+  "#9dca70",
+  "#707043"
+ ],
+ "lf-team-portugal-sc-r-gua": [
+  "#caca43",
+  "#f74316"
+ ],
+ "lf-team-portugal-sc-sabugal": [
+  "#437043",
+  "#caca43"
+ ],
+ "lf-team-portugal-sc-viana": [
+  "#439d70",
+  "#167043"
+ ],
+ "lf-team-portugal-sc-vila-real": [
+  "#ca9d70",
+  "#f71643"
+ ],
+ "lf-team-portugal-sc-vilar-formoso": [
+  "#439d70",
+  "#167043"
+ ],
+ "lf-team-portugal-sf-palmense": [
+  "#ca4343",
+  "#439d16"
+ ],
+ "lf-team-portugal-sl-nelas": [
+  "#434343",
+  "#f79d16"
+ ],
+ "lf-team-portugal-sporting-clube-de-pombal": [
+  "#008057",
+  "#ffffff"
+ ],
+ "lf-team-portugal-torre-de-moncorvo": [
+  "#9d4343",
+  "#164370"
+ ],
+ "lf-team-portugal-touring": [
+  "#ca9d70",
+  "#16169d"
+ ],
+ "lf-team-portugal-u-lamas": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "lf-team-portugal-ud-belmonte": [
+  "#9d9d70",
+  "#167016"
+ ],
+ "lf-team-portugal-ud-os-pinhelenses": [
+  "#9d4343",
+  "#16709d"
+ ],
+ "lf-team-portugal-ud-torrados": [
+  "#43709d",
+  "#164370"
+ ],
+ "lf-team-portugal-udrc-matamourisquense": [
+  "#ca9d70",
+  "#f71643"
+ ],
+ "lf-team-portugal-ufc-sousa": [
+  "#709dca",
+  "#16439d"
+ ],
+ "lf-team-portugal-uni-o-da-bola": [
+  "#434343",
+  "#f7ca16"
+ ],
+ "lf-team-portugal-uni-o-da-serra": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "lf-team-portugal-uni-o-sc": [
+  "#434370",
+  "#f71616"
+ ],
+ "lf-team-portugal-upb": [
+  "#434370",
+  "#16ca70"
+ ],
+ "lf-team-portugal-vale-de-a-ores": [
+  "#439d70",
+  "#f7ca43"
+ ],
+ "lf-team-portugal-vista-alegre": [
+  "#ca9d70",
+  "#16709d"
+ ],
+ "liaoning_chn": [
+  "#ca4343",
+  "#f7ca70"
+ ],
+ "liapi_kos": [
+  "#43709d",
+  "#709dca"
+ ],
+ "liberia_crc": [
+  "#ca9d43",
+  "#434316"
+ ],
+ "libertad_par": [
+  "#ca9d43",
+  "#431616"
+ ],
+ "liege_bel": [
+  "#ca9d70",
+  "#ca1616"
+ ],
+ "liepaja_let": [
+  "#439d70",
+  "#ca1643"
+ ],
+ "lille_fra": [
+  "#e01e13",
+  "#003876"
+ ],
+ "limache_chi": [
+  "#ca9d43",
+  "#f71616"
+ ],
+ "linares_esp": [
+  "#caca70",
+  "#161670"
+ ],
+ "lincolncity_ing": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "liverpool_ing": [
+  "#c8102e",
+  "#ffffff"
+ ],
+ "liverpool_uru": [
+  "#c8102e",
+  "#ffffff"
+ ],
+ "livyibereg_ucr": [
+  "#437043",
+  "#9d9d16"
+ ],
+ "llacuabamba_per": [
+  "#43caca",
+  "#169d9d"
+ ],
+ "llaneros_col": [
+  "#434343",
+  "#ca7016"
+ ],
+ "lodz_pol": [
+  "#43ca70",
+  "#169d43"
+ ],
+ "logrones_esp": [
+  "#ca9d43",
+  "#9d4316"
+ ],
+ "lokomotiv_rus": [
+  "#ca4343",
+  "#167043"
+ ],
+ "lokomotivgo_bul": [
+  "#ca4343",
+  "#f77070"
+ ],
+ "lokomotivsofia_bul": [
+  "#704343",
+  "#ca1643"
+ ],
+ "lommel_bel": [
+  "#70ca43",
+  "#167043"
+ ],
+ "londrina_pr": [
+  "#439dca",
+  "#167043"
+ ],
+ "losangeles_eua": [
+  "#ca9d70",
+  "#9d7043"
+ ],
+ "loschankas_per": [
+  "#9d4343",
+  "#f7f716"
+ ],
+ "ludogorets_bul": [
+  "#709d70",
+  "#167043"
+ ],
+ "ludogoretsii_bul": [
+  "#709d9d",
+  "#167043"
+ ],
+ "lusail_cat": [
+  "#434370",
+  "#ffffff"
+ ],
+ "luverdensemt_bra": [
+  "#437043",
+  "#9dca43"
+ ],
+ "luzern_sui": [
+  "#43709d",
+  "#164370"
+ ],
+ "lyn_nor": [
+  "#caca70",
+  "#161670"
+ ],
+ "lyngby_din": [
+  "#43709d",
+  "#164370"
+ ],
+ "lyon": [
+  "#da291c",
+  "#ffffff"
+ ],
+ "macaerj_bra": [
+  "#43439d",
+  "#caca43"
+ ],
+ "macara_equ": [
+  "#43439d",
+  "#169dca"
+ ],
+ "macarthur_aus": [
+  "#ca9d43",
+  "#707016"
+ ],
+ "maccabihaifa_isr": [
+  "#9d9d70",
+  "#167043"
+ ],
+ "maccabipetahtikva_isr": [
+  "#ca7070",
+  "#9d4343"
+ ],
+ "machester_ing": [
+  "#da291c",
+  "#fbe122"
+ ],
+ "machestercity_ing": [
+  "#6cabdd",
+  "#1c2c5b"
+ ],
+ "machidazelvia_jap": [
+  "#434370",
+  "#161643"
+ ],
+ "macva_ser": [
+  "#ca4343",
+  "#f7ca43"
+ ],
+ "madureira_bra": [
+  "#434370",
+  "#9d1616"
+ ],
+ "magallanes_chi": [
+  "#ca9d43",
+  "#70caf7"
+ ],
+ "magdeburg_ale": [
+  "#709dca",
+  "#16709d"
+ ],
+ "magesi_afs": [
+  "#9d9dca",
+  "#1643ca"
+ ],
+ "maguary_pe": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "malaga_esp": [
+  "#9dcaca",
+  "#ca9d16"
+ ],
+ "mallorca_esp": [
+  "#e20613",
+  "#000000"
+ ],
+ "malmo_sue": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "mamelodisundows_afs": [
+  "#f5c518",
+  "#006633"
+ ],
+ "managua_nic": [
+  "#434370",
+  "#ca9d16"
+ ],
+ "manauara_am": [
+  "#ca7043",
+  "#ca1616"
+ ],
+ "manaus_bra": [
+  "#439d43",
+  "#164316"
+ ],
+ "manta_equ": [
+  "#434370",
+  "#f71616"
+ ],
+ "mantova_it": [
+  "#9d7043",
+  "#f71643"
+ ],
+ "maracana_ce": [
+  "#43439d",
+  "#709dca"
+ ],
+ "maranhaoma_bra": [
+  "#ca4343",
+  "#434370"
+ ],
+ "marciliodiassc_bra": [
+  "#7043ca",
+  "#43169d"
+ ],
+ "mardin_tur": [
+  "#9dcaca",
+  "#161643"
+ ],
+ "marek_bul": [
+  "#43709d",
+  "#f74370"
+ ],
+ "maribor_esl": [
+  "#704370",
+  "#9d7043"
+ ],
+ "mariehamn_fin": [
+  "#9dca43",
+  "#434316"
+ ],
+ "maritimo_por": [
+  "#008b47",
+  "#ffffff"
+ ],
+ "maritimo_ven": [
+  "#439d70",
+  "#70ca9d"
+ ],
+ "marko_gre": [
+  "#439d43",
+  "#167016"
+ ],
+ "marrakech_mar": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "marumogallants_afs": [
+  "#434370",
+  "#caf770"
+ ],
+ "mazatlan_mex": [
+  "#434370",
+  "#9dcaf7"
+ ],
+ "mazembe_con": [
+  "#704343",
+  "#9d7016"
+ ],
+ "meizhou_chn": [
+  "#704343",
+  "#ca4316"
+ ],
+ "mekelle_eti": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "meknes_mar": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "melbournecity_aus": [
+  "#6cabdd",
+  "#1c2c5b"
+ ],
+ "melbournevictory_aus": [
+  "#437070",
+  "#161643"
+ ],
+ "melville_nze": [
+  "#439d43",
+  "#ca1616"
+ ],
+ "meranimartvili_geo": [
+  "#9d4343",
+  "#ca1616"
+ ],
+ "meshakhte_geo": [
+  "#9d9d43",
+  "#caca70"
+ ],
+ "metalulbuzau_rom": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "metropolitanos_ven": [
+  "#704370",
+  "#431643"
+ ],
+ "metropolitanosc_bra": [
+  "#704370",
+  "#431643"
+ ],
+ "metz_fr": [
+  "#9d7070",
+  "#701616"
+ ],
+ "middlesbrough_ing": [
+  "#ca4370",
+  "#ca1616"
+ ],
+ "midtjylland_din": [
+  "#ca4343",
+  "#ca9d9d"
+ ],
+ "miedzlegnica_pol": [
+  "#caca70",
+  "#169d43"
+ ],
+ "miirassol_sp": [
+  "#f5c518",
+  "#006633"
+ ],
+ "millionarios_col": [
+  "#434370",
+  "#161643"
+ ],
+ "millwall_ing": [
+  "#43709d",
+  "#164370"
+ ],
+ "mineros_ven": [
+  "#43439d",
+  "#f7ca43"
+ ],
+ "mineroszacatecas_mex": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "minnesotaunited_eua": [
+  "#437070",
+  "#9dcaf7"
+ ],
+ "miramar_nze": [
+  "#434370",
+  "#161643"
+ ],
+ "mitohollyhock_jap": [
+  "#43439d",
+  "#709dca"
+ ],
+ "mjallbyaif_sue": [
+  "#caca43",
+  "#434316"
+ ],
+ "mladaboleslav_tch": [
+  "#43709d",
+  "#164370"
+ ],
+ "mladost_cro": [
+  "#ca9d70",
+  "#f7ca9d"
+ ],
+ "modena_it": [
+  "#434343",
+  "#caca16"
+ ],
+ "modern_egi": [
+  "#439d43",
+  "#167016"
+ ],
+ "moghrebtetouan_mar": [
+  "#ca4343",
+  "#164370"
+ ],
+ "molde_nor": [
+  "#4370ca",
+  "#9dcaca"
+ ],
+ "molvidi_hun": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "monaco_fr": [
+  "#e63946",
+  "#ffffff"
+ ],
+ "monaguas_ven": [
+  "#434343",
+  "#ca1616"
+ ],
+ "monaguasb_ven": [
+  "#70709d",
+  "#434370"
+ ],
+ "monchengladbach_ale": [
+  "#000000",
+  "#00a650"
+ ],
+ "monscalpe_gib": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "montana_bul": [
+  "#439dca",
+  "#f74343"
+ ],
+ "montedioyamagata_jap": [
+  "#70709d",
+  "#161670"
+ ],
+ "monteroraima_rr": [
+  "#437043",
+  "#ca7016"
+ ],
+ "monterrey_mex": [
+  "#434370",
+  "#161643"
+ ],
+ "montevideotorque_uru": [
+  "#709dca",
+  "#161643"
+ ],
+ "montpellier_fra": [
+  "#434370",
+  "#161643"
+ ],
+ "montreal_can": [
+  "#43709d",
+  "#164370"
+ ],
+ "moreirense_por": [
+  "#00693e",
+  "#ffffff"
+ ],
+ "morrinhosgo_bra": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "morton_esc": [
+  "#439dca",
+  "#f7ca16"
+ ],
+ "motherwell_esc": [
+  "#9d4343",
+  "#f79d43"
+ ],
+ "motoclubma_bra": [
+  "#caca9d",
+  "#164370"
+ ],
+ "motorlublin_pol": [
+  "#caca43",
+  "#164370"
+ ],
+ "muglaspor_tur": [
+  "#439d70",
+  "#167043"
+ ],
+ "muricial": [
+  "#439d70",
+  "#167043"
+ ],
+ "mushucruna_equ": [
+  "#43ca70",
+  "#167016"
+ ],
+ "nacional_am": [
+  "#ffffff",
+  "#0038a8"
+ ],
+ "nacional_col": [
+  "#70ca9d",
+  "#169d43"
+ ],
+ "nacional_par": [
+  "#ffffff",
+  "#0038a8"
+ ],
+ "nacional_pb": [
+  "#ffffff",
+  "#0038a8"
+ ],
+ "nacional_por": [
+  "#ffffff",
+  "#0038a8"
+ ],
+ "nacional_uru": [
+  "#ffffff",
+  "#0038a8"
+ ],
+ "nacionalpotosi_bol": [
+  "#ffffff",
+  "#0038a8"
+ ],
+ "nagoyagrampus_jap": [
+  "#ca9d70",
+  "#ca1616"
+ ],
+ "nancy_fr": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "nantes_fr": [
+  "#70ca43",
+  "#169d43"
+ ],
+ "napier_nze": [
+  "#43709d",
+  "#164370"
+ ],
+ "napoli_it": [
+  "#12a0d7",
+  "#ffffff"
+ ],
+ "nashville_eua": [
+  "#9d9d43",
+  "#f7f743"
+ ],
+ "nationalbank_egi": [
+  "#437043",
+  "#709d70"
+ ],
+ "nautico": [
+  "#e30613",
+  "#ffffff"
+ ],
+ "neasalamina_chp": [
+  "#ca4343",
+  "#f77070"
+ ],
+ "neftekhimik_rus": [
+  "#437043",
+  "#ca4343"
+ ],
+ "nelson_nze": [
+  "#434370",
+  "#709dca"
+ ],
+ "nesebar_bul": [
+  "#70709d",
+  "#164370"
+ ],
+ "nestoschrysoupoli_gre": [
+  "#43709d",
+  "#164370"
+ ],
+ "newcastle_ing": [
+  "#241f20",
+  "#ffffff"
+ ],
+ "newcastlejets_aus": [
+  "#241f20",
+  "#ffffff"
+ ],
+ "newyorkcity_eua": [
+  "#709dca",
+  "#161643"
+ ],
+ "nice_fra": [
+  "#e30613",
+  "#000000"
+ ],
+ "nijmegen_hol": [
+  "#439d70",
+  "#167043"
+ ],
+ "nikivolos_gre": [
+  "#ca9d43",
+  "#1616ca"
+ ],
+ "ningbo_chn": [
+  "#70caca",
+  "#16439d"
+ ],
+ "nizhnynovgorod_rus": [
+  "#43709d",
+  "#164370"
+ ],
+ "nkana_zam": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "nknafta_elv": [
+  "#43439d",
+  "#7070ca"
+ ],
+ "nkzagreb_cro": [
+  "#ca9d43",
+  "#16439d"
+ ],
+ "nordicunited_sue": [
+  "#704343",
+  "#9d1616"
+ ],
+ "norrbyif_sue": [
+  "#43439d",
+  "#9d9dca"
+ ],
+ "norwichcity_ing": [
+  "#439d43",
+  "#9dca16"
+ ],
+ "nottinghamforest_ing": [
+  "#dd0000",
+  "#ffffff"
+ ],
+ "novamutum_mt": [
+  "#439d43",
+  "#16439d"
+ ],
+ "novohamburgo_bra": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "novorinzontino_sp": [
+  "#191919",
+  "#ffffff"
+ ],
+ "nsmura_elv": [
+  "#43439d",
+  "#1670ca"
+ ],
+ "nublense_chi": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "nurnberg_ale": [
+  "#ca9d9d",
+  "#9d1643"
+ ],
+ "nyredbulls_eua": [
+  "#70709d",
+  "#f71643"
+ ],
+ "odenseboldklub_din": [
+  "#43709d",
+  "#709dca"
+ ],
+ "odishi_geo": [
+  "#9d9dca",
+  "#701616"
+ ],
+ "odraopole_pol": [
+  "#437070",
+  "#16439d"
+ ],
+ "ofkbelgrad_ser": [
+  "#43709d",
+  "#709dca"
+ ],
+ "ogol-101898": [
+  "#70ca9d",
+  "#169d43"
+ ],
+ "ogol-102450": [
+  "#434370",
+  "#f71616"
+ ],
+ "ogol-102569": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "ogol-106161": [
+  "#437070",
+  "#164316"
+ ],
+ "ogol-108309": [
+  "#43439d",
+  "#f71616"
+ ],
+ "ogol-109140": [
+  "#434370",
+  "#70709d"
+ ],
+ "ogol-111110": [
+  "#709d9d",
+  "#161670"
+ ],
+ "ogol-111291": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "ogol-114721": [
+  "#ca9d43",
+  "#f7ca9d"
+ ],
+ "ogol-115301": [
+  "#ca9d43",
+  "#161643"
+ ],
+ "ogol-115353": [
+  "#70439d",
+  "#431643"
+ ],
+ "ogol-115862": [
+  "#70709d",
+  "#164370"
+ ],
+ "ogol-115863": [
+  "#434343",
+  "#707070"
+ ],
+ "ogol-11646": [
+  "#439d70",
+  "#167043"
+ ],
+ "ogol-12037": [
+  "#ca9d9d",
+  "#f71616"
+ ],
+ "ogol-13026": [
+  "#439d70",
+  "#167016"
+ ],
+ "ogol-13253": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "ogol-13680": [
+  "#70ca70",
+  "#169d16"
+ ],
+ "ogol-13683": [
+  "#707043",
+  "#161670"
+ ],
+ "ogol-13686": [
+  "#9d9d70",
+  "#167016"
+ ],
+ "ogol-13689": [
+  "#ca7070",
+  "#f71616"
+ ],
+ "ogol-13691": [
+  "#434370",
+  "#161643"
+ ],
+ "ogol-15167": [
+  "#704370",
+  "#16169d"
+ ],
+ "ogol-15171": [
+  "#43439d",
+  "#f71616"
+ ],
+ "ogol-15302": [
+  "#4370ca",
+  "#9d9dca"
+ ],
+ "ogol-15303": [
+  "#70709d",
+  "#161643"
+ ],
+ "ogol-15362": [
+  "#437043",
+  "#164316"
+ ],
+ "ogol-15433": [
+  "#434370",
+  "#161643"
+ ],
+ "ogol-15590": [
+  "#43439d",
+  "#161670"
+ ],
+ "ogol-15592": [
+  "#9d43ca",
+  "#167043"
+ ],
+ "ogol-15594": [
+  "#70caca",
+  "#161643"
+ ],
+ "ogol-15595": [
+  "#704343",
+  "#9d7070"
+ ],
+ "ogol-15640": [
+  "#0b3d91",
+  "#ffffff"
+ ],
+ "ogol-15641": [
+  "#70709d",
+  "#43169d"
+ ],
+ "ogol-15649": [
+  "#439d43",
+  "#ca1616"
+ ],
+ "ogol-15717": [
+  "#439d43",
+  "#9dca9d"
+ ],
+ "ogol-15723": [
+  "#709dca",
+  "#1643ca"
+ ],
+ "ogol-15736": [
+  "#434370",
+  "#16169d"
+ ],
+ "ogol-15767": [
+  "#434370",
+  "#161643"
+ ],
+ "ogol-15769": [
+  "#43439d",
+  "#ca1616"
+ ],
+ "ogol-15770": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "ogol-16130": [
+  "#9d9dca",
+  "#16439d"
+ ],
+ "ogol-16131": [
+  "#9d9d43",
+  "#164343"
+ ],
+ "ogol-16211": [
+  "#ca7043",
+  "#164370"
+ ],
+ "ogol-16217": [
+  "#ca9d43",
+  "#16709d"
+ ],
+ "ogol-16224": [
+  "#f5b301",
+  "#00246b"
+ ],
+ "ogol-16227": [
+  "#704343",
+  "#431616"
+ ],
+ "ogol-16843": [
+  "#70ca9d",
+  "#169d43"
+ ],
+ "ogol-17156": [
+  "#9d4343",
+  "#f71616"
+ ],
+ "ogol-17223": [
+  "#9d7070",
+  "#701616"
+ ],
+ "ogol-17769": [
+  "#70709d",
+  "#43169d"
+ ],
+ "ogol-18507": [
+  "#9dca43",
+  "#f7f716"
+ ],
+ "ogol-18622": [
+  "#434370",
+  "#161643"
+ ],
+ "ogol-18703": [
+  "#43439d",
+  "#f71616"
+ ],
+ "ogol-18913": [
+  "#709d70",
+  "#167016"
+ ],
+ "ogol-19223": [
+  "#434343",
+  "#f71616"
+ ],
+ "ogol-19365": [
+  "#437070",
+  "#16439d"
+ ],
+ "ogol-20533": [
+  "#ca9d70",
+  "#164370"
+ ],
+ "ogol-208784": [
+  "#709d70",
+  "#169d16"
+ ],
+ "ogol-208881": [
+  "#43709d",
+  "#709dca"
+ ],
+ "ogol-209129": [
+  "#a50044",
+  "#004d98"
+ ],
+ "ogol-21213": [
+  "#43709d",
+  "#164370"
+ ],
+ "ogol-214366": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "ogol-215017": [
+  "#439d70",
+  "#167043"
+ ],
+ "ogol-215411": [
+  "#9d9d43",
+  "#169dca"
+ ],
+ "ogol-217150": [
+  "#4343ca",
+  "#16169d"
+ ],
+ "ogol-21743": [
+  "#ca9d9d",
+  "#f71616"
+ ],
+ "ogol-21795": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "ogol-21892": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "ogol-221316": [
+  "#9d4343",
+  "#701616"
+ ],
+ "ogol-222466": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "ogol-225914": [
+  "#4343ca",
+  "#1616f7"
+ ],
+ "ogol-226476": [
+  "#434370",
+  "#16709d"
+ ],
+ "ogol-226674": [
+  "#caca43",
+  "#161643"
+ ],
+ "ogol-228271": [
+  "#439d70",
+  "#167043"
+ ],
+ "ogol-229600": [
+  "#709d70",
+  "#167016"
+ ],
+ "ogol-22966": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "ogol-22972": [
+  "#ca9d43",
+  "#434316"
+ ],
+ "ogol-230364": [
+  "#437043",
+  "#caf716"
+ ],
+ "ogol-232615": [
+  "#ca9d43",
+  "#704316"
+ ],
+ "ogol-233923": [
+  "#7070ca",
+  "#ca4343"
+ ],
+ "ogol-23445": [
+  "#434370",
+  "#ca1616"
+ ],
+ "ogol-236035": [
+  "#ca9d43",
+  "#161643"
+ ],
+ "ogol-23607": [
+  "#434370",
+  "#161643"
+ ],
+ "ogol-239379": [
+  "#7070ca",
+  "#16169d"
+ ],
+ "ogol-240424": [
+  "#9d9dca",
+  "#169d43"
+ ],
+ "ogol-242541": [
+  "#707043",
+  "#161643"
+ ],
+ "ogol-243643": [
+  "#ca9d43",
+  "#704316"
+ ],
+ "ogol-244280": [
+  "#9d7043",
+  "#ca1616"
+ ],
+ "ogol-24576": [
+  "#439d43",
+  "#ca1616"
+ ],
+ "ogol-24586": [
+  "#ca7043",
+  "#f7ca9d"
+ ],
+ "ogol-24591": [
+  "#70709d",
+  "#161670"
+ ],
+ "ogol-24594": [
+  "#709dca",
+  "#16439d"
+ ],
+ "ogol-24596": [
+  "#caca70",
+  "#16709d"
+ ],
+ "ogol-24599": [
+  "#a50044",
+  "#004d98"
+ ],
+ "ogol-24617": [
+  "#caca43",
+  "#164370"
+ ],
+ "ogol-248027": [
+  "#9dca70",
+  "#f71616"
+ ],
+ "ogol-248327": [
+  "#ca4343",
+  "#431616"
+ ],
+ "ogol-24904": [
+  "#439d70",
+  "#70ca9d"
+ ],
+ "ogol-249794": [
+  "#43709d",
+  "#161670"
+ ],
+ "ogol-255380": [
+  "#7070ca",
+  "#16439d"
+ ],
+ "ogol-255434": [
+  "#9d9dca",
+  "#16439d"
+ ],
+ "ogol-257751": [
+  "#9d4343",
+  "#164343"
+ ],
+ "ogol-260403": [
+  "#709dca",
+  "#16439d"
+ ],
+ "ogol-261392": [
+  "#9d9dca",
+  "#16439d"
+ ],
+ "ogol-262026": [
+  "#43439d",
+  "#f74343"
+ ],
+ "ogol-263307": [
+  "#ca9d70",
+  "#431670"
+ ],
+ "ogol-263633": [
+  "#caca43",
+  "#161670"
+ ],
+ "ogol-263635": [
+  "#f5f5f5",
+  "#111111"
+ ],
+ "ogol-265015": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "ogol-266836": [
+  "#439d70",
+  "#167043"
+ ],
+ "ogol-267801": [
+  "#ca7043",
+  "#431616"
+ ],
+ "ogol-269466": [
+  "#437043",
+  "#164316"
+ ],
+ "ogol-270303": [
+  "#70709d",
+  "#169d43"
+ ],
+ "ogol-270609": [
+  "#ca9d9d",
+  "#f77016"
+ ],
+ "ogol-270689": [
+  "#43709d",
+  "#f77016"
+ ],
+ "ogol-270734": [
+  "#439d43",
+  "#f71616"
+ ],
+ "ogol-270799": [
+  "#439dca",
+  "#16709d"
+ ],
+ "ogol-271280": [
+  "#ca4343",
+  "#16709d"
+ ],
+ "ogol-271286": [
+  "#434370",
+  "#f79d16"
+ ],
+ "ogol-271849": [
+  "#ca9d9d",
+  "#161670"
+ ],
+ "ogol-272125": [
+  "#434370",
+  "#161643"
+ ],
+ "ogol-273167": [
+  "#ca9d70",
+  "#16169d"
+ ],
+ "ogol-273632": [
+  "#434343",
+  "#f7caca"
+ ],
+ "ogol-27645": [
+  "#9d7070",
+  "#701616"
+ ],
+ "ogol-276477": [
+  "#43439d",
+  "#161670"
+ ],
+ "ogol-277235": [
+  "#caca43",
+  "#167043"
+ ],
+ "ogol-293500": [
+  "#ca4343",
+  "#164370"
+ ],
+ "ogol-295321": [
+  "#439d9d",
+  "#ca1616"
+ ],
+ "ogol-29657": [
+  "#439dca",
+  "#caca70"
+ ],
+ "ogol-297470": [
+  "#437043",
+  "#709d70"
+ ],
+ "ogol-297915": [
+  "#ca9d43",
+  "#f77016"
+ ],
+ "ogol-29931": [
+  "#439d43",
+  "#167016"
+ ],
+ "ogol-299599": [
+  "#9d7043",
+  "#161670"
+ ],
+ "ogol-3082": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "ogol-30838": [
+  "#43709d",
+  "#164370"
+ ],
+ "ogol-3088": [
+  "#ca4343",
+  "#434316"
+ ],
+ "ogol-3089": [
+  "#437043",
+  "#164316"
+ ],
+ "ogol-3103": [
+  "#0d5ba8",
+  "#ffffff"
+ ],
+ "ogol-3104": [
+  "#0d5ba8",
+  "#ffffff"
+ ],
+ "ogol-3115": [
+  "#434370",
+  "#439dca"
+ ],
+ "ogol-3121": [
+  "#434370",
+  "#70709d"
+ ],
+ "ogol-3133": [
+  "#43ca70",
+  "#169d43"
+ ],
+ "ogol-3138": [
+  "#ca9d70",
+  "#161670"
+ ],
+ "ogol-3139": [
+  "#a50044",
+  "#004d98"
+ ],
+ "ogol-3140": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "ogol-3149": [
+  "#9dca70",
+  "#16439d"
+ ],
+ "ogol-315774": [
+  "#4370ca",
+  "#9dcaf7"
+ ],
+ "ogol-3158": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "ogol-316193": [
+  "#ca9d43",
+  "#161643"
+ ],
+ "ogol-3167": [
+  "#9d4343",
+  "#167043"
+ ],
+ "ogol-3168": [
+  "#434370",
+  "#70709d"
+ ],
+ "ogol-31717": [
+  "#9d4343",
+  "#ca9d9d"
+ ],
+ "ogol-3188": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "ogol-3197": [
+  "#caca43",
+  "#f7f716"
+ ],
+ "ogol-3200": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "ogol-3201": [
+  "#709dca",
+  "#16439d"
+ ],
+ "ogol-321625": [
+  "#43439d",
+  "#9d9dca"
+ ],
+ "ogol-322016": [
+  "#4370ca",
+  "#169df7"
+ ],
+ "ogol-322019": [
+  "#caca70",
+  "#434316"
+ ],
+ "ogol-322020": [
+  "#43439d",
+  "#1616ca"
+ ],
+ "ogol-3221": [
+  "#43439d",
+  "#161670"
+ ],
+ "ogol-3224": [
+  "#704343",
+  "#431616"
+ ],
+ "ogol-322400": [
+  "#43439d",
+  "#f79d16"
+ ],
+ "ogol-32244": [
+  "#43439d",
+  "#f71616"
+ ],
+ "ogol-3240": [
+  "#9d4343",
+  "#431616"
+ ],
+ "ogol-3242": [
+  "#ca4343",
+  "#169d43"
+ ],
+ "ogol-3244": [
+  "#c52613",
+  "#ffffff"
+ ],
+ "ogol-3245": [
+  "#c52613",
+  "#ffffff"
+ ],
+ "ogol-3247": [
+  "#7a1a3a",
+  "#008c46"
+ ],
+ "ogol-3250": [
+  "#70709d",
+  "#164370"
+ ],
+ "ogol-3251": [
+  "#9dca9d",
+  "#169d43"
+ ],
+ "ogol-3253": [
+  "#434370",
+  "#161643"
+ ],
+ "ogol-3255": [
+  "#439d70",
+  "#167043"
+ ],
+ "ogol-3257": [
+  "#43439d",
+  "#70caf7"
+ ],
+ "ogol-3261": [
+  "#709dca",
+  "#16709d"
+ ],
+ "ogol-3273": [
+  "#006633",
+  "#ffffff"
+ ],
+ "ogol-3274": [
+  "#006633",
+  "#ffffff"
+ ],
+ "ogol-3276": [
+  "#006633",
+  "#ffffff"
+ ],
+ "ogol-3277": [
+  "#006633",
+  "#ffffff"
+ ],
+ "ogol-3279": [
+  "#437070",
+  "#164343"
+ ],
+ "ogol-327940": [
+  "#439d43",
+  "#161643"
+ ],
+ "ogol-3288": [
+  "#caca70",
+  "#164316"
+ ],
+ "ogol-3290": [
+  "#709dca",
+  "#1670ca"
+ ],
+ "ogol-3292": [
+  "#ca7070",
+  "#9d1616"
+ ],
+ "ogol-3293": [
+  "#434370",
+  "#169d43"
+ ],
+ "ogol-3296": [
+  "#70439d",
+  "#431670"
+ ],
+ "ogol-3297": [
+  "#ca4343",
+  "#16439d"
+ ],
+ "ogol-329764": [
+  "#ca4343",
+  "#16169d"
+ ],
+ "ogol-3299": [
+  "#43709d",
+  "#161643"
+ ],
+ "ogol-32993": [
+  "#0a5d2e",
+  "#ffffff"
+ ],
+ "ogol-3305": [
+  "#9d9dca",
+  "#16439d"
+ ],
+ "ogol-3310": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "ogol-3315": [
+  "#43439d",
+  "#161670"
+ ],
+ "ogol-3316": [
+  "#4370ca",
+  "#9d9dca"
+ ],
+ "ogol-3321": [
+  "#f5f5f5",
+  "#000000"
+ ],
+ "ogol-3325": [
+  "#439dca",
+  "#70caf7"
+ ],
+ "ogol-3330": [
+  "#434370",
+  "#1670ca"
+ ],
+ "ogol-333090": [
+  "#439dca",
+  "#16709d"
+ ],
+ "ogol-3334": [
+  "#437043",
+  "#164316"
+ ],
+ "ogol-3336": [
+  "#43ca70",
+  "#169d43"
+ ],
+ "ogol-3340": [
+  "#43caca",
+  "#9dcaf7"
+ ],
+ "ogol-3342": [
+  "#709dca",
+  "#16709d"
+ ],
+ "ogol-3350": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "ogol-3359": [
+  "#ffffff",
+  "#0038a8"
+ ],
+ "ogol-3360": [
+  "#ffffff",
+  "#0038a8"
+ ],
+ "ogol-3361": [
+  "#ffffff",
+  "#0038a8"
+ ],
+ "ogol-3362": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "ogol-3369": [
+  "#70709d",
+  "#161670"
+ ],
+ "ogol-3382": [
+  "#ca9d43",
+  "#9d1616"
+ ],
+ "ogol-33823": [
+  "#9d4343",
+  "#f71616"
+ ],
+ "ogol-3383": [
+  "#ca9d43",
+  "#161670"
+ ],
+ "ogol-3385": [
+  "#ca4343",
+  "#169d43"
+ ],
+ "ogol-3388": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "ogol-3389": [
+  "#9d9dca",
+  "#16169d"
+ ],
+ "ogol-3391": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "ogol-3393": [
+  "#ca7070",
+  "#9d1616"
+ ],
+ "ogol-3406": [
+  "#709d70",
+  "#167016"
+ ],
+ "ogol-3407": [
+  "#439d70",
+  "#ca1616"
+ ],
+ "ogol-3412": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "ogol-341429": [
+  "#ca4343",
+  "#431616"
+ ],
+ "ogol-3416": [
+  "#43ca9d",
+  "#16169d"
+ ],
+ "ogol-3418": [
+  "#43439d",
+  "#169d70"
+ ],
+ "ogol-3425": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "ogol-3434": [
+  "#439d70",
+  "#167043"
+ ],
+ "ogol-3440": [
+  "#ca9d9d",
+  "#9d1643"
+ ],
+ "ogol-3445": [
+  "#434370",
+  "#ca1616"
+ ],
+ "ogol-3450": [
+  "#ca4343",
+  "#f79d43"
+ ],
+ "ogol-3454": [
+  "#f5f5f5",
+  "#111111"
+ ],
+ "ogol-345625": [
+  "#434370",
+  "#9d9d43"
+ ],
+ "ogol-3458": [
+  "#704343",
+  "#f7709d"
+ ],
+ "ogol-3459": [
+  "#709dca",
+  "#1670ca"
+ ],
+ "ogol-3460": [
+  "#ca9d43",
+  "#164370"
+ ],
+ "ogol-3468": [
+  "#709d70",
+  "#ca1643"
+ ],
+ "ogol-3469": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "ogol-3472": [
+  "#434370",
+  "#161643"
+ ],
+ "ogol-3474": [
+  "#ca4343",
+  "#431616"
+ ],
+ "ogol-3476": [
+  "#ca4343",
+  "#169d9d"
+ ],
+ "ogol-3481": [
+  "#ca9d43",
+  "#9d7016"
+ ],
+ "ogol-3484": [
+  "#ca4343",
+  "#704316"
+ ],
+ "ogol-3487": [
+  "#434343",
+  "#f71616"
+ ],
+ "ogol-34981": [
+  "#439d70",
+  "#167043"
+ ],
+ "ogol-3503": [
+  "#caca43",
+  "#167043"
+ ],
+ "ogol-3504": [
+  "#ca4343",
+  "#f77070"
+ ],
+ "ogol-35090": [
+  "#caca70",
+  "#164316"
+ ],
+ "ogol-3510": [
+  "#43439d",
+  "#709dca"
+ ],
+ "ogol-3514": [
+  "#439d9d",
+  "#f79d70"
+ ],
+ "ogol-3518": [
+  "#437043",
+  "#164316"
+ ],
+ "ogol-3522": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "ogol-3526": [
+  "#9d9dca",
+  "#161670"
+ ],
+ "ogol-3530": [
+  "#9dcaca",
+  "#1670ca"
+ ],
+ "ogol-3533": [
+  "#70439d",
+  "#431670"
+ ],
+ "ogol-3534": [
+  "#9d4343",
+  "#f74343"
+ ],
+ "ogol-3539": [
+  "#43439d",
+  "#161670"
+ ],
+ "ogol-3540": [
+  "#43439d",
+  "#7070ca"
+ ],
+ "ogol-357471": [
+  "#9d9d70",
+  "#caca9d"
+ ],
+ "ogol-359694": [
+  "#9d7070",
+  "#701616"
+ ],
+ "ogol-359715": [
+  "#9d7070",
+  "#9d1616"
+ ],
+ "ogol-359716": [
+  "#ca4343",
+  "#169d43"
+ ],
+ "ogol-361662": [
+  "#709dca",
+  "#1643ca"
+ ],
+ "ogol-36315": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "ogol-36598": [
+  "#439d70",
+  "#167043"
+ ],
+ "ogol-37295": [
+  "#caca70",
+  "#161670"
+ ],
+ "ogol-3757": [
+  "#9d9d70",
+  "#70439d"
+ ],
+ "ogol-385723": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "ogol-386078": [
+  "#9d4343",
+  "#ca1616"
+ ],
+ "ogol-386330": [
+  "#008057",
+  "#ffffff"
+ ],
+ "ogol-386612": [
+  "#437043",
+  "#f7ca43"
+ ],
+ "ogol-38858": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "ogol-388786": [
+  "#9d4343",
+  "#701616"
+ ],
+ "ogol-388793": [
+  "#4343ca",
+  "#1616f7"
+ ],
+ "ogol-389393": [
+  "#43709d",
+  "#709dca"
+ ],
+ "ogol-389410": [
+  "#ca4370",
+  "#9d1643"
+ ],
+ "ogol-389881": [
+  "#439d70",
+  "#167043"
+ ],
+ "ogol-39065": [
+  "#434343",
+  "#caca16"
+ ],
+ "ogol-39069": [
+  "#ca9d9d",
+  "#ca1616"
+ ],
+ "ogol-391039": [
+  "#ca7043",
+  "#431616"
+ ],
+ "ogol-39380": [
+  "#9d9d43",
+  "#caca16"
+ ],
+ "ogol-39440": [
+  "#ca7043",
+  "#f74316"
+ ],
+ "ogol-39446": [
+  "#43439d",
+  "#161670"
+ ],
+ "ogol-396582": [
+  "#ca7070",
+  "#16169d"
+ ],
+ "ogol-39790": [
+  "#43709d",
+  "#164370"
+ ],
+ "ogol-40074": [
+  "#70709d",
+  "#161670"
+ ],
+ "ogol-41152": [
+  "#43caca",
+  "#167043"
+ ],
+ "ogol-41933": [
+  "#437043",
+  "#70ca9d"
+ ],
+ "ogol-43252": [
+  "#9d9d43",
+  "#161643"
+ ],
+ "ogol-44011": [
+  "#9d4343",
+  "#f7ca43"
+ ],
+ "ogol-44012": [
+  "#434343",
+  "#f71616"
+ ],
+ "ogol-44013": [
+  "#ca4343",
+  "#431616"
+ ],
+ "ogol-44014": [
+  "#437070",
+  "#164343"
+ ],
+ "ogol-44015": [
+  "#707043",
+  "#161643"
+ ],
+ "ogol-44130": [
+  "#709dca",
+  "#16709d"
+ ],
+ "ogol-44222": [
+  "#ca4343",
+  "#16439d"
+ ],
+ "ogol-48373": [
+  "#437043",
+  "#164316"
+ ],
+ "ogol-4940": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "ogol-5161": [
+  "#caca70",
+  "#169dca"
+ ],
+ "ogol-57514": [
+  "#ca4343",
+  "#431670"
+ ],
+ "ogol-57516": [
+  "#434370",
+  "#1616ca"
+ ],
+ "ogol-5862": [
+  "#439d43",
+  "#9d1616"
+ ],
+ "ogol-58654": [
+  "#0b3d91",
+  "#ffffff"
+ ],
+ "ogol-59724": [
+  "#434370",
+  "#161643"
+ ],
+ "ogol-6060": [
+  "#437043",
+  "#164316"
+ ],
+ "ogol-65466": [
+  "#439d43",
+  "#70ca70"
+ ],
+ "ogol-68036": [
+  "#439dca",
+  "#9d1616"
+ ],
+ "ogol-68510": [
+  "#ca4343",
+  "#16709d"
+ ],
+ "ogol-69197": [
+  "#caca43",
+  "#167043"
+ ],
+ "ogol-69908": [
+  "#43709d",
+  "#709dca"
+ ],
+ "ogol-71552": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "ogol-71582": [
+  "#439d70",
+  "#70ca9d"
+ ],
+ "ogol-71793": [
+  "#434370",
+  "#161643"
+ ],
+ "ogol-72999": [
+  "#434370",
+  "#161643"
+ ],
+ "ogol-77299": [
+  "#9d4343",
+  "#ca1616"
+ ],
+ "ogol-77537": [
+  "#9dca43",
+  "#164316"
+ ],
+ "ogol-79538": [
+  "#43439d",
+  "#161670"
+ ],
+ "ogol-81054": [
+  "#caca43",
+  "#161670"
+ ],
+ "ogol-81676": [
+  "#9d4343",
+  "#169d43"
+ ],
+ "ogol-8240": [
+  "#709dca",
+  "#16709d"
+ ],
+ "ogol-82421": [
+  "#70709d",
+  "#161670"
+ ],
+ "ogol-8317": [
+  "#70709d",
+  "#164370"
+ ],
+ "ogol-8321": [
+  "#434370",
+  "#9dcaf7"
+ ],
+ "ogol-84380": [
+  "#439d43",
+  "#43439d"
+ ],
+ "ogol-8451": [
+  "#43439d",
+  "#161670"
+ ],
+ "ogol-84640": [
+  "#439d9d",
+  "#164343"
+ ],
+ "ogol-8513": [
+  "#9d4343",
+  "#ca7070"
+ ],
+ "ogol-8514": [
+  "#43439d",
+  "#161670"
+ ],
+ "ogol-85267": [
+  "#ca9d43",
+  "#f7ca70"
+ ],
+ "ogol-8563": [
+  "#9d9dca",
+  "#16439d"
+ ],
+ "ogol-8610": [
+  "#4343ca",
+  "#16169d"
+ ],
+ "ogol-8684": [
+  "#434370",
+  "#161643"
+ ],
+ "ogol-88686": [
+  "#704343",
+  "#9dcaf7"
+ ],
+ "ogol-8880": [
+  "#caca43",
+  "#1616f7"
+ ],
+ "ogol-8988": [
+  "#43439d",
+  "#7070ca"
+ ],
+ "ogol-900000568": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "ogol-900001223": [
+  "#709d9d",
+  "#437070"
+ ],
+ "ogol-900001394": [
+  "#70ca70",
+  "#169d43"
+ ],
+ "ogol-900001510": [
+  "#43439d",
+  "#161670"
+ ],
+ "ogol-900001532": [
+  "#43439d",
+  "#f71616"
+ ],
+ "ogol-900001540": [
+  "#709d43",
+  "#f71616"
+ ],
+ "ogol-900001574": [
+  "#ca4343",
+  "#ca9d9d"
+ ],
+ "ogol-900001576": [
+  "#709dca",
+  "#16169d"
+ ],
+ "ogol-900001603": [
+  "#43439d",
+  "#169d43"
+ ],
+ "ogol-900001699": [
+  "#9d7043",
+  "#ca1616"
+ ],
+ "ogol-900001705": [
+  "#437070",
+  "#164343"
+ ],
+ "ogol-900001708": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "ogol-900001713": [
+  "#ca9d43",
+  "#f71616"
+ ],
+ "ogol-900001749": [
+  "#439d70",
+  "#167043"
+ ],
+ "ogol-900001786": [
+  "#437043",
+  "#f7ca16"
+ ],
+ "ogol-900001930": [
+  "#9d7043",
+  "#9d1616"
+ ],
+ "ogol-900001946": [
+  "#709d70",
+  "#167016"
+ ],
+ "ogol-900001957": [
+  "#43709d",
+  "#164370"
+ ],
+ "ogol-900002042": [
+  "#9d7043",
+  "#43ca16"
+ ],
+ "ogol-900002046": [
+  "#439d43",
+  "#169df7"
+ ],
+ "ogol-900002095": [
+  "#ca9d43",
+  "#434316"
+ ],
+ "ogol-900002111": [
+  "#434370",
+  "#ca1616"
+ ],
+ "ogol-900002137": [
+  "#43439d",
+  "#ca9d16"
+ ],
+ "ogol-900002272": [
+  "#ca9d43",
+  "#169d70"
+ ],
+ "ogol-900002335": [
+  "#43709d",
+  "#709dca"
+ ],
+ "ogol-900002417": [
+  "#9d9d43",
+  "#16439d"
+ ],
+ "ogol-900002505": [
+  "#43439d",
+  "#f71616"
+ ],
+ "ogol-900002507": [
+  "#709d9d",
+  "#9dcaf7"
+ ],
+ "ogol-900002650": [
+  "#43709d",
+  "#164370"
+ ],
+ "ogol-900002675": [
+  "#70439d",
+  "#16ca70"
+ ],
+ "ogol-900002676": [
+  "#434370",
+  "#161643"
+ ],
+ "ogol-900002678": [
+  "#434370",
+  "#70709d"
+ ],
+ "ogol-900002887": [
+  "#ca9d70",
+  "#167043"
+ ],
+ "ogol-900002913": [
+  "#434370",
+  "#f7f716"
+ ],
+ "ogol-900002932": [
+  "#707070",
+  "#9d1616"
+ ],
+ "ogol-900002934": [
+  "#43439d",
+  "#9d1616"
+ ],
+ "ogol-900002955": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "ogol-900003536": [
+  "#43439d",
+  "#9d9dca"
+ ],
+ "ogol-900003971": [
+  "#704343",
+  "#9d1616"
+ ],
+ "ogol-900004100": [
+  "#437043",
+  "#164316"
+ ],
+ "ogol-900004126": [
+  "#43709d",
+  "#164370"
+ ],
+ "ogol-900004219": [
+  "#434370",
+  "#f79d9d"
+ ],
+ "ogol-900004224": [
+  "#707043",
+  "#164370"
+ ],
+ "ogol-900004779": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "ogol-900004803": [
+  "#ca4343",
+  "#169d43"
+ ],
+ "ogol-900004975": [
+  "#43439d",
+  "#9d9dca"
+ ],
+ "ogol-900005219": [
+  "#9d4343",
+  "#169dca"
+ ],
+ "ogol-900005418": [
+  "#439d70",
+  "#70ca9d"
+ ],
+ "ogol-900005435": [
+  "#ca9d43",
+  "#161670"
+ ],
+ "ogol-900005437": [
+  "#707043",
+  "#161643"
+ ],
+ "ogol-900005465": [
+  "#70709d",
+  "#161670"
+ ],
+ "ogol-900005603": [
+  "#709d70",
+  "#167016"
+ ],
+ "ogol-900005679": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "ogol-900005694": [
+  "#43ca43",
+  "#f79d43"
+ ],
+ "ogol-900005856": [
+  "#caca70",
+  "#431616"
+ ],
+ "ogol-900005898": [
+  "#ca709d",
+  "#f79dca"
+ ],
+ "ogol-900005964": [
+  "#ca9d43",
+  "#f7ca16"
+ ],
+ "ogol-900006128": [
+  "#434343",
+  "#ca1616"
+ ],
+ "ogol-900006240": [
+  "#9d7043",
+  "#431616"
+ ],
+ "ogol-900006304": [
+  "#ca9d43",
+  "#164370"
+ ],
+ "ogol-900006382": [
+  "#43439d",
+  "#f7f743"
+ ],
+ "ogol-900006400": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "ogol-900006550": [
+  "#709d70",
+  "#167043"
+ ],
+ "ogol-900006592": [
+  "#43709d",
+  "#164370"
+ ],
+ "ogol-900006596": [
+  "#439dca",
+  "#1643ca"
+ ],
+ "ogol-900006621": [
+  "#70709d",
+  "#161670"
+ ],
+ "ogol-900006689": [
+  "#709dca",
+  "#169df7"
+ ],
+ "ogol-900006791": [
+  "#439d70",
+  "#70ca9d"
+ ],
+ "ogol-900006802": [
+  "#4370ca",
+  "#9dcaf7"
+ ],
+ "ogol-900006863": [
+  "#ca9d43",
+  "#16169d"
+ ],
+ "ogol-900006864": [
+  "#9d7070",
+  "#701616"
+ ],
+ "ogol-900006979": [
+  "#434370",
+  "#161643"
+ ],
+ "ogol-91126": [
+  "#9d7043",
+  "#164316"
+ ],
+ "ogol-91788": [
+  "#9dca70",
+  "#169df7"
+ ],
+ "ogol-92880": [
+  "#7a1a3a",
+  "#008c46"
+ ],
+ "ogol-93113": [
+  "#ca70ca",
+  "#161643"
+ ],
+ "ogol-93127": [
+  "#437043",
+  "#9df743"
+ ],
+ "ogol-93216": [
+  "#ca9d9d",
+  "#16439d"
+ ],
+ "ogol-93653": [
+  "#caca70",
+  "#16439d"
+ ],
+ "ogol-93654": [
+  "#437070",
+  "#16439d"
+ ],
+ "ogol-94631": [
+  "#709dca",
+  "#161670"
+ ],
+ "ogol-94650": [
+  "#9d4343",
+  "#701616"
+ ],
+ "ogol-94759": [
+  "#437070",
+  "#164343"
+ ],
+ "ogol-95080": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "ogol-95089": [
+  "#7070ca",
+  "#16169d"
+ ],
+ "ogol-9511": [
+  "#9d9d43",
+  "#437043"
+ ],
+ "ogol-95461": [
+  "#9d4343",
+  "#161643"
+ ],
+ "ogol-9638": [
+  "#709dca",
+  "#16709d"
+ ],
+ "ogol-9781": [
+  "#43439d",
+  "#ca4316"
+ ],
+ "ogol-9782": [
+  "#709d70",
+  "#167016"
+ ],
+ "ogol-9784": [
+  "#7070ca",
+  "#16169d"
+ ],
+ "ogol-98136": [
+  "#434370",
+  "#161643"
+ ],
+ "ohiggins_chi": [
+  "#439d43",
+  "#439dca"
+ ],
+ "ohleuven_bel": [
+  "#43ca43",
+  "#f74316"
+ ],
+ "oitatrinita_jap": [
+  "#43439d",
+  "#9d9dca"
+ ],
+ "olimpia_esl": [
+  "#70ca9d",
+  "#439d70"
+ ],
+ "olimpia_hon": [
+  "#434370",
+  "#161643"
+ ],
+ "olimpia_rom": [
+  "#caca43",
+  "#1643f7"
+ ],
+ "olympiacosb_gre": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "olympiakos_gre": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "olympiakosnicosia_chp": [
+  "#434343",
+  "#167070"
+ ],
+ "olympiquemarseile_fra": [
+  "#709dca",
+  "#16709d"
+ ],
+ "omdurman_sud": [
+  "#43439d",
+  "#7070ca"
+ ],
+ "omiyaardija_jap": [
+  "#434370",
+  "#ca1643"
+ ],
+ "omonia_chp": [
+  "#709d70",
+  "#167043"
+ ],
+ "omoniaaradippou_chp": [
+  "#43709d",
+  "#164370"
+ ],
+ "omonianicosia_chp": [
+  "#439d70",
+  "#167043"
+ ],
+ "oncecaldas_col": [
+  "#70709d",
+  "#169d43"
+ ],
+ "opatija_cro": [
+  "#9d7043",
+  "#ca9d16"
+ ],
+ "operariovg_mt": [
+  "#439d70",
+  "#ca1616"
+ ],
+ "oratorio_ap": [
+  "#43709d",
+  "#164370"
+ ],
+ "orbitcollege_afs": [
+  "#434370",
+  "#161643"
+ ],
+ "ordabasy_caz": [
+  "#709dca",
+  "#16439d"
+ ],
+ "orenburg_rus": [
+  "#434370",
+  "#161643"
+ ],
+ "orense_equ": [
+  "#437043",
+  "#164316"
+ ],
+ "orgryteis_sue": [
+  "#ca9d43",
+  "#701616"
+ ],
+ "oriental_uru": [
+  "#43709d",
+  "#70caf7"
+ ],
+ "orientepetrolero_bol": [
+  "#9dca9d",
+  "#167016"
+ ],
+ "orijent_cro": [
+  "#709dca",
+  "#ca4370"
+ ],
+ "orlandocity_eua": [
+  "#f5c518",
+  "#006633"
+ ],
+ "orlandopirates_afs": [
+  "#f5c518",
+  "#006633"
+ ],
+ "orsomarso_col": [
+  "#ca9d70",
+  "#161670"
+ ],
+ "osasuna_esp": [
+  "#0a346f",
+  "#d91a21"
+ ],
+ "osnabruck_ale": [
+  "#70439d",
+  "#431670"
+ ],
+ "ostersif_sue": [
+  "#ca9d43",
+  "#16709d"
+ ],
+ "otelulgalati_rom": [
+  "#709dca",
+  "#164370"
+ ],
+ "oxford_ing": [
+  "#434370",
+  "#f7ca16"
+ ],
+ "pacajusce_bra": [
+  "#439d43",
+  "#9dca9d"
+ ],
+ "pachuca_mex": [
+  "#43709d",
+  "#161670"
+ ],
+ "pacific_can": [
+  "#70439d",
+  "#16caca"
+ ],
+ "paderborn_ale": [
+  "#709dca",
+  "#16709d"
+ ],
+ "paide_est": [
+  "#709dca",
+  "#1670ca"
+ ],
+ "pajufrontier_cor": [
+  "#9dca43",
+  "#167070"
+ ],
+ "pakhtakor_ubz": [
+  "#434370",
+  "#caca16"
+ ],
+ "paks_hun": [
+  "#439d43",
+  "#167016"
+ ],
+ "palermo_it": [
+  "#ca9d43",
+  "#434316"
+ ],
+ "palmeiras": [
+  "#006437",
+  "#ffffff"
+ ],
+ "palmeirrn_bra": [
+  "#439d70",
+  "#167043"
+ ],
+ "panatinaikos_gre": [
+  "#439d70",
+  "#167043"
+ ],
+ "panetolikos_gre": [
+  "#9d9d43",
+  "#1643ca"
+ ],
+ "panserraikos_gre": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "panthrakikos_gre": [
+  "#9d9d70",
+  "#caca9d"
+ ],
+ "paraguari_par": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "pardubice_cze": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "paris_fra": [
+  "#434370",
+  "#161643"
+ ],
+ "parissaintgermain_fr": [
+  "#43709d",
+  "#f74343"
+ ],
+ "parma_it": [
+  "#434370",
+  "#707043"
+ ],
+ "parnahyba_pi": [
+  "#434370",
+  "#161643"
+ ],
+ "partizan_ser": [
+  "#ca7070",
+  "#9d1616"
+ ],
+ "patroeisden_bel": [
+  "#704370",
+  "#9d709d"
+ ],
+ "patronato_arg": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "pau_fra": [
+  "#434343",
+  "#f7ca16"
+ ],
+ "paysandu": [
+  "#0a5d2e",
+  "#ffffff"
+ ],
+ "paysandu_uru": [
+  "#434370",
+  "#161643"
+ ],
+ "penarol_am": [
+  "#e30613",
+  "#000000"
+ ],
+ "penarol_uru": [
+  "#e30613",
+  "#000000"
+ ],
+ "pendikspor_tur": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "penya_and": [
+  "#ca7070",
+  "#f71616"
+ ],
+ "perezzeledon_crc": [
+  "#439dca",
+  "#16709d"
+ ],
+ "perthglory_aus": [
+  "#70439d",
+  "#9d9dca"
+ ],
+ "pescara_it": [
+  "#4343ca",
+  "#43caf7"
+ ],
+ "petone_nze": [
+  "#43709d",
+  "#164370"
+ ],
+ "petrojet_egi": [
+  "#43439d",
+  "#ca1616"
+ ],
+ "petroluanda_ang": [
+  "#434370",
+  "#9d1616"
+ ],
+ "pharco_egi": [
+  "#ca7043",
+  "#f7ca9d"
+ ],
+ "philadelphiaunion_eua": [
+  "#caca9d",
+  "#161643"
+ ],
+ "piast_pol": [
+  "#ca9d70",
+  "#16439d"
+ ],
+ "piaui_pi": [
+  "#43439d",
+  "#f71616"
+ ],
+ "pirin_bul": [
+  "#439d43",
+  "#9dca9d"
+ ],
+ "plazacolonia_uru": [
+  "#439d70",
+  "#70ca9d"
+ ],
+ "podbeskidzie_pol": [
+  "#70709d",
+  "#161670"
+ ],
+ "pogongrodzisk_pol": [
+  "#ca4343",
+  "#f7ca9d"
+ ],
+ "pogonsiedlce_pol": [
+  "#caca9d",
+  "#ca1616"
+ ],
+ "pohangsteelers_cor": [
+  "#ca4343",
+  "#f7ca16"
+ ],
+ "polissya_ucr": [
+  "#43ca43",
+  "#164316"
+ ],
+ "politehnica_rom": [
+  "#70439d",
+  "#9d9dca"
+ ],
+ "poloniabytom_pol": [
+  "#43439d",
+  "#f79d16"
+ ],
+ "poloniavarsovia_pol": [
+  "#9d4343",
+  "#ca1616"
+ ],
+ "pontepreta_bra": [
+  "#191919",
+  "#ffffff"
+ ],
+ "popestileordeni_rom": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "portlandtimbers_eua": [
+  "#437043",
+  "#164316"
+ ],
+ "porto": [
+  "#0b4ea2",
+  "#ffffff"
+ ],
+ "portovelho_ro": [
+  "#43709d",
+  "#ca4343"
+ ],
+ "portsmouth_ing": [
+  "#43439d",
+  "#161670"
+ ],
+ "portuguesarj_bra": [
+  "#ca4343",
+  "#167016"
+ ],
+ "potyguarrn_bra": [
+  "#434370",
+  "#161643"
+ ],
+ "preston_eng": [
+  "#709dca",
+  "#161643"
+ ],
+ "primavera_mt": [
+  "#70439d",
+  "#9d70ca"
+ ],
+ "primorje_elv": [
+  "#ca4343",
+  "#701616"
+ ],
+ "princesa_am": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "progreso_uru": [
+  "#ca4343",
+  "#f77016"
+ ],
+ "prospera_sc": [
+  "#ca4343",
+  "#169d43"
+ ],
+ "psvB_hol": [
+  "#ca9d43",
+  "#f71616"
+ ],
+ "psv_hol": [
+  "#ed1c24",
+  "#ffffff"
+ ],
+ "puebla_mex": [
+  "#434370",
+  "#70709d"
+ ],
+ "puertomontt_chi": [
+  "#439d43",
+  "#43439d"
+ ],
+ "pumasunam_mex": [
+  "#434343",
+  "#161670"
+ ],
+ "puskás_hun": [
+  "#434370",
+  "#70709d"
+ ],
+ "puszcza_pol": [
+  "#ca4343",
+  "#167043"
+ ],
+ "pwdBamenda_cam": [
+  "#43709d",
+  "#9d9d70"
+ ],
+ "pyramidsfc_egi": [
+  "#709dca",
+  "#164370"
+ ],
+ "pyrgos_gre": [
+  "#9d4343",
+  "#701616"
+ ],
+ "pyunikerewan_arm": [
+  "#434370",
+  "#161643"
+ ],
+ "qarabag_aze": [
+  "#43439d",
+  "#161670"
+ ],
+ "qingdaohainiu_chn": [
+  "#434370",
+  "#161643"
+ ],
+ "qingdaowc_chn": [
+  "#ca9d43",
+  "#16439d"
+ ],
+ "queenspark_ing": [
+  "#43709d",
+  "#709dca"
+ ],
+ "queretaro_mex": [
+  "#43709d",
+  "#164370"
+ ],
+ "quilmes_arg": [
+  "#434370",
+  "#161643"
+ ],
+ "quindio_col": [
+  "#437043",
+  "#ca1616"
+ ],
+ "raal_bel": [
+  "#70ca9d",
+  "#167070"
+ ],
+ "racing_arg": [
+  "#75aadb",
+  "#ffffff"
+ ],
+ "racing_esp": [
+  "#ffffff",
+  "#1b458f"
+ ],
+ "racing_uru": [
+  "#ffffff",
+  "#1b458f"
+ ],
+ "racingcordoba_arg": [
+  "#ffffff",
+  "#1b458f"
+ ],
+ "radnickikragujevac_ser": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "radnikbijeljina_bos": [
+  "#4343ca",
+  "#9d9df7"
+ ],
+ "radnkisurdulica_ser": [
+  "#439dca",
+  "#43439d"
+ ],
+ "radomiak_pol": [
+  "#439d43",
+  "#f71616"
+ ],
+ "raith_esc": [
+  "#ca4343",
+  "#164370"
+ ],
+ "rajacasablanca_mar": [
+  "#70ca9d",
+  "#169d43"
+ ],
+ "rakow_pol": [
+  "#43709d",
+  "#f71616"
+ ],
+ "ramatgan_isr": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "ramnicuvalcea_rom": [
+  "#43439d",
+  "#ca1616"
+ ],
+ "ramplajuniors_uru": [
+  "#9d4343",
+  "#169d70"
+ ],
+ "randers_den": [
+  "#434370",
+  "#161643"
+ ],
+ "rangers_chi": [
+  "#9d7043",
+  "#434316"
+ ],
+ "rangers_esc": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "ranheim_nor": [
+  "#43439d",
+  "#9d9dca"
+ ],
+ "rapperswil_sui": [
+  "#ca7070",
+  "#9d4343"
+ ],
+ "rayovallecano_esp": [
+  "#caca43",
+  "#f74343"
+ ],
+ "rayozuliano_ven": [
+  "#9d9dca",
+  "#16439d"
+ ],
+ "rcabidjan_cma": [
+  "#ca709d",
+  "#16439d"
+ ],
+ "realcartagena_col": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "realcundinamarca_col": [
+  "#437043",
+  "#709d70"
+ ],
+ "realesteli_nic": [
+  "#ca9d43",
+  "#169d43"
+ ],
+ "realfrontera_ven": [
+  "#ca9d43",
+  "#9d1616"
+ ],
+ "realmadrid_esp": [
+  "#f5f5f5",
+  "#00529f"
+ ],
+ "realnoroeste_es": [
+  "#9d7070",
+  "#431616"
+ ],
+ "realoviedo_esp": [
+  "#0057a8",
+  "#ffffff"
+ ],
+ "realpotosi_bol": [
+  "#ca9d43",
+  "#43439d"
+ ],
+ "realsociedadB_esp": [
+  "#0067b1",
+  "#ffffff"
+ ],
+ "realsociedad_esp": [
+  "#0067b1",
+  "#ffffff"
+ ],
+ "realtomayapo_bol": [
+  "#9dca9d",
+  "#167016"
+ ],
+ "recoleta_chi": [
+  "#ca9d43",
+  "#9d7016"
+ ],
+ "recoleta_par": [
+  "#ca9d43",
+  "#f7ca70"
+ ],
+ "redstar_fra": [
+  "#437070",
+  "#164343"
+ ],
+ "reggiana_it": [
+  "#704343",
+  "#ca9d43"
+ ],
+ "remo": [
+  "#0d5ba8",
+  "#ffffff"
+ ],
+ "rennes_fr": [
+  "#e23d3d",
+  "#000000"
+ ],
+ "renova_mkd": [
+  "#439dca",
+  "#169d43"
+ ],
+ "resenderj_bra": [
+  "#434370",
+  "#f79d70"
+ ],
+ "retrope_bra": [
+  "#707043",
+  "#161670"
+ ],
+ "rfs_let": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "riga_let": [
+  "#437070",
+  "#164343"
+ ],
+ "rijeka_cro": [
+  "#ca9d43",
+  "#16709d"
+ ],
+ "riobranco_pr": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "riverplate_arg": [
+  "#ffffff",
+  "#e3262f"
+ ],
+ "riverplate_uru": [
+  "#ffffff",
+  "#e3262f"
+ ],
+ "rivers_nga": [
+  "#ca7070",
+  "#9d4343"
+ ],
+ "rosariocentral_arg": [
+  "#9d9d43",
+  "#164370"
+ ],
+ "rosscounty_esc": [
+  "#434370",
+  "#161643"
+ ],
+ "rostov_rus": [
+  "#9d9d43",
+  "#16439d"
+ ],
+ "rotor_rus": [
+  "#709d9d",
+  "#169dca"
+ ],
+ "royalantwerp_bel": [
+  "#9d9d43",
+  "#f71616"
+ ],
+ "royalpari_bol": [
+  "#9d9d43",
+  "#f71616"
+ ],
+ "rubinkazan_rus": [
+  "#9d4343",
+  "#701616"
+ ],
+ "rubionu_par": [
+  "#caca9d",
+  "#164316"
+ ],
+ "ruchchorzow_pol": [
+  "#709dca",
+  "#16709d"
+ ],
+ "rudarprijedor_bos": [
+  "#439dca",
+  "#16439d"
+ ],
+ "rudes_cro": [
+  "#43439d",
+  "#161670"
+ ],
+ "ruzomberok_slk": [
+  "#43439d",
+  "#f71616"
+ ],
+ "sagantosu_jap": [
+  "#43caca",
+  "#f7439d"
+ ],
+ "sakaryaspor_tur": [
+  "#439d70",
+  "#167043"
+ ],
+ "salgueirope_bra": [
+  "#437043",
+  "#164316"
+ ],
+ "salzburg_aut": [
+  "#70709d",
+  "#f71643"
+ ],
+ "sampaiocorrea_rj": [
+  "#707043",
+  "#16439d"
+ ],
+ "sampdoria_it": [
+  "#43709d",
+  "#f71616"
+ ],
+ "samsunspor_tur": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "sanantonio_bol": [
+  "#709d43",
+  "#161643"
+ ],
+ "sanantonio_equ": [
+  "#434343",
+  "#ca1616"
+ ],
+ "sancarlos_crc": [
+  "#434370",
+  "#f71616"
+ ],
+ "sandefjord_nor": [
+  "#43709d",
+  "#ca1643"
+ ],
+ "sandiego_eua": [
+  "#434370",
+  "#161643"
+ ],
+ "sandnes_nor": [
+  "#439dca",
+  "#ca9d16"
+ ],
+ "sanfrancisco_pan": [
+  "#ca4343",
+  "#ffffff"
+ ],
+ "sanfreccehiroshima_jap": [
+  "#43439d",
+  "#ca9d43"
+ ],
+ "sanlorenzo_ar": [
+  "#0067b1",
+  "#ffffff"
+ ],
+ "sanlorenzo_par": [
+  "#0067b1",
+  "#ffffff"
+ ],
+ "sanluis_chi": [
+  "#9d9d43",
+  "#caca16"
+ ],
+ "sanmarcos_chi": [
+  "#439dca",
+  "#16439d"
+ ],
+ "sanmarcos_per": [
+  "#439dca",
+  "#16439d"
+ ],
+ "sanmartint_arg": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "sanmiguel_arg": [
+  "#70ca9d",
+  "#169d16"
+ ],
+ "santa": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "santacatarina_sc": [
+  "#ca9d70",
+  "#f7ca9d"
+ ],
+ "santaclara_por": [
+  "#ca7043",
+  "#f79d9d"
+ ],
+ "santacruz_chi": [
+  "#439d43",
+  "#167016"
+ ],
+ "santacruzrn": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "santelmo_arg": [
+  "#439dca",
+  "#161670"
+ ],
+ "santiagowanders_chi": [
+  "#709d9d",
+  "#167043"
+ ],
+ "santos": [
+  "#f5f5f5",
+  "#111111"
+ ],
+ "santos_per": [
+  "#f5f5f5",
+  "#111111"
+ ],
+ "santoslaguna_mex": [
+  "#f5f5f5",
+  "#111111"
+ ],
+ "saobento_bra": [
+  "#709dca",
+  "#16709d"
+ ],
+ "saocaetano_bra": [
+  "#9d9d70",
+  "#ca1616"
+ ],
+ "saojose_ma": [
+  "#439d70",
+  "#167043"
+ ],
+ "saojosers_bra": [
+  "#70439d",
+  "#431670"
+ ],
+ "saoluiz_rs": [
+  "#ca4343",
+  "#ca9d9d"
+ ],
+ "saopaulo_bra": [
+  "#e51b23",
+  "#ffffff"
+ ],
+ "saoraimundo_rr": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "saraievo_bos": [
+  "#43709d",
+  "#164370"
+ ],
+ "sardarapat_arm": [
+  "#caca9d",
+  "#9d4316"
+ ],
+ "sariyerspor_tur": [
+  "#4370ca",
+  "#9dcaf7"
+ ],
+ "sarmiento_arg": [
+  "#709d70",
+  "#167016"
+ ],
+ "sarpsborg08_nor": [
+  "#43439d",
+  "#9d9dca"
+ ],
+ "sassuolo_it": [
+  "#70ca9d",
+  "#169d43"
+ ],
+ "sccambuur_hol": [
+  "#9d9d43",
+  "#f71616"
+ ],
+ "schalke04_ale": [
+  "#709dca",
+  "#16439d"
+ ],
+ "seatllesounders_eua": [
+  "#43ca43",
+  "#16439d"
+ ],
+ "segesta_cro": [
+  "#439dca",
+  "#caca16"
+ ],
+ "seinajoki_fin": [
+  "#caca43",
+  "#704316"
+ ],
+ "sekhukhuneunited_afs": [
+  "#9d4370",
+  "#ca9d9d"
+ ],
+ "selimbar_rom": [
+  "#ca4343",
+  "#ca9d9d"
+ ],
+ "selwyn_nze": [
+  "#43709d",
+  "#709dca"
+ ],
+ "seongnam_cor": [
+  "#434343",
+  "#9d9d70"
+ ],
+ "seoul_cor": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "seouleland_cor": [
+  "#9d7043",
+  "#161643"
+ ],
+ "sepsi_rom": [
+  "#ca4343",
+  "#ca9d9d"
+ ],
+ "septemvrisofia_bul": [
+  "#43709d",
+  "#f71616"
+ ],
+ "seraing_bel": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "sergipe_se": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "serikspor_tur": [
+  "#439dca",
+  "#169d43"
+ ],
+ "serrabranca_pb": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "servette_sui": [
+  "#704343",
+  "#9d7070"
+ ],
+ "sesvete_cro": [
+  "#704343",
+  "#f71643"
+ ],
+ "sevilla_esp": [
+  "#d81920",
+  "#ffffff"
+ ],
+ "sfintul_mol": [
+  "#434343",
+  "#9d1643"
+ ],
+ "shafa_aze": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "shamakhi_aze": [
+  "#434370",
+  "#70709d"
+ ],
+ "shamrock_irl": [
+  "#439d43",
+  "#167016"
+ ],
+ "shanghaishenhua_chn": [
+  "#43709d",
+  "#ca1616"
+ ],
+ "sharjah_uae": [
+  "#43439d",
+  "#ca9d70"
+ ],
+ "shenzhenjrs_chn": [
+  "#434370",
+  "#161643"
+ ],
+ "shenzhenpeng_chn": [
+  "#43ca70",
+  "#161643"
+ ],
+ "shijiazhuanggongfu_chn": [
+  "#43709d",
+  "#169dca"
+ ],
+ "shimizuspulse_jap": [
+  "#707043",
+  "#164370"
+ ],
+ "shinnikyaroslavl_rus": [
+  "#709dca",
+  "#16439d"
+ ],
+ "shirakgiumri_arm": [
+  "#ca7043",
+  "#9d4316"
+ ],
+ "shkendija_mkd": [
+  "#704343",
+  "#ca1616"
+ ],
+ "shkupi_mkd": [
+  "#43439d",
+  "#9d9dca"
+ ],
+ "shonanbellmare_jap": [
+  "#43709d",
+  "#70ca16"
+ ],
+ "shturmi_geo": [
+  "#ca9d43",
+  "#701616"
+ ],
+ "sigma_cze": [
+  "#709dca",
+  "#16709d"
+ ],
+ "sileks_mkd": [
+  "#43709d",
+  "#164370"
+ ],
+ "sinop_mt": [
+  "#43709d",
+  "#164370"
+ ],
+ "sint_bel": [
+  "#709d70",
+  "#16709d"
+ ],
+ "sion_sui": [
+  "#704343",
+  "#f71616"
+ ],
+ "sirens_mta": [
+  "#709dca",
+  "#1670ca"
+ ],
+ "sirokibrijeg_bos": [
+  "#9d9d43",
+  "#164370"
+ ],
+ "sivasspor_tur": [
+  "#ca4343",
+  "#f77070"
+ ],
+ "siwelele_afs": [
+  "#439d70",
+  "#167043"
+ ],
+ "sjearthquakes_eua": [
+  "#43709d",
+  "#164370"
+ ],
+ "skakhabarovsk_rus": [
+  "#9d9dca",
+  "#164370"
+ ],
+ "skuamstetten_aut": [
+  "#434370",
+  "#161643"
+ ],
+ "slaskwroclaw_pol": [
+  "#439d70",
+  "#f7ca70"
+ ],
+ "slavenbelupo_cro": [
+  "#ca9d70",
+  "#16439d"
+ ],
+ "slavia_cze": [
+  "#ca9d70",
+  "#f71643"
+ ],
+ "slaviasofia_bul": [
+  "#ca9d43",
+  "#caca9d"
+ ],
+ "slogameridian_bos": [
+  "#709dca",
+  "#ca1616"
+ ],
+ "slovacko_tch": [
+  "#434370",
+  "#70709d"
+ ],
+ "slovan_slk": [
+  "#439dca",
+  "#16709d"
+ ],
+ "smouha_egi": [
+  "#434370",
+  "#70709d"
+ ],
+ "sochaux_fr": [
+  "#43709d",
+  "#164370"
+ ],
+ "solamerica_par": [
+  "#439dca",
+  "#16709d"
+ ],
+ "soligorsk_bie": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "sonderjyske_din": [
+  "#70709d",
+  "#164370"
+ ],
+ "sousapb_bra": [
+  "#ca4343",
+  "#167043"
+ ],
+ "spaeri_geo": [
+  "#ca9d43",
+  "#161643"
+ ],
+ "sparta_hol": [
+  "#ca9d43",
+  "#f71616"
+ ],
+ "spartak_rus": [
+  "#caca70",
+  "#ca1643"
+ ],
+ "spartakkostroma_rus": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "spartakvarna_bul": [
+  "#709dca",
+  "#16709d"
+ ],
+ "sportboys_per": [
+  "#434343",
+  "#ca9dca"
+ ],
+ "sporthuncayo_per": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "sporthuncayoii_per": [
+  "#ca9d43",
+  "#f71616"
+ ],
+ "sportingB_por": [
+  "#008057",
+  "#ffffff"
+ ],
+ "sporting_crc": [
+  "#008057",
+  "#ffffff"
+ ],
+ "sporting_por": [
+  "#008057",
+  "#ffffff"
+ ],
+ "sportingbraga_por": [
+  "#c8102e",
+  "#ffffff"
+ ],
+ "sportingcristal_per": [
+  "#008057",
+  "#ffffff"
+ ],
+ "sportingescaldes_and": [
+  "#008057",
+  "#ffffff"
+ ],
+ "sportinggijon_esp": [
+  "#008057",
+  "#ffffff"
+ ],
+ "sportinghasselt_bel": [
+  "#008057",
+  "#ffffff"
+ ],
+ "sportingkc_eua": [
+  "#008057",
+  "#ffffff"
+ ],
+ "sportivoameliano_par": [
+  "#43439d",
+  "#7070ca"
+ ],
+ "sportivocarapegua_par": [
+  "#704343",
+  "#f71616"
+ ],
+ "sportivoluqueno_par": [
+  "#ca9d43",
+  "#164370"
+ ],
+ "sportivotrinidense_par": [
+  "#9d9dca",
+  "#161670"
+ ],
+ "st_ettiene_fr": [
+  "#caca70",
+  "#169d43"
+ ],
+ "stabaek_nor": [
+  "#9d9d43",
+  "#164370"
+ ],
+ "stademalien_mli": [
+  "#43709d",
+  "#164370"
+ ],
+ "stalmielec_pol": [
+  "#43709d",
+  "#f7ca43"
+ ],
+ "stalrzeszow_pol": [
+  "#70709d",
+  "#169dca"
+ ],
+ "standardliege_bel": [
+  "#9d9d70",
+  "#f71643"
+ ],
+ "stefanestii_rom": [
+  "#4370ca",
+  "#f7ca43"
+ ],
+ "stellenbosch_afs": [
+  "#ca9d43",
+  "#701616"
+ ],
+ "steua_bucaresti_rom": [
+  "#434370",
+  "#ca4316"
+ ],
+ "stgallen_sui": [
+  "#439d70",
+  "#167043"
+ ],
+ "stjohnstone_esc": [
+  "#caca70",
+  "#16439d"
+ ],
+ "stjosephs_gib": [
+  "#7070ca",
+  "#1616ca"
+ ],
+ "stokecity_ing": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "stpotten_aut": [
+  "#434370",
+  "#caca16"
+ ],
+ "strasbourg_fra": [
+  "#ca4343",
+  "#169df7"
+ ],
+ "strommen_nor": [
+  "#ca4343",
+  "#f77070"
+ ],
+ "sudtirol_it": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "sumqayit_azb": [
+  "#434370",
+  "#ffffff"
+ ],
+ "sunderland_ing": [
+  "#caca70",
+  "#f71616"
+ ],
+ "sutjeska_mon": [
+  "#43439d",
+  "#9d9d70"
+ ],
+ "suva_fij": [
+  "#439d70",
+  "#167043"
+ ],
+ "suwon_cor": [
+  "#43709d",
+  "#164370"
+ ],
+ "suwonbluewings_cor": [
+  "#caca43",
+  "#16439d"
+ ],
+ "suzhou_chn": [
+  "#caca70",
+  "#ca1616"
+ ],
+ "svried_aut": [
+  "#709d9d",
+  "#167043"
+ ],
+ "sydneyfc_aus": [
+  "#005daa",
+  "#ffb81c"
+ ],
+ "syunik_arm": [
+  "#70709d",
+  "#434370"
+ ],
+ "tacnaheroica_per": [
+  "#709dca",
+  "#16439d"
+ ],
+ "tacuary_par": [
+  "#ca9d43",
+  "#f7ca9d"
+ ],
+ "talleres_arg": [
+  "#434370",
+  "#161643"
+ ],
+ "tampinesrovers_sin": [
+  "#709dca",
+  "#ca9d70"
+ ],
+ "tanger_mar": [
+  "#7070ca",
+  "#9d9df7"
+ ],
+ "tapatio_mex": [
+  "#434370",
+  "#161643"
+ ],
+ "targumures_rom": [
+  "#709dca",
+  "#1670ca"
+ ],
+ "tauranga_nze": [
+  "#ca9d43",
+  "#169dca"
+ ],
+ "tauro_pan": [
+  "#caca70",
+  "#f7f79d"
+ ],
+ "tegevajaromiyazaki_jap": [
+  "#434370",
+  "#f7ca70"
+ ],
+ "tembetary_par": [
+  "#9dca9d",
+  "#f77070"
+ ],
+ "temuco_chi": [
+  "#434343",
+  "#169d43"
+ ],
+ "tenerife_esp": [
+  "#ca9d43",
+  "#16439d"
+ ],
+ "tepatitlan_mex": [
+  "#434370",
+  "#161643"
+ ],
+ "teplice_cze": [
+  "#ca9d43",
+  "#1643ca"
+ ],
+ "terekgroznyi_rus": [
+  "#439d70",
+  "#70ca9d"
+ ],
+ "teungueth_sen": [
+  "#43439d",
+  "#ca9d16"
+ ],
+ "thenewsaints_wal": [
+  "#439d70",
+  "#167043"
+ ],
+ "tianjinteda_chn": [
+  "#43709d",
+  "#169df7"
+ ],
+ "tigre_arg": [
+  "#43709d",
+  "#164370"
+ ],
+ "tigres_col": [
+  "#f5b301",
+  "#00246b"
+ ],
+ "tigres_mex": [
+  "#f5b301",
+  "#00246b"
+ ],
+ "tijuana_mex": [
+  "#704343",
+  "#f71616"
+ ],
+ "tirol_ce": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "tlaxcala_mex": [
+  "#9d7043",
+  "#9d1616"
+ ],
+ "tm-1": [
+  "#9d9d43",
+  "#16439d"
+ ],
+ "tm-10043": [
+  "#9d4343",
+  "#f7ca16"
+ ],
+ "tm-10118": [
+  "#ca9d70",
+  "#ca1616"
+ ],
+ "tm-10140": [
+  "#439d70",
+  "#167043"
+ ],
+ "tm-101648": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-101950": [
+  "#008057",
+  "#ffffff"
+ ],
+ "tm-102": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "tm-102624": [
+  "#ca9d70",
+  "#f71616"
+ ],
+ "tm-1027": [
+  "#704343",
+  "#ca9d43"
+ ],
+ "tm-10284": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "tm-103163": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-1032": [
+  "#ca4343",
+  "#16439d"
+ ],
+ "tm-10391": [
+  "#9d9dca",
+  "#16169d"
+ ],
+ "tm-104": [
+  "#caca43",
+  "#16439d"
+ ],
+ "tm-1042": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-1045": [
+  "#9d9d70",
+  "#707043"
+ ],
+ "tm-106": [
+  "#43439d",
+  "#ca1616"
+ ],
+ "tm-1060": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "tm-1065": [
+  "#9dca9d",
+  "#169d43"
+ ],
+ "tm-1071": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "tm-10773": [
+  "#007fc8",
+  "#ffffff"
+ ],
+ "tm-1078": [
+  "#43709d",
+  "#709dca"
+ ],
+ "tm-10789": [
+  "#9d7043",
+  "#f71616"
+ ],
+ "tm-107959": [
+  "#709dca",
+  "#ca1616"
+ ],
+ "tm-108": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "tm-10838": [
+  "#43439d",
+  "#f7ca43"
+ ],
+ "tm-10846": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "tm-1088": [
+  "#709dca",
+  "#16439d"
+ ],
+ "tm-10895": [
+  "#9d7070",
+  "#164370"
+ ],
+ "tm-1098": [
+  "#43709d",
+  "#709dca"
+ ],
+ "tm-10980": [
+  "#ca9d43",
+  "#439d16"
+ ],
+ "tm-11085": [
+  "#43709d",
+  "#f71616"
+ ],
+ "tm-1110": [
+  "#709dca",
+  "#164370"
+ ],
+ "tm-11177": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "tm-11245": [
+  "#ca9d43",
+  "#701616"
+ ],
+ "tm-11259": [
+  "#9dcaca",
+  "#16439d"
+ ],
+ "tm-1127": [
+  "#43709d",
+  "#161643"
+ ],
+ "tm-11310": [
+  "#704343",
+  "#161643"
+ ],
+ "tm-114519": [
+  "#70caca",
+  "#161670"
+ ],
+ "tm-11483": [
+  "#434370",
+  "#f71616"
+ ],
+ "tm-1150": [
+  "#704343",
+  "#f71616"
+ ],
+ "tm-11590": [
+  "#439d70",
+  "#f7ca43"
+ ],
+ "tm-11601": [
+  "#43709d",
+  "#164370"
+ ],
+ "tm-11603": [
+  "#ca9d70",
+  "#701670"
+ ],
+ "tm-11617": [
+  "#ca9d70",
+  "#16439d"
+ ],
+ "tm-1162": [
+  "#ca4343",
+  "#164343"
+ ],
+ "tm-116338": [
+  "#707043",
+  "#16439d"
+ ],
+ "tm-11646": [
+  "#ca9d43",
+  "#ca4316"
+ ],
+ "tm-117": [
+  "#43709d",
+  "#f71616"
+ ],
+ "tm-1170": [
+  "#439dca",
+  "#ca1616"
+ ],
+ "tm-1175": [
+  "#43709d",
+  "#f71616"
+ ],
+ "tm-1176": [
+  "#ffffff",
+  "#1b458f"
+ ],
+ "tm-1181": [
+  "#ca7043",
+  "#f79d70"
+ ],
+ "tm-1195": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "tm-11972": [
+  "#ffe667",
+  "#005187"
+ ],
+ "tm-1210": [
+  "#ca9d43",
+  "#701643"
+ ],
+ "tm-1219": [
+  "#709dca",
+  "#16439d"
+ ],
+ "tm-122445": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "tm-12317": [
+  "#ca9d43",
+  "#f7ca70"
+ ],
+ "tm-12361": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-12405": [
+  "#ca9d43",
+  "#ca4316"
+ ],
+ "tm-12497": [
+  "#439dca",
+  "#431670"
+ ],
+ "tm-1252": [
+  "#43709d",
+  "#164370"
+ ],
+ "tm-12524": [
+  "#709dca",
+  "#16439d"
+ ],
+ "tm-12588": [
+  "#439dca",
+  "#ca1616"
+ ],
+ "tm-12666": [
+  "#434370",
+  "#f71616"
+ ],
+ "tm-12815": [
+  "#caca43",
+  "#167043"
+ ],
+ "tm-12826": [
+  "#43709d",
+  "#f7ca16"
+ ],
+ "tm-12886": [
+  "#ca9d70",
+  "#9d7043"
+ ],
+ "tm-12988": [
+  "#434370",
+  "#16709d"
+ ],
+ "tm-1302": [
+  "#9d7043",
+  "#9d1643"
+ ],
+ "tm-1316": [
+  "#9d7070",
+  "#ca1616"
+ ],
+ "tm-13227": [
+  "#caca43",
+  "#167043"
+ ],
+ "tm-13240": [
+  "#4370ca",
+  "#167043"
+ ],
+ "tm-13244": [
+  "#434370",
+  "#ca1616"
+ ],
+ "tm-1328": [
+  "#709d9d",
+  "#161670"
+ ],
+ "tm-132806": [
+  "#434370",
+  "#70709d"
+ ],
+ "tm-13299": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "tm-134": [
+  "#70caca",
+  "#169dca"
+ ],
+ "tm-13436": [
+  "#70709d",
+  "#f71616"
+ ],
+ "tm-13466": [
+  "#caca70",
+  "#16439d"
+ ],
+ "tm-1348": [
+  "#43439d",
+  "#9d9dca"
+ ],
+ "tm-13702": [
+  "#43709d",
+  "#ca1616"
+ ],
+ "tm-13718": [
+  "#439dca",
+  "#16709d"
+ ],
+ "tm-13726": [
+  "#439d43",
+  "#169dca"
+ ],
+ "tm-139": [
+  "#43439d",
+  "#161670"
+ ],
+ "tm-13950": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "tm-14080": [
+  "#434343",
+  "#ffffff"
+ ],
+ "tm-14088": [
+  "#9d7043",
+  "#16439d"
+ ],
+ "tm-141323": [
+  "#ca7043",
+  "#701616"
+ ],
+ "tm-1414": [
+  "#4343ca",
+  "#1616f7"
+ ],
+ "tm-14157": [
+  "#434370",
+  "#f77016"
+ ],
+ "tm-14672": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "tm-1468": [
+  "#7070ca",
+  "#16169d"
+ ],
+ "tm-14707": [
+  "#ca9d43",
+  "#161670"
+ ],
+ "tm-1530": [
+  "#43709d",
+  "#1643ca"
+ ],
+ "tm-1564": [
+  "#ca4343",
+  "#161643"
+ ],
+ "tm-16055": [
+  "#439d43",
+  "#16439d"
+ ],
+ "tm-16575": [
+  "#43709d",
+  "#f71616"
+ ],
+ "tm-16576": [
+  "#0d2f81",
+  "#e30613"
+ ],
+ "tm-16596": [
+  "#ca4343",
+  "#16439d"
+ ],
+ "tm-166": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-16602": [
+  "#ca9d43",
+  "#434316"
+ ],
+ "tm-171": [
+  "#ca9d43",
+  "#ca4316"
+ ],
+ "tm-177": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "tm-17847": [
+  "#70709d",
+  "#161670"
+ ],
+ "tm-18044": [
+  "#008057",
+  "#ffffff"
+ ],
+ "tm-18595": [
+  "#ca4343",
+  "#1670ca"
+ ],
+ "tm-18633": [
+  "#43709d",
+  "#709dca"
+ ],
+ "tm-18642": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-18669": [
+  "#707043",
+  "#ca1616"
+ ],
+ "tm-18687": [
+  "#704343",
+  "#161643"
+ ],
+ "tm-18691": [
+  "#9d9d43",
+  "#434316"
+ ],
+ "tm-1881": [
+  "#caca43",
+  "#ca4316"
+ ],
+ "tm-19077": [
+  "#ef0107",
+  "#ffffff"
+ ],
+ "tm-20518": [
+  "#9d7043",
+  "#431616"
+ ],
+ "tm-20528": [
+  "#ca9d70",
+  "#16439d"
+ ],
+ "tm-20646": [
+  "#709dca",
+  "#16439d"
+ ],
+ "tm-20664": [
+  "#caca43",
+  "#164370"
+ ],
+ "tm-2067": [
+  "#709dca",
+  "#16439d"
+ ],
+ "tm-20844": [
+  "#9d4343",
+  "#16439d"
+ ],
+ "tm-20877": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "tm-20903": [
+  "#9d4343",
+  "#ca1616"
+ ],
+ "tm-20921": [
+  "#43439d",
+  "#ca1616"
+ ],
+ "tm-21322": [
+  "#437043",
+  "#ca1616"
+ ],
+ "tm-215": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-21688": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "tm-220": [
+  "#709d43",
+  "#164370"
+ ],
+ "tm-22045": [
+  "#ca9d70",
+  "#1670ca"
+ ],
+ "tm-22249": [
+  "#43709d",
+  "#164370"
+ ],
+ "tm-22408": [
+  "#ca9d70",
+  "#9d1616"
+ ],
+ "tm-225": [
+  "#704343",
+  "#f71616"
+ ],
+ "tm-2253": [
+  "#707043",
+  "#434316"
+ ],
+ "tm-22563": [
+  "#43709d",
+  "#164370"
+ ],
+ "tm-2262": [
+  "#437070",
+  "#164343"
+ ],
+ "tm-22672": [
+  "#ca4343",
+  "#161643"
+ ],
+ "tm-2292": [
+  "#9d4343",
+  "#ca1616"
+ ],
+ "tm-23023": [
+  "#9d7043",
+  "#ca1616"
+ ],
+ "tm-2319": [
+  "#ca9d70",
+  "#9d1616"
+ ],
+ "tm-23509": [
+  "#caca70",
+  "#169d43"
+ ],
+ "tm-2428": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "tm-2434": [
+  "#ca4343",
+  "#f7ca16"
+ ],
+ "tm-24445": [
+  "#ca4343",
+  "#16709d"
+ ],
+ "tm-245": [
+  "#000000",
+  "#e60000"
+ ],
+ "tm-24518": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "tm-2454": [
+  "#caca70",
+  "#ca1616"
+ ],
+ "tm-2455": [
+  "#437070",
+  "#16439d"
+ ],
+ "tm-2459": [
+  "#707043",
+  "#f7ca70"
+ ],
+ "tm-2464": [
+  "#a50044",
+  "#004d98"
+ ],
+ "tm-247": [
+  "#709dca",
+  "#16439d"
+ ],
+ "tm-24785": [
+  "#43439d",
+  "#ca7043"
+ ],
+ "tm-24898": [
+  "#ca9d70",
+  "#164370"
+ ],
+ "tm-25639": [
+  "#ca9d43",
+  "#161643"
+ ],
+ "tm-2575": [
+  "#9d4343",
+  "#f71616"
+ ],
+ "tm-2577": [
+  "#9d9dca",
+  "#16439d"
+ ],
+ "tm-2580": [
+  "#704370",
+  "#431643"
+ ],
+ "tm-25836": [
+  "#ca9d43",
+  "#169d16"
+ ],
+ "tm-2598": [
+  "#439d70",
+  "#167043"
+ ],
+ "tm-26251": [
+  "#caca43",
+  "#9d9d70"
+ ],
+ "tm-26856": [
+  "#43439d",
+  "#ca4343"
+ ],
+ "tm-26863": [
+  "#caca9d",
+  "#164343"
+ ],
+ "tm-26870": [
+  "#ca9d70",
+  "#ca1616"
+ ],
+ "tm-26871": [
+  "#43439d",
+  "#709dca"
+ ],
+ "tm-26957": [
+  "#439d70",
+  "#167043"
+ ],
+ "tm-27419": [
+  "#439d43",
+  "#f74316"
+ ],
+ "tm-275": [
+  "#709dca",
+  "#f71616"
+ ],
+ "tm-27603": [
+  "#70ca9d",
+  "#167070"
+ ],
+ "tm-2773": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "tm-27737": [
+  "#43709d",
+  "#169dca"
+ ],
+ "tm-27745": [
+  "#7070ca",
+  "#9dcaca"
+ ],
+ "tm-2793": [
+  "#43709d",
+  "#164370"
+ ],
+ "tm-2796": [
+  "#ca7070",
+  "#9d1616"
+ ],
+ "tm-28": [
+  "#dc052d",
+  "#ffffff"
+ ],
+ "tm-28014": [
+  "#caca70",
+  "#16169d"
+ ],
+ "tm-2804": [
+  "#ca4343",
+  "#169d70"
+ ],
+ "tm-2805": [
+  "#439dca",
+  "#164370"
+ ],
+ "tm-2814": [
+  "#709dca",
+  "#16709d"
+ ],
+ "tm-2829": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "tm-28457": [
+  "#9d9d43",
+  "#164370"
+ ],
+ "tm-2855": [
+  "#9dca70",
+  "#43caf7"
+ ],
+ "tm-2867": [
+  "#43709d",
+  "#164370"
+ ],
+ "tm-2923": [
+  "#caca43",
+  "#1616f7"
+ ],
+ "tm-29271": [
+  "#ca9d70",
+  "#ca9d16"
+ ],
+ "tm-293": [
+  "#ca4343",
+  "#1670ca"
+ ],
+ "tm-2944": [
+  "#709dca",
+  "#16439d"
+ ],
+ "tm-29476": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-2962": [
+  "#ca7043",
+  "#43709d"
+ ],
+ "tm-2963": [
+  "#9d9d43",
+  "#434316"
+ ],
+ "tm-2964": [
+  "#9d4343",
+  "#169dca"
+ ],
+ "tm-2972": [
+  "#439dca",
+  "#16709d"
+ ],
+ "tm-2978": [
+  "#ca9d43",
+  "#167043"
+ ],
+ "tm-29988": [
+  "#437070",
+  "#16439d"
+ ],
+ "tm-2999": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "tm-30": [
+  "#439dca",
+  "#f74316"
+ ],
+ "tm-3001": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-3016": [
+  "#43709d",
+  "#169dca"
+ ],
+ "tm-3020": [
+  "#ca9d43",
+  "#704316"
+ ],
+ "tm-30200": [
+  "#709dca",
+  "#1670ca"
+ ],
+ "tm-30245": [
+  "#709dca",
+  "#1643ca"
+ ],
+ "tm-3028": [
+  "#704343",
+  "#f71616"
+ ],
+ "tm-3030": [
+  "#ca9d43",
+  "#161643"
+ ],
+ "tm-3032": [
+  "#43709d",
+  "#164370"
+ ],
+ "tm-3034": [
+  "#4343ca",
+  "#1616f7"
+ ],
+ "tm-30443": [
+  "#9d9d70",
+  "#ffffff"
+ ],
+ "tm-3052": [
+  "#ca9d43",
+  "#161643"
+ ],
+ "tm-30891": [
+  "#9d439d",
+  "#ca1616"
+ ],
+ "tm-31367": [
+  "#9d9d43",
+  "#16439d"
+ ],
+ "tm-32018": [
+  "#43439d",
+  "#434343"
+ ],
+ "tm-3264": [
+  "#439d43",
+  "#16709d"
+ ],
+ "tm-3274": [
+  "#ca4343",
+  "#ca9d9d"
+ ],
+ "tm-3312": [
+  "#439d70",
+  "#167043"
+ ],
+ "tm-3318": [
+  "#ffffff",
+  "#1b458f"
+ ],
+ "tm-33303": [
+  "#caca43",
+  "#ca1616"
+ ],
+ "tm-3332": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "tm-3348": [
+  "#434370",
+  "#f71616"
+ ],
+ "tm-33734": [
+  "#9dcaca",
+  "#167043"
+ ],
+ "tm-33818": [
+  "#caca9d",
+  "#704316"
+ ],
+ "tm-34": [
+  "#709dca",
+  "#16439d"
+ ],
+ "tm-34148": [
+  "#707043",
+  "#164370"
+ ],
+ "tm-3455": [
+  "#caca43",
+  "#434316"
+ ],
+ "tm-34798": [
+  "#70caca",
+  "#9d1643"
+ ],
+ "tm-349": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "tm-352": [
+  "#caca70",
+  "#ca1616"
+ ],
+ "tm-35327": [
+  "#434343",
+  "#ca1616"
+ ],
+ "tm-3537": [
+  "#ca4343",
+  "#434370"
+ ],
+ "tm-3539": [
+  "#43439d",
+  "#ca1643"
+ ],
+ "tm-3541": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "tm-3679": [
+  "#434370",
+  "#f71616"
+ ],
+ "tm-3682": [
+  "#43439d",
+  "#161643"
+ ],
+ "tm-3684": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "tm-3688": [
+  "#ca7070",
+  "#9d4316"
+ ],
+ "tm-3696": [
+  "#707043",
+  "#f71616"
+ ],
+ "tm-3697": [
+  "#ca9d70",
+  "#9d1616"
+ ],
+ "tm-3698": [
+  "#9d4370",
+  "#701643"
+ ],
+ "tm-3705": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "tm-3712": [
+  "#9d7043",
+  "#ca9d9d"
+ ],
+ "tm-3717": [
+  "#43439d",
+  "#f74343"
+ ],
+ "tm-373": [
+  "#ca4370",
+  "#ca1616"
+ ],
+ "tm-37381": [
+  "#9d4343",
+  "#ca1616"
+ ],
+ "tm-37486": [
+  "#ca4343",
+  "#701616"
+ ],
+ "tm-3786": [
+  "#707043",
+  "#16439d"
+ ],
+ "tm-37893": [
+  "#709d9d",
+  "#167043"
+ ],
+ "tm-3795": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "tm-37956": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "tm-380": [
+  "#9d4343",
+  "#701616"
+ ],
+ "tm-38006": [
+  "#cd2534",
+  "#ffffff"
+ ],
+ "tm-3804": [
+  "#ca7070",
+  "#9d1643"
+ ],
+ "tm-3820": [
+  "#43439d",
+  "#709dca"
+ ],
+ "tm-38274": [
+  "#ca4343",
+  "#431616"
+ ],
+ "tm-3868": [
+  "#ca9d43",
+  "#ca4316"
+ ],
+ "tm-3884": [
+  "#4370ca",
+  "#f71616"
+ ],
+ "tm-38899": [
+  "#43709d",
+  "#f7ca43"
+ ],
+ "tm-389": [
+  "#4370ca",
+  "#16439d"
+ ],
+ "tm-3912": [
+  "#9dca9d",
+  "#169d16"
+ ],
+ "tm-3915": [
+  "#43709d",
+  "#164370"
+ ],
+ "tm-393": [
+  "#70ca9d",
+  "#169d43"
+ ],
+ "tm-3936": [
+  "#43709d",
+  "#439d43"
+ ],
+ "tm-39869": [
+  "#70709d",
+  "#164370"
+ ],
+ "tm-4031": [
+  "#9d7043",
+  "#164343"
+ ],
+ "tm-4054": [
+  "#43439d",
+  "#f7ca16"
+ ],
+ "tm-4083": [
+  "#434370",
+  "#f71616"
+ ],
+ "tm-4084": [
+  "#9d7070",
+  "#701616"
+ ],
+ "tm-4095": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-40977": [
+  "#439d43",
+  "#167016"
+ ],
+ "tm-4103": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-4106": [
+  "#9d7070",
+  "#ca9d16"
+ ],
+ "tm-41101": [
+  "#f5f5f5",
+  "#000000"
+ ],
+ "tm-41110": [
+  "#1d71b8",
+  "#000000"
+ ],
+ "tm-41119": [
+  "#4370ca",
+  "#16169d"
+ ],
+ "tm-41128": [
+  "#43709d",
+  "#169df7"
+ ],
+ "tm-41539": [
+  "#43709d",
+  "#ca1616"
+ ],
+ "tm-41553": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "tm-41604": [
+  "#9dcaca",
+  "#43709d"
+ ],
+ "tm-41709": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "tm-42039": [
+  "#ca7070",
+  "#16caf7"
+ ],
+ "tm-42609": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-4279": [
+  "#ca9d70",
+  "#164370"
+ ],
+ "tm-4333": [
+  "#caca70",
+  "#f71616"
+ ],
+ "tm-4341": [
+  "#caca70",
+  "#ca1616"
+ ],
+ "tm-43454": [
+  "#439d43",
+  "#9dcaca"
+ ],
+ "tm-43467": [
+  "#439dca",
+  "#16439d"
+ ],
+ "tm-435": [
+  "#4370ca",
+  "#9dcaca"
+ ],
+ "tm-43540": [
+  "#434370",
+  "#70caf7"
+ ],
+ "tm-44223": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "tm-44277": [
+  "#9dcaca",
+  "#169dca"
+ ],
+ "tm-44281": [
+  "#439dca",
+  "#16709d"
+ ],
+ "tm-44584": [
+  "#ca4343",
+  "#16169d"
+ ],
+ "tm-446": [
+  "#709dca",
+  "#16709d"
+ ],
+ "tm-45": [
+  "#709dca",
+  "#16439d"
+ ],
+ "tm-45238": [
+  "#70ca9d",
+  "#169d70"
+ ],
+ "tm-45369": [
+  "#70439d",
+  "#431670"
+ ],
+ "tm-4541": [
+  "#709dca",
+  "#1670ca"
+ ],
+ "tm-45493": [
+  "#439d43",
+  "#16439d"
+ ],
+ "tm-4553": [
+  "#4370ca",
+  "#1616ca"
+ ],
+ "tm-459": [
+  "#70ca70",
+  "#164343"
+ ],
+ "tm-45922": [
+  "#ca9d43",
+  "#ca4343"
+ ],
+ "tm-46324": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-46337": [
+  "#43ca43",
+  "#169df7"
+ ],
+ "tm-46619": [
+  "#9dcaca",
+  "#434316"
+ ],
+ "tm-473": [
+  "#ca9d9d",
+  "#9d1643"
+ ],
+ "tm-47421": [
+  "#70caca",
+  "#ca1616"
+ ],
+ "tm-47794": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-47880": [
+  "#709dca",
+  "#16709d"
+ ],
+ "tm-479": [
+  "#43709d",
+  "#caca16"
+ ],
+ "tm-4855": [
+  "#4370ca",
+  "#9dcaf7"
+ ],
+ "tm-48690": [
+  "#ca9d9d",
+  "#ca1616"
+ ],
+ "tm-48991": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "tm-497": [
+  "#437070",
+  "#16439d"
+ ],
+ "tm-49957": [
+  "#ca7043",
+  "#16439d"
+ ],
+ "tm-50186": [
+  "#9d4343",
+  "#164370"
+ ],
+ "tm-50684": [
+  "#4370ca",
+  "#70caf7"
+ ],
+ "tm-50755": [
+  "#43709d",
+  "#f71616"
+ ],
+ "tm-50814": [
+  "#70439d",
+  "#9d70ca"
+ ],
+ "tm-51402": [
+  "#9d9dca",
+  "#70439d"
+ ],
+ "tm-51404": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-52": [
+  "#434370",
+  "#70709d"
+ ],
+ "tm-52109": [
+  "#ca9d43",
+  "#9d1616"
+ ],
+ "tm-5222": [
+  "#709dca",
+  "#9dcaf7"
+ ],
+ "tm-5227": [
+  "#43709d",
+  "#9d9d16"
+ ],
+ "tm-52687": [
+  "#43709d",
+  "#f77016"
+ ],
+ "tm-5407": [
+  "#439d70",
+  "#ca1616"
+ ],
+ "tm-54636": [
+  "#434343",
+  "#ffffff"
+ ],
+ "tm-5514": [
+  "#709dca",
+  "#161643"
+ ],
+ "tm-5542": [
+  "#ca4343",
+  "#164370"
+ ],
+ "tm-55644": [
+  "#439dca",
+  "#16709d"
+ ],
+ "tm-55705": [
+  "#ca439d",
+  "#16ca16"
+ ],
+ "tm-5585": [
+  "#ca4343",
+  "#f71616"
+ ],
+ "tm-5608": [
+  "#43709d",
+  "#164370"
+ ],
+ "tm-56265": [
+  "#43709d",
+  "#169df7"
+ ],
+ "tm-5646": [
+  "#437070",
+  "#ca1616"
+ ],
+ "tm-5650": [
+  "#ca9d70",
+  "#9d7043"
+ ],
+ "tm-56725": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "tm-5683": [
+  "#9d4343",
+  "#167016"
+ ],
+ "tm-56852": [
+  "#437070",
+  "#709dca"
+ ],
+ "tm-57": [
+  "#439d70",
+  "#f74343"
+ ],
+ "tm-5761": [
+  "#709d70",
+  "#16709d"
+ ],
+ "tm-57981": [
+  "#ca439d",
+  "#16169d"
+ ],
+ "tm-58267": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-59757": [
+  "#caca43",
+  "#f71616"
+ ],
+ "tm-60225": [
+  "#43439d",
+  "#ca1616"
+ ],
+ "tm-6023": [
+  "#ca9d43",
+  "#f7ca70"
+ ],
+ "tm-61431": [
+  "#ca9d70",
+  "#f71643"
+ ],
+ "tm-615": [
+  "#70ca9d",
+  "#169d43"
+ ],
+ "tm-6168": [
+  "#caca9d",
+  "#434343"
+ ],
+ "tm-6182": [
+  "#ee3524",
+  "#000000"
+ ],
+ "tm-6201": [
+  "#ca9d70",
+  "#16709d"
+ ],
+ "tm-6212": [
+  "#ca9d43",
+  "#161643"
+ ],
+ "tm-6266": [
+  "#9d7043",
+  "#161643"
+ ],
+ "tm-63": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "tm-6340": [
+  "#43709d",
+  "#f7ca16"
+ ],
+ "tm-63432": [
+  "#ca4343",
+  "#701616"
+ ],
+ "tm-6377": [
+  "#439dca",
+  "#16caf7"
+ ],
+ "tm-6380": [
+  "#43709d",
+  "#164370"
+ ],
+ "tm-6541": [
+  "#ca9d70",
+  "#f71643"
+ ],
+ "tm-66": [
+  "#709dca",
+  "#16439d"
+ ],
+ "tm-6604": [
+  "#709dca",
+  "#16709d"
+ ],
+ "tm-6630": [
+  "#437070",
+  "#709d9d"
+ ],
+ "tm-6649": [
+  "#439dca",
+  "#16709d"
+ ],
+ "tm-66588": [
+  "#434370",
+  "#ca1616"
+ ],
+ "tm-666": [
+  "#704370",
+  "#431643"
+ ],
+ "tm-668": [
+  "#43709d",
+  "#709dca"
+ ],
+ "tm-6692": [
+  "#ca9d70",
+  "#161670"
+ ],
+ "tm-6699": [
+  "#ca709d",
+  "#ca1643"
+ ],
+ "tm-67176": [
+  "#707043",
+  "#161670"
+ ],
+ "tm-67212": [
+  "#9d9d70",
+  "#707043"
+ ],
+ "tm-6767": [
+  "#f5f5f5",
+  "#00529f"
+ ],
+ "tm-67752": [
+  "#43439d",
+  "#161670"
+ ],
+ "tm-6776": [
+  "#709dca",
+  "#16439d"
+ ],
+ "tm-68062": [
+  "#9d9dca",
+  "#16169d"
+ ],
+ "tm-68608": [
+  "#ca9d43",
+  "#16439d"
+ ],
+ "tm-69084": [
+  "#4343ca",
+  "#161670"
+ ],
+ "tm-6910": [
+  "#707043",
+  "#16439d"
+ ],
+ "tm-6987": [
+  "#9d4343",
+  "#ca7070"
+ ],
+ "tm-7025": [
+  "#437070",
+  "#16439d"
+ ],
+ "tm-7030": [
+  "#9d4343",
+  "#ca1616"
+ ],
+ "tm-704": [
+  "#ca4343",
+  "#431616"
+ ],
+ "tm-70452": [
+  "#9d7043",
+  "#704316"
+ ],
+ "tm-70511": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-7056": [
+  "#439d43",
+  "#caca16"
+ ],
+ "tm-7067": [
+  "#43709d",
+  "#709dca"
+ ],
+ "tm-7088": [
+  "#70709d",
+  "#ca1616"
+ ],
+ "tm-71": [
+  "#ffffff",
+  "#e32219"
+ ],
+ "tm-7117": [
+  "#9d4343",
+  "#f7f743"
+ ],
+ "tm-7123": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "tm-7189": [
+  "#434370",
+  "#ca1616"
+ ],
+ "tm-72": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-7211": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-72715": [
+  "#43caca",
+  "#1670ca"
+ ],
+ "tm-74155": [
+  "#43439d",
+  "#f71616"
+ ],
+ "tm-75381": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "tm-75511": [
+  "#437043",
+  "#164316"
+ ],
+ "tm-76190": [
+  "#709dca",
+  "#1670ca"
+ ],
+ "tm-7679": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "tm-77643": [
+  "#9d4343",
+  "#ca7070"
+ ],
+ "tm-77673": [
+  "#ca4343",
+  "#431616"
+ ],
+ "tm-7790": [
+  "#0a5d2e",
+  "#ffffff"
+ ],
+ "tm-77974": [
+  "#709dca",
+  "#161670"
+ ],
+ "tm-78": [
+  "#70ca9d",
+  "#169d70"
+ ],
+ "tm-78108": [
+  "#ca9d43",
+  "#f77016"
+ ],
+ "tm-7811": [
+  "#e00000",
+  "#ffffff"
+ ],
+ "tm-7971": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-7975": [
+  "#434370",
+  "#f7f716"
+ ],
+ "tm-804": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "tm-8123": [
+  "#9dcaca",
+  "#ca9d43"
+ ],
+ "tm-81614": [
+  "#70ca43",
+  "#164343"
+ ],
+ "tm-8235": [
+  "#43709d",
+  "#f71616"
+ ],
+ "tm-8239": [
+  "#9d9d70",
+  "#431616"
+ ],
+ "tm-83100": [
+  "#434343",
+  "#ffffff"
+ ],
+ "tm-83848": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "tm-83894": [
+  "#ca7043",
+  "#167043"
+ ],
+ "tm-839": [
+  "#704343",
+  "#f71616"
+ ],
+ "tm-84412": [
+  "#434343",
+  "#9d1643"
+ ],
+ "tm-8494": [
+  "#e20613",
+  "#000000"
+ ],
+ "tm-85": [
+  "#709dca",
+  "#16439d"
+ ],
+ "tm-8506": [
+  "#ca9d9d",
+  "#9d1616"
+ ],
+ "tm-851": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "tm-8510": [
+  "#005999",
+  "#ffffff"
+ ],
+ "tm-8516": [
+  "#0a346f",
+  "#d91a21"
+ ],
+ "tm-8519": [
+  "#d81920",
+  "#ffffff"
+ ],
+ "tm-85287": [
+  "#434370",
+  "#439df7"
+ ],
+ "tm-868": [
+  "#707043",
+  "#161643"
+ ],
+ "tm-87": [
+  "#437070",
+  "#164343"
+ ],
+ "tm-8728": [
+  "#434370",
+  "#70caf7"
+ ],
+ "tm-87938": [
+  "#caca43",
+  "#434316"
+ ],
+ "tm-8820": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-88609": [
+  "#ca9d43",
+  "#701643"
+ ],
+ "tm-8880": [
+  "#9d9dca",
+  "#16439d"
+ ],
+ "tm-892": [
+  "#439d43",
+  "#f74316"
+ ],
+ "tm-895": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "tm-8950": [
+  "#434370",
+  "#f7ca43"
+ ],
+ "tm-8981": [
+  "#ca9d70",
+  "#ca1616"
+ ],
+ "tm-899": [
+  "#9d9d70",
+  "#f71643"
+ ],
+ "tm-90": [
+  "#709d9d",
+  "#164370"
+ ],
+ "tm-90735": [
+  "#caca70",
+  "#169df7"
+ ],
+ "tm-91510": [
+  "#437043",
+  "#f79d9d"
+ ],
+ "tm-9153": [
+  "#704343",
+  "#167070"
+ ],
+ "tm-9165": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "tm-92878": [
+  "#f5f5f5",
+  "#00529f"
+ ],
+ "tm-94": [
+  "#704370",
+  "#f7ca16"
+ ],
+ "tm-9572": [
+  "#709d43",
+  "#169d43"
+ ],
+ "tm-9643": [
+  "#434370",
+  "#161643"
+ ],
+ "tm-972": [
+  "#439d43",
+  "#9dca9d"
+ ],
+ "tm-9793": [
+  "#70439d",
+  "#431670"
+ ],
+ "tm-9816": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "tm-9818": [
+  "#434370",
+  "#ca9d16"
+ ],
+ "tm-983": [
+  "#1961b5",
+  "#ffffff"
+ ],
+ "tm-9902": [
+  "#43709d",
+  "#164370"
+ ],
+ "tm-991": [
+  "#caca9d",
+  "#ca1616"
+ ],
+ "tm-99648": [
+  "#70709d",
+  "#164370"
+ ],
+ "tocantinopolis_to": [
+  "#439d70",
+  "#167043"
+ ],
+ "tochigicity_jap": [
+  "#434370",
+  "#161643"
+ ],
+ "tokushimavortis_jap": [
+  "#434370",
+  "#161643"
+ ],
+ "tokyoverdy_jap": [
+  "#9d9d70",
+  "#167043"
+ ],
+ "toluca_mex": [
+  "#434370",
+  "#ca1616"
+ ],
+ "tombense_mg": [
+  "#191919",
+  "#ffffff"
+ ],
+ "tondela_por": [
+  "#437043",
+  "#caca16"
+ ],
+ "torino_it": [
+  "#8b1e3f",
+  "#ffffff"
+ ],
+ "toronto_eua": [
+  "#434370",
+  "#f71643"
+ ],
+ "torrense_por": [
+  "#caca43",
+  "#ca1616"
+ ],
+ "tottenhamhotspur_ing": [
+  "#132257",
+  "#ffffff"
+ ],
+ "toulouse_fr": [
+  "#70709d",
+  "#431643"
+ ],
+ "trabzonspor_tur": [
+  "#709dca",
+  "#431616"
+ ],
+ "trefiori_smr": [
+  "#ca4370",
+  "#164370"
+ ],
+ "trem_ap": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "triglav_elv": [
+  "#ca7070",
+  "#9d1616"
+ ],
+ "tristansuarez_arg": [
+  "#434343",
+  "#ffffff"
+ ],
+ "tromso_nor": [
+  "#ca4343",
+  "#ca9d16"
+ ],
+ "trujillanos_ven": [
+  "#caca43",
+  "#431616"
+ ],
+ "tssrovers_can": [
+  "#ca7070",
+  "#9d1616"
+ ],
+ "tsvhartberg_aut": [
+  "#439dca",
+  "#16709d"
+ ],
+ "tunaluso_pa": [
+  "#439d70",
+  "#167043"
+ ],
+ "tuntumma_bra": [
+  "#709d9d",
+  "#164370"
+ ],
+ "turantovuz_aze": [
+  "#439dca",
+  "#16709d"
+ ],
+ "uberlandia_ec": [
+  "#70ca9d",
+  "#169d43"
+ ],
+ "udinese_it": [
+  "#9d7043",
+  "#ffffff"
+ ],
+ "ufa_rus": [
+  "#9dcaca",
+  "#431643"
+ ],
+ "ujpest_hun": [
+  "#9d9d70",
+  "#70439d"
+ ],
+ "ulsan_jap": [
+  "#43709d",
+  "#164370"
+ ],
+ "umraniyespor_tur": [
+  "#ca4343",
+  "#167016"
+ ],
+ "uniaorondonopolis_mt": [
+  "#ca4343",
+  "#ca9d9d"
+ ],
+ "uniaskierniewice_pol": [
+  "#43709d",
+  "#164370"
+ ],
+ "union_arg": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "unionberlin_ale": [
+  "#eb1923",
+  "#ffdd00"
+ ],
+ "unionlacalera_chi": [
+  "#9d9dca",
+  "#16169d"
+ ],
+ "unionmagdalena_col": [
+  "#434370",
+  "#f71616"
+ ],
+ "unionsanfelipe_chi": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "unionsg_bel": [
+  "#9d9d43",
+  "#16709d"
+ ],
+ "unirb_ba": [
+  "#709d9d",
+  "#ca1616"
+ ],
+ "unireaslobozia_rom": [
+  "#709dca",
+  "#16439d"
+ ],
+ "unitedcity_fil": [
+  "#ca9d43",
+  "#434316"
+ ],
+ "univcatolicaquito_equ": [
+  "#439dca",
+  "#16709d"
+ ],
+ "univcesarvallejo_per": [
+  "#ca4343",
+  "#161643"
+ ],
+ "univconcepcion_chi": [
+  "#9d9d43",
+  "#16439d"
+ ],
+ "universidadcatolica_chi": [
+  "#439dca",
+  "#167070"
+ ],
+ "universidadcentral_ven": [
+  "#9d4343",
+  "#f7ca16"
+ ],
+ "universidadchile_chi": [
+  "#9d9dca",
+  "#16439d"
+ ],
+ "universitario_per": [
+  "#9d4343",
+  "#ca9d9d"
+ ],
+ "universitariosucre_bol": [
+  "#9d9dca",
+  "#16169d"
+ ],
+ "universitariovinto_bol": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "univsanmartin_per": [
+  "#434370",
+  "#70709d"
+ ],
+ "upper_nze": [
+  "#439d43",
+  "#704316"
+ ],
+ "urena_ven": [
+  "#9d9d43",
+  "#164370"
+ ],
+ "urt_bra": [
+  "#434370",
+  "#f7ca43"
+ ],
+ "utc_per": [
+  "#9d7070",
+  "#701616"
+ ],
+ "vaduz_lie": [
+  "#ca4370",
+  "#ca1616"
+ ],
+ "vaduz_sui": [
+  "#ca4370",
+  "#ca1616"
+ ],
+ "valencia_esp": [
+  "#ee3524",
+  "#000000"
+ ],
+ "valerenga_nor": [
+  "#709dca",
+  "#16439d"
+ ],
+ "valmiera_let": [
+  "#437043",
+  "#164316"
+ ],
+ "valourfc_can": [
+  "#9d7043",
+  "#701616"
+ ],
+ "van_arm": [
+  "#43439d",
+  "#9d1616"
+ ],
+ "vancouver_can": [
+  "#43709d",
+  "#161670"
+ ],
+ "vanraurehachinohe_jap": [
+  "#43caca",
+  "#169d43"
+ ],
+ "vanspor_tur": [
+  "#439dca",
+  "#ca1616"
+ ],
+ "varazdin_cro": [
+  "#9dcaca",
+  "#16709d"
+ ],
+ "varbergsboIs_sue": [
+  "#caca9d",
+  "#169d43"
+ ],
+ "vasas_hun": [
+  "#caca9d",
+  "#9d9d70"
+ ],
+ "vasco": [
+  "#191919",
+  "#ffffff"
+ ],
+ "vegaltasendai_jap": [
+  "#43439d",
+  "#f74316"
+ ],
+ "velesmoscou_rus": [
+  "#9dcaca",
+  "#9d4370"
+ ],
+ "velezsarsfield_arg": [
+  "#43709d",
+  "#164370"
+ ],
+ "veloclube_sp": [
+  "#ca4343",
+  "#169d43"
+ ],
+ "vendsysselff_din": [
+  "#70709d",
+  "#161670"
+ ],
+ "venezia_it": [
+  "#709d9d",
+  "#167043"
+ ],
+ "ventforetkofu_jap": [
+  "#4370ca",
+  "#ca1643"
+ ],
+ "venus_tai": [
+  "#70709d",
+  "#161670"
+ ],
+ "veracruz_pe": [
+  "#ca7070",
+  "#ca1616"
+ ],
+ "verdes_blz": [
+  "#437043",
+  "#709d70"
+ ],
+ "viborgff_din": [
+  "#709d9d",
+  "#167070"
+ ],
+ "vihrensandanski_bul": [
+  "#70ca9d",
+  "#169d43"
+ ],
+ "viking_nor": [
+  "#caca70",
+  "#701616"
+ ],
+ "viktoria_rep": [
+  "#70ca43",
+  "#f71616"
+ ],
+ "villanovamg": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "villareal_esp": [
+  "#caca70",
+  "#164370"
+ ],
+ "vinotinto_equ": [
+  "#704343",
+  "#431616"
+ ],
+ "vipers_uga": [
+  "#434343",
+  "#f74316"
+ ],
+ "visselkobe_jap": [
+  "#9d4343",
+  "#ca9d9d"
+ ],
+ "vitoria": [
+  "#e30613",
+  "#191919"
+ ],
+ "vitoria_es": [
+  "#9d9dca",
+  "#161670"
+ ],
+ "vizela_por": [
+  "#43709d",
+  "#709dca"
+ ],
+ "vojvodina_srb": [
+  "#ca9d43",
+  "#f71616"
+ ],
+ "volos_gre": [
+  "#70709d",
+  "#ca1616"
+ ],
+ "vukovar_cro": [
+  "#ca9d70",
+  "#169df7"
+ ],
+ "vvarennagasaki_jap": [
+  "#709dca",
+  "#16439d"
+ ],
+ "västerassk_sue": [
+  "#439d70",
+  "#167043"
+ ],
+ "waalwijk_hol": [
+  "#caca43",
+  "#16709d"
+ ],
+ "waasland_bel": [
+  "#434370",
+  "#f7ca16"
+ ],
+ "wanaka_nze": [
+  "#caca9d",
+  "#9d9d70"
+ ],
+ "wanderers_uru": [
+  "#704343",
+  "#431616"
+ ],
+ "waterhouse_jam": [
+  "#439d9d",
+  "#f7ca16"
+ ],
+ "waterside_nze": [
+  "#ca9d9d",
+  "#701616"
+ ],
+ "wconnection_ttb": [
+  "#439d70",
+  "#70ca9d"
+ ],
+ "wellingtonolympic_nze": [
+  "#43709d",
+  "#164370"
+ ],
+ "werderbremen_ale": [
+  "#439d70",
+  "#70ca9d"
+ ],
+ "westbromwich_ing": [
+  "#434370",
+  "#161643"
+ ],
+ "westerloo_bel": [
+  "#ca9d43",
+  "#16709d"
+ ],
+ "western_nze": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "westernsprings_nze": [
+  "#43ca43",
+  "#9dca9d"
+ ],
+ "westham_eng": [
+  "#7a263a",
+  "#1bb1e7"
+ ],
+ "widzew_pol": [
+  "#707043",
+  "#ca1616"
+ ],
+ "wil_sui": [
+  "#709dca",
+  "#16439d"
+ ],
+ "willemii_hol": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "wislakrakow_pol": [
+  "#ca9d43",
+  "#ca1616"
+ ],
+ "wislaplock_pol": [
+  "#439dca",
+  "#9dcaf7"
+ ],
+ "wolfsbergerac_aut": [
+  "#439d70",
+  "#167043"
+ ],
+ "wolfsburg_ale": [
+  "#65b32e",
+  "#ffffff"
+ ],
+ "wolverhampton_ing": [
+  "#fdb913",
+  "#231f20"
+ ],
+ "wuhantt_chn": [
+  "#434370",
+  "#70709d"
+ ],
+ "wuxiwugo_chn": [
+  "#43439d",
+  "#7070ca"
+ ],
+ "yantra_bul": [
+  "#437043",
+  "#164316"
+ ],
+ "yaracuyanos_ven": [
+  "#43709d",
+  "#161643"
+ ],
+ "yenisey_rus": [
+  "#ca9d70",
+  "#16439d"
+ ],
+ "yokohamafc_jap": [
+  "#439dca",
+  "#164370"
+ ],
+ "yokohamamarinos_jap": [
+  "#434370",
+  "#ca9d70"
+ ],
+ "yonginfc_cor": [
+  "#709dca",
+  "#9d1643"
+ ],
+ "youngviolets_aut": [
+  "#434370",
+  "#70709d"
+ ],
+ "ypiranga_rs": [
+  "#439d70",
+  "#9dca16"
+ ],
+ "yunnan_chn": [
+  "#43709d",
+  "#f79d16"
+ ],
+ "yverdon_sui": [
+  "#439d70",
+  "#167043"
+ ],
+ "zagreb2_cro": [
+  "#9d9d70",
+  "#16439d"
+ ],
+ "zakynthos_gre": [
+  "#434370",
+  "#16169d"
+ ],
+ "zalaegerszeg_hun": [
+  "#709dca",
+  "#16709d"
+ ],
+ "zalgiris_lit": [
+  "#709d9d",
+  "#167070"
+ ],
+ "zamalek_egi": [
+  "#ca4343",
+  "#f79d9d"
+ ],
+ "zamamra_mar": [
+  "#43709d",
+  "#164370"
+ ],
+ "zamora_ven": [
+  "#439dca",
+  "#ca4316"
+ ],
+ "zbrojovkabrno_tch": [
+  "#43709d",
+  "#f71616"
+ ],
+ "zeta_mon": [
+  "#ca4343",
+  "#9d1616"
+ ],
+ "zhejiangtiteng_chn": [
+  "#ca9d70",
+  "#164316"
+ ],
+ "zilina_slk": [
+  "#709d43",
+  "#164343"
+ ],
+ "zlin_cze": [
+  "#434370",
+  "#f7ca16"
+ ],
+ "zrinjski_bos": [
+  "#43709d",
+  "#f74343"
+ ],
+ "zurich_sui": [
+  "#9d7043",
+  "#161643"
+ ]
+}
