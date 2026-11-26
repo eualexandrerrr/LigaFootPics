@@ -1156,8 +1156,8 @@
   "#ffffff"
  ],
  "botafogosp_bra": [
-  "#e51b23",
-  "#ffffff"
+  "#ca7070",
+  "#f74343"
  ],
  "botev_bul": [
   "#caca43",
@@ -5808,8 +5808,8 @@
   "#ca1616"
  ],
  "ogol-24586": [
-  "#32448b",
-  "#ffffff"
+  "#ca7043",
+  "#f7ca9d"
  ],
  "ogol-24591": [
   "#70709d",
@@ -10950,185 +10950,5 @@
  "zurich_sui": [
   "#9d7043",
   "#161643"
- ],
- "operario_pr": [
-  "#e30613",
-  "#000000"
- ],
- "sport": [
-  "#ff0000",
-  "#000000"
- ],
- "vilago": [
-  "#ff0000",
-  "#ffffff"
- ],
- "saobernardo_sp": [
-  "#ffff00",
-  "#000000"
- ],
- "cuiaba_bra": [
-  "#008040",
-  "#ffd700"
- ],
- "hullcity_ing": [
-  "#ff6600",
-  "#000000"
- ],
- "southampton_eng": [
-  "#d71920",
-  "#ffffff"
- ],
- "sheffieldunited_ing": [
-  "#ff0000",
-  "#000000"
- ],
- "swansea_ing": [
-  "#ffffff",
-  "#000000"
- ],
- "wrexham_ing": [
-  "#cc0000",
-  "#ffffff"
- ],
- "watford_ing": [
-  "#ffff00",
-  "#000000"
- ],
- "bristolcity_eng": [
-  "#990000",
-  "#ffffff"
- ],
- "derby_ing": [
-  "#ffffff",
-  "#000000"
- ],
- "charlton_eng": [
-  "#ff0000",
-  "#ffffff"
- ],
- "blackburn_ing": [
-  "#003366",
-  "#ffffff"
- ],
- "bolton_ing": [
-  "#000066",
-  "#ffffff"
- ],
- "almeria_esp": [
-  "#ff0000",
-  "#ffffff"
- ],
- "laspalmas_esp": [
-  "#ffff3c",
-  "#0080ff"
- ],
- "leganes_esp": [
-  "#0080ff",
-  "#ffffff"
- ],
- "valladolid_esp": [
-  "#800080",
-  "#ffffff"
- ],
- "granada_esp": [
-  "#c40000",
-  "#ffffff"
- ],
- "eibar_esp": [
-  "#00376f",
-  "#ffffff"
- ],
- "eldense_esp": [
-  "#000099",
-  "#ff0000"
- ],
- "sabadell_esp": [
-  "#0033cc",
-  "#ffffff"
- ],
- "ceuta_esp": [
-  "#000000",
-  "#ffffff"
- ],
- "milan_it": [
-  "#fb090b",
-  "#000000"
- ],
- "roma_it": [
-  "#8e1f2f",
-  "#f0bc42"
- ],
- "lazio_it": [
-  "#87d8f7",
-  "#ffffff"
- ],
- "monza_it": [
-  "#ff0000",
-  "#ffffff"
- ],
- "pisa_it": [
-  "#000000",
-  "#3399ff"
- ],
- "verona_it": [
-  "#000033",
-  "#ffff00"
- ],
- "cesena_it": [
-  "#000000",
-  "#ffffff"
- ],
- "padova_it": [
-  "#990000",
-  "#ffffff"
- ],
- "benevento_ita": [
-  "#ffcc00",
-  "#990000"
- ],
- "ascoli_ita": [
-  "#000000",
-  "#ffffff"
- ],
- "vicenza_ita": [
-  "#ff3333",
-  "#ffffff"
- ],
- "borussia_ale": [
-  "#fde100",
-  "#000000"
- ],
- "bayerleverkusen_ale": [
-  "#e32221",
-  "#000000"
- ],
- "sttutgart_ale": [
-  "#ffffff",
-  "#e32219"
- ],
- "fsvfrankfurt_ale": [
-  "#e30613",
-  "#000000"
- ],
- "augsburg_ale": [
-  "#990000",
-  "#ffffff"
- ],
- "ogol-900000564": [
-  "#c8102e",
-  "#f6c800"
- ],
- "ogol-900002196": [
-  "#1d3f8f",
-  "#ffffff"
- ],
- "ogol-900002951": [
-  "#0a8a3a",
-  "#f2e600"
- ],
- "ogol-900002953": [
-  "#e30613",
-  "#f6c800"
  ]
 }
